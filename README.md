@@ -1,28 +1,77 @@
 # ENEM Study
 
-Simulado interativo com as 50 questões do PDF `simulado_enem_50_questoes.pdf` (questões autorais, não oficiais do Inep). Correção automática, resolução comentada, revisão de erros e histórico salvo no navegador.
+Plataforma estática de simulados, feita em HTML, CSS e JavaScript puro, preparada para GitHub Pages.
 
-## Tecnologias
-HTML, CSS e JavaScript puro, sem build e sem dependências. Todos os caminhos são relativos, então funciona em subdiretórios do GitHub Pages (`https://usuario.github.io/repositorio/`).
+## Banco de questões
+
+O banco contém **233 questões**:
+- 50 questões autorais que já faziam parte do projeto;
+- 183 versões de questões extraídas dos cadernos oficiais do ENEM 2020 anexados: Linguagens (incluindo versões em inglês e espanhol das questões 1–5), Ciências Humanas, Ciências da Natureza e Matemática.
+- As questões anuladas 114 e 141 do segundo dia não entram no banco de simulados.
+- Os PDFs originais estão em `assets/originals/`. Nas questões oficiais, use o link **Abrir página original do caderno (PDF)** para conferir figuras, gráficos e formatação.
+
+**Limitações da extração:** os enunciados e alternativas foram extraídos automaticamente dos PDFs. Em questões com alternativas essencialmente visuais, o site indica que é necessário abrir a página original. A resolução comentada detalhada das questões oficiais ainda não foi cadastrada; o site informa isso claramente, em vez de inventar uma explicação. Antes de usar o banco como material final de estudo, revise os textos extraídos e complete as resoluções.
+
+## Como funciona a seleção dos simulados
+
+- O modo padrão gera um simulado aleatório com 50 questões.
+- É possível escolher 10, 20, 30, 50, 90, 120, 150, 180 ou todas as questões.
+- Cada novo simulado prioriza questões que não apareceram nas tentativas concluídas anteriormente.
+- Se restarem menos questões inéditas do que o tamanho escolhido, o sistema completa a sessão com questões já usadas, sem duplicar uma questão dentro do mesmo simulado.
+- Também há opções para fazer o banco inteiro, revisar erros, estudar questões ainda não acertadas e filtrar por área.
+- O embaralhamento das alternativas preserva o vínculo com a letra correta original.
+
+## Tecnologias e arquivos
+
+- `index.html`: estrutura da página.
+- `styles.css`: estilo responsivo e temas.
+- `app.js`: navegação, simulado, resultados e revisão.
+- `grading.js`: correção, embaralhamento e seleção de questões inéditas.
+- `questions.js`: banco editável de questões.
+- `assets/originals/`: PDFs originais usados como referência.
+- `test/`: testes automatizados.
+- `.github/workflows/deploy.yml`: testes e publicação automática no GitHub Pages.
+
+Não é necessário React, Vite, servidor próprio, banco de dados externo, chave de API ou dependência paga.
 
 ## Executar localmente
-Abra `index.html` no navegador ou rode `npx serve .` (ou `python3 -m http.server`) na pasta do projeto. Não há `npm install` nem compilação. Testes: `npm test` (Node 18+).
+
+Requer Node.js 18 ou superior para rodar os testes. Para abrir o site, pode abrir `index.html` no navegador. Para servir os arquivos localmente, na pasta do projeto execute:
+
+```bash
+npx serve .
+```
+
+Para rodar os testes:
+
+```bash
+node --test test/*.test.js
+```
 
 ## Publicar no GitHub Pages
-1. Crie um repositório vazio no GitHub (botão **New**), por exemplo `enem-study`.
-2. Na pasta do projeto: `git init && git add . && git commit -m "ENEM Study" && git branch -M main && git remote add origin https://github.com/SEU-USUARIO/enem-study.git && git push -u origin main`
-3. No repositório: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-4. Aba **Actions**: aguarde o workflow "Publicar no GitHub Pages" ficar verde. O endereço aparece nele e em Settings → Pages.
 
-## Uso
-- **Começar simulado**: escolha o modo (completo, só erros, ainda não acertadas, por área), embaralhar questões/alternativas e cronômetro.
-- Durante a prova nada é corrigido. O painel numerado leva a qualquer questão; ⚑ marca para revisão.
-- **Finalizar** mostra a confirmação (respondidas/em branco) e depois o resultado. **Ver respostas corretas** mostra sua resposta, a correta e a resolução.
-- **Revisar erros**: filtre erradas/em branco, clique em *Tentar novamente*, responda e *Conferir resposta*. Acertos na revisão são registrados sem alterar a tentativa original.
-- Os dados ficam no `localStorage` do navegador e do aparelho; não sincronizam sozinhos. Use **Exportar/Importar** para trocar de dispositivo.
+1. Crie um repositório no GitHub, por exemplo `enem-study`.
+2. Envie **todo o conteúdo desta pasta**, incluindo `assets/` e `.github/`, para a branch `main`.
+3. No repositório, abra **Settings → Pages**.
+4. Em **Build and deployment**, escolha **GitHub Actions** como fonte.
+5. A cada envio para `main`, o workflow executa os testes e publica o site. Também é possível iniciá-lo manualmente na aba **Actions**.
+6. O endereço público aparece em **Settings → Pages** depois que a publicação terminar.
 
-## Editar questões, gabarito e explicações
-Tudo está em `questions.js`. Cada questão tem `id`, `area`, `subject`, `statement`, `alternatives` (A–E), `correctAnswer`, `explanation` e `alternativeExplanations` (por letra original). Não cite letras de alternativas nas explicações: com alternativas embaralhadas as letras exibidas mudam. Rode `npm test` depois de editar.
+O workflow copia os arquivos do site e os PDFs originais para a pasta publicada, para que os links das páginas dos cadernos funcionem.
 
-## Conferência do gabarito
-Todas as respostas numéricas (questões 9–18, 30, 32, 36, 38, 40) foram recalculadas e as demais conferidas conceitualmente; nenhuma divergência com o gabarito do PDF foi encontrada.
+## Editar ou adicionar questões
+
+Edite `questions.js`. Cada objeto pode conter:
+- `id`: identificador único;
+- `area`, `subject` e `topic`;
+- `statement`;
+- `alternatives` com as chaves `A`, `B`, `C`, `D` e `E`;
+- `correctAnswer`;
+- `explanation` e `alternativeExplanations`;
+- `source`, `sourcePdf` e `sourcePage` para indicar uma fonte oficial e abrir a página original.
+
+Use IDs únicos e mantenha as alternativas na ordem A–E. Se embaralhar alternativas, as respostas continuam sendo corrigidas pelas letras originais. Após editar, rode os testes.
+
+## Salvamento e privacidade
+
+As respostas, tentativas e revisões são salvas no `localStorage` do navegador e dispositivo atual. Não existe sincronização automática entre aparelhos. Os dados podem ser exportados e importados em JSON pela tela inicial.

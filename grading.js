@@ -13,6 +13,16 @@
     const total = ids.length;
     return { total, correct, wrong, blank, percent: total ? Math.round(correct / total * 1000) / 10 : 0, areas, results };
   }
-  const api = { grade, shuffle };
+  // Prioriza questões ainda não vistas em tentativas concluídas. Só reutiliza
+  // questões anteriores quando o banco restante não é suficiente para o tamanho pedido.
+  function selectFresh(questions, seenIds, count) {
+    const seen = new Set((seenIds || []).map(Number));
+    const fresh = shuffle(questions.filter(q => !seen.has(Number(q.id))).map(q => q.id));
+    const used = new Set(fresh);
+    const repeated = shuffle(questions.filter(q => seen.has(Number(q.id)) && !used.has(q.id)).map(q => q.id));
+    const limit = Math.min(questions.length, Math.max(0, Number(count) || 0));
+    return fresh.concat(repeated).slice(0, limit);
+  }
+  const api = { grade, shuffle, selectFresh };
   if (typeof module !== 'undefined') module.exports = api; else root.Grading = api;
 })(typeof window !== 'undefined' ? window : globalThis);

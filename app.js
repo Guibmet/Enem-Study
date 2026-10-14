@@ -13,6 +13,7 @@ function elapsed(){return S.cur?(S.cur.acc||0)+(Date.now()-S.cur.t0):0}
 const fmt=ms=>{const s=Math.floor(ms/1000);return[Math.floor(s/3600),Math.floor(s/60)%60,s%60].map((n,i)=>i?String(n).padStart(2,'0'):n).join(':')};
 const last=()=>S.attempts[S.attempts.length-1];
 const wrongIds=a=>a?a.ids.filter(i=>a.results[i]!=='correct'):[];
+function freshIds(count){return G.selectFresh(Q,S.attempts.flatMap(a=>a.ids||[]),count)}
 function correctEver(){const s=new Set();S.attempts.forEach(a=>a.ids.forEach(i=>{if(a.results[i]==='correct')s.add(i)}));Object.keys(S.review).forEach(i=>{if(S.review[i].ok)s.add(+i)});return s}
 function start(ids,mode){
   if(!ids.length){warn='Não há questões para este modo ainda.';return go('home')}
@@ -33,27 +34,33 @@ function render(){
 }
 function home(){
   const a=last(),c=S.cur,w=wrongIds(a),pend=Q.length-correctEver().size,areaOpts=AREAS.map(x=>`<option>${esc(x)}</option>`).join('');
-  app.innerHTML=`<h1>Simulado do Enem</h1><p>Simulado com ${Q.length} questões de múltipla escolha no estilo ENEM, em ${AREAS.length} áreas do conhecimento. Responda, finalize e veja a correção comentada.</p>
+  const seen=new Set(S.attempts.flatMap(x=>x.ids||[])).size;
+  app.innerHTML=`<h1>ENEM Study</h1><p>Banco com ${Q.length} questões em ${AREAS.length} áreas: 50 questões autorais já existentes e ${Q.length-50} versões de questões do ENEM 2020 extraídas dos cadernos oficiais. Cada novo simulado prioriza questões que você ainda não viu.</p>
+  <p class="meta">Questões oficiais podem conter gráficos, imagens ou fórmulas que precisam ser consultados na página original do PDF. As resoluções comentadas das questões oficiais ainda precisam ser preenchidas.</p>
   ${warn?`<p class="card" role="alert">${esc(warn)}</p>`:''}${mem?'<p class="card" role="alert">O armazenamento local está indisponível: seu progresso não será salvo ao fechar a página.</p>':''}
   <div class="card"><div class="row">
    <button class="btn" id="b-new">Começar simulado</button>
    <button class="btn ghost" id="b-cont" ${c?'':'disabled'}>Continuar de onde parei${c?` (${Object.keys(c.answers).length}/${c.ids.length})`:''}</button>
    <button class="btn ghost" id="b-rev" ${w.length?'':'disabled'}>Revisar questões erradas</button></div>
    <h2>Opções da nova tentativa</h2>
-   <label>Modo: <select id="mode"><option value="all">Simulado completo (50)</option><option value="wrong">Só os erros da última tentativa (${w.length})</option><option value="pend">Ainda não acertadas (${pend})</option><option value="area">Por área do conhecimento</option></select></label>
-   <label id="areaw" hidden> <select id="area">${areaOpts}</select></label>
+   <label>Modo: <select id="mode"><option value="random">Simulado aleatório (50 questões novas)</option><option value="all">Banco completo (${Q.length} questões)</option><option value="wrong">Só os erros da última tentativa (${w.length})</option><option value="pend">Ainda não acertadas (${pend})</option><option value="area">Por área do conhecimento</option></select></label>
+   <label id="countw">Quantidade de questões: <select id="count"><option>10</option><option>20</option><option>30</option><option selected>50</option><option>90</option><option>120</option><option>150</option><option>180</option><option value="${Q.length}">Todas (${Q.length})</option></select></label>
+   <label id="areaw" hidden>Área: <select id="area">${areaOpts}</select></label>
    <div><label><input type="checkbox" id="sq" ${S.prefs.shuffleQ?'checked':''}> Embaralhar questões</label></div>
    <div><label><input type="checkbox" id="sa" ${S.prefs.shuffleA?'checked':''}> Embaralhar alternativas</label></div>
    <div><label><input type="checkbox" id="tm" ${S.prefs.timer?'checked':''}> Usar cronômetro</label></div>
-   <p class="meta">Desmarque os dois primeiros para manter a ordem original do PDF.</p></div>
+   <p class="meta">O sistema evita repetir questões de simulados anteriores enquanto houver questões inéditas suficientes. Depois que todo o banco for utilizado, as questões menos recentes voltam a poder aparecer. As alternativas são corrigidas pela letra original, mesmo quando embaralhadas.</p>
+   <p class="meta">Você já praticou ${seen} questões diferentes em tentativas concluídas.</p></div>
   ${a?`<div class="card"><h2>Última tentativa</h2><p>${a.correct} acertos, ${a.wrong} erros, ${a.blank} em branco: <b>${a.percent}%</b> (${new Date(a.date).toLocaleString('pt-BR')}). Total de tentativas: ${S.attempts.length}.</p><button class="btn ghost" id="b-last">Ver resultado</button></div>`:''}
   <div class="card"><h2>Dados</h2><p class="meta">Tudo é salvo no localStorage deste navegador e deste aparelho; não há sincronização automática. Use exportar/importar para levar o histórico a outro dispositivo.</p>
   <div class="row"><button class="btn ghost" id="b-exp">Exportar histórico (JSON)</button><label class="btn ghost">Importar<input type="file" id="b-imp" accept="application/json" class="sr"></label><button class="btn ghost" id="b-del">Apagar histórico</button></div></div>`;
   const pr=()=>{S.prefs={shuffleQ:$('#sq').checked,shuffleA:$('#sa').checked,timer:$('#tm').checked};save()};
   ['#sq','#sa','#tm'].forEach(s=>$(s).onchange=pr);
-  $('#mode').onchange=e=>$('#areaw').hidden=e.target.value!=='area';
+  const updateMode=()=>{const m=$('#mode').value;$('#areaw').hidden=m!=='area';$('#countw').hidden=m!=='random'};
+  $('#mode').onchange=updateMode;updateMode();
   $('#b-new').onclick=()=>{const m=$('#mode').value;pr();
     if(S.cur&&!confirm('Há um simulado em andamento. Descartá-lo e começar um novo?'))return;
+    if(m==='random'){start(freshIds(Number($('#count').value)),'random');return}
     const all=Q.map(q=>q.id);
     start(m==='all'?all:m==='wrong'?wrongIds(a):m==='pend'?all.filter(i=>!correctEver().has(i)):all.filter(i=>byId[i].area===$('#area').value),m)};
   $('#b-cont').onclick=()=>{S.cur.t0=Date.now();go('quiz')};
@@ -70,7 +77,8 @@ function quiz(){
   const id=c.ids[c.idx],q=byId[id],n=Object.keys(c.answers).length;
   const grid=c.ids.map((i,x)=>`<button data-i="${x}" class="${c.answers[i]?'done':''} ${c.flags[i]?'flag':''} ${x===c.idx?'cur':''}" aria-label="Questão ${x+1}${c.answers[i]?', respondida':', em branco'}${c.flags[i]?', marcada para revisão':''}">${x+1}</button>`).join('');
   app.innerHTML=`<p class="meta">Questão ${c.idx+1} de ${c.ids.length} · ${n} respondidas</p><div class="bar" aria-hidden="true"><i style="width:${n/c.ids.length*100}%"></i></div>
-  <div class="card"><p class="meta">${esc(q.area)} · ${esc(q.subject)} (questão ${q.id} do PDF)</p><h2 id="st">${esc(q.statement)}</h2>
+  <div class="card"><p class="meta">${esc(q.area)} · ${esc(q.subject)} ${q.source?`· ${esc(q.source)} · questão original ${q.sourceQuestion}${q.language?` (${q.language})`:``}`:`· Questão autoral`}</p><h2 id="st">${esc(q.statement)}</h2>
+  ${q.sourcePdf?`<p class="meta"><a href="${esc(q.sourcePdf)}#page=${q.sourcePage}" target="_blank" rel="noopener">Abrir página original do caderno (PDF)</a></p>`:''}
   <div role="radiogroup" aria-labelledby="st">${altsHtml(q,c.perm[id],c.answers[id],'play')}</div></div>
   <div class="row"><button class="btn ghost" id="prev" ${c.idx?'':'disabled'}>Anterior</button><button class="btn ghost" id="next" ${c.idx<c.ids.length-1?'':'disabled'}>Próxima</button>
   <button class="btn ghost" id="flag" aria-pressed="${!!c.flags[id]}">${c.flags[id]?'Desmarcar revisão':'Marcar para revisão'}</button><button class="btn" id="fin">Finalizar simulado</button></div>
@@ -94,9 +102,9 @@ function results(){
   <div class="stats"><div>Questões<br><b>${a.total}</b></div><div>Acertos<br><b>${a.correct}</b></div><div>Erros<br><b>${a.wrong}</b></div><div>Em branco<br><b>${a.blank}</b></div>${a.secs!=null?`<div>Tempo<br><b>${fmt(a.secs*1000)}</b></div>`:''}</div></div>
   <div class="card"><h2>Por área</h2>${ar}</div>
   <div class="card"><h2>Por assunto</h2><p class="meta">${Object.entries(sub).map(([k,v])=>`${esc(k)}: ${v[0]}/${v[1]}`).join(' · ')}</p></div>
-  <div class="row"><button class="btn" id="ans">Ver respostas corretas</button><button class="btn ghost" id="rev">Revisar respostas</button><button class="btn ghost" id="again">Refazer simulado completo</button><button class="btn ghost" id="redo" ${wrongIds(a).length?'':'disabled'}>Refazer somente as questões erradas</button><button class="btn ghost" id="hm">Voltar ao início</button></div>`;
+  <div class="row"><button class="btn" id="ans">Ver respostas corretas</button><button class="btn ghost" id="rev">Revisar respostas</button><button class="btn ghost" id="again">Novo simulado aleatório (50 questões)</button><button class="btn ghost" id="redo" ${wrongIds(a).length?'':'disabled'}>Refazer somente as questões erradas</button><button class="btn ghost" id="hm">Voltar ao início</button></div>`;
   $('#ans').onclick=()=>go('answers',att);$('#rev').onclick=()=>go('review');$('#hm').onclick=()=>go('home');
-  $('#again').onclick=()=>start(Q.map(q=>q.id),'all');$('#redo').onclick=()=>start(wrongIds(a),'wrong');
+  $('#again').onclick=()=>start(freshIds(50),'random');$('#redo').onclick=()=>start(wrongIds(a),'wrong');
 }
 function answers(){
   const a=S.attempts[att];if(!a)return go('home');

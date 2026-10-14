@@ -4,8 +4,9 @@ test('fluxo completo renderiza sem exceções',()=>{
   const els={};const mk=()=>({dataset:{},style:{},hidden:false,value:'all',checked:false,focus(){},click(){},querySelectorAll:()=>[],set innerHTML(v){this._h=v},get innerHTML(){return this._h||''},onclick:null,onchange:null,textContent:''});
   const el=s=>els[s]=els[s]||mk();
   const store={};const Q=require('../questions.js');
-  const ids=Q.map(q=>q.id),perm={};ids.forEach(i=>perm[i]='ABCDE'.split(''));
-  const answers={};ids.slice(0,40).forEach(i=>answers[i]=i%5===0?(Q[i-1].correctAnswer==='A'?'B':'A'):Q[i-1].correctAnswer);
+  const subset=Q.slice(0,50),byId=Object.fromEntries(Q.map(q=>[q.id,q]));
+  const ids=subset.map(q=>q.id),perm={};ids.forEach(i=>perm[i]='ABCDE'.split(''));
+  const answers={};ids.slice(0,40).forEach(i=>answers[i]=i%5===0?(byId[i].correctAnswer==='A'?'B':'A'):byId[i].correctAnswer);
   store['enemstudy.v1']=JSON.stringify({cur:{ids,perm,answers,flags:{3:true},idx:2,acc:5000,t0:Date.now(),mode:'all',timerOn:true},attempts:[],review:{}});
   global.window={scrollTo(){},QUESTIONS:Q,Grading:require('../grading.js')};global.matchMedia=()=>({matches:false});
   global.localStorage={getItem:k=>store[k]||null,setItem:(k,v)=>store[k]=v};
