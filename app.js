@@ -40,7 +40,7 @@ function home(){
   const countOpts=[10,20,30,50,90,120,150,180,200,240,300,350,400].filter(n=>n<UNIQUE_Q_COUNT).map(n=>`<option value="${n}" ${n===50?'selected':''}>${n}</option>`).join('')+`<option value="${UNIQUE_Q_COUNT}">Todas as inéditas (${UNIQUE_Q_COUNT})</option>`;
   const seen=new Set(S.attempts.flatMap(x=>x.ids||[])).size;
   app.innerHTML=`<h1>ENEM Study</h1><p>Banco com ${Q.length} entradas em ${AREAS.length} áreas: 50 questões autorais, 137 questões textuais do ENEM 2020 e 130 questões textuais do ENEM 2021. Há ${UNIQUE_Q_COUNT} questões de origem distintas, contando versões em inglês e espanhol como a mesma questão para evitar duplicatas no sorteio.</p>
-  <p class="meta">Foi aplicado um filtro heurístico às questões de 2020 e 2021 para retirar itens que aparentam depender de imagens, figuras, gráficos, tabelas, quadros, mapas, charges, tirinhas ou diagramas. O filtro pode não identificar todos os casos; as questões restantes ainda podem conter elementos visuais ou erros de OCR, então consulte o PDF original se houver dúvida. As resoluções comentadas das questões oficiais ainda precisam ser preenchidas.</p>
+  <p class="meta">Aqui é um ambiente exclusivamente focado para o ENEM.</p>
   ${warn?`<p class="card" role="alert">${esc(warn)}</p>`:''}${mem?'<p class="card" role="alert">O armazenamento local está indisponível: seu progresso não será salvo ao fechar a página.</p>':''}
   <div class="card"><div class="row">
    <button class="btn" id="b-new">Começar simulado</button>
