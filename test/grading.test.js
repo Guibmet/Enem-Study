@@ -78,3 +78,13 @@ test('se restarem menos inéditas que o tamanho solicitado, completa com questõ
   assert.equal(new Set(selected).size, 50);
   assert.equal(selected.filter(id => !seen.includes(id)).length, 5);
 });
+
+test('questões de 2021 estão transcritas e ligadas ao caderno original', () => {
+  const qs = Q.filter(q => q.source === 'ENEM 2021 oficial');
+  assert.equal(qs.length, 184);
+  for (const q of qs) {
+    assert.ok(!q.statement.includes('Abra a página original do caderno'), `placeholder ainda presente em ${q.id}`);
+    assert.ok(q.sourcePdf && q.sourcePage > 0, `PDF/página ausente em ${q.id}`);
+    assert.ok(q.ocrOptions === true || q.statement.includes('Alternativas transcritas acima'), `alternativas sem indicação em ${q.id}`);
+  }
+});

@@ -4,9 +4,9 @@ Plataforma estática de simulados, feita em HTML, CSS e JavaScript puro, prepara
 
 ## Banco de questões
 
-O banco contém **417 entradas**: 50 questões autorais, 183 questões extraídas do ENEM 2020 e 184 referências interativas ao ENEM 2021. Há **407 questões de origem distintas**, pois as versões em inglês e espanhol das questões 1–5 de cada ano são tratadas como variantes da mesma questão no sorteio. As questões anuladas 114 e 141 do ENEM 2020 não entram no banco; a questão 178 do segundo dia de 2021 também foi omitida por estar anulada no gabarito oficial.
+O banco contém **417 entradas**: 50 questões autorais, 183 questões extraídas do ENEM 2020 e 184 questões do ENEM 2021 transcritas por OCR. Há **407 questões de origem distintas**, pois as versões em inglês e espanhol das questões 1–5 de cada ano são tratadas como variantes da mesma questão no sorteio. As questões anuladas 114 e 141 do ENEM 2020 não entram no banco; a questão 178 do segundo dia de 2021 também foi omitida por estar anulada no gabarito oficial.
 
-Os PDFs originais e os gabaritos estão em `assets/originals/`. Para as questões de 2021, o site abre a página original do caderno em uma nova aba; o estudante lê o enunciado, as alternativas e eventuais figuras no PDF e seleciona a letra A–E no site. A correção utiliza o gabarito oficial anexado. Isso preserva a formatação original e evita que gráficos ou textos de apoio sejam perdidos na extração. As resoluções passo a passo das questões oficiais ainda não estão cadastradas.
+Os PDFs originais e os gabaritos estão em `assets/originals/`. As 184 entradas de 2021 foram transcritas a partir dos cadernos por OCR. Em 106 questões, as alternativas foram separadas nos botões; nas outras 78, o OCR não permitiu separar as cinco alternativas com confiança, então elas aparecem no enunciado transcrito e os botões indicam a ordem A–E. O site mantém um link para a página original de cada questão, e a correção utiliza o gabarito oficial anexado. Seis questões foram sinalizadas no próprio site porque o OCR não captou integralmente o enunciado; nelas, é necessário consultar o PDF. Revise também o PDF quando houver gráficos, imagens, fórmulas ou trechos pouco legíveis, pois OCR pode cometer erros. As resoluções passo a passo das questões oficiais ainda não estão cadastradas.
 
 O sorteio aleatório evita repetir uma questão já utilizada em tentativas concluídas enquanto houver questões de origem inéditas. Também evita selecionar duas vezes a mesma questão apenas por haver versões em inglês e espanhol.
 
@@ -25,7 +25,7 @@ O sorteio aleatório evita repetir uma questão já utilizada em tentativas conc
 - `styles.css`: estilo responsivo e temas.
 - `app.js`: navegação, simulado, resultados e revisão.
 - `grading.js`: correção, embaralhamento e seleção de questões inéditas.
-- `questions.js`: banco editável de questões e referências aos cadernos oficiais.
+- `questions.js`: banco editável de questões, transcrições OCR e referências aos cadernos oficiais.
 - `assets/originals/`: PDFs do ENEM 2020 usados no banco e PDFs do ENEM 2021 anexados para consulta.
 - `test/`: testes automatizados.
 - `.github/workflows/deploy.yml`: testes e publicação automática no GitHub Pages.

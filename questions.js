@@ -4916,13 +4916,13 @@ var QUESTIONS = [
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 01 do ENEM 2021 — 1º dia, opção inglês. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "We are now a nation obsessed with the cult of\ncelebrity. Celebrities have replaced the classic notion\nof the hero. But instead of being respected for talent,\ncourage or intelligence, it is money, style and image the\ndeciding factors in what commands respect. Image is\neverything. Their image is painstakingly constructed by a\nmultitude of different image consultants to carve out the\nmost profitable celebrity they can. Then society is right\nbehind them, believing in everything that celebrity believes\nin. Companies know that people will buy a product if a\ncelebrity has it too. Itis as ifthe person buying the product\nfeels that they now have some kind of connection with\nthe celebrity and that some of their perceived happiness\nwill now be passed onto the consumer. So to look at it\none way, the cult of celebrity is really nothing more than\na sophisticated marketing scheme. Celebrities though\ncannot be blamed for all negative aspects of society. In\nreality society is to blame. We are the people who seemed\nto have lost the ability to think for ourselves. | suppose\nit's easier to be told what to think, rather than challenging\nwhat we are told, The reason we are swamped by celebrity\nis because there is a demand for it\nO texto, que aborda questões referentes ao tema do culto\nà celebridade, tem o objetivo de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "destacar os méritos das celebridades,",
+      "B": "criticar o consumismo das celebridades.",
+      "C": "ressaltar a necessidade de reflexão dos fãs.",
+      "D": "culpar as celebridades pela obsessão dos fas.",
+      "E": "valorizar o marketing pessoal das celebridades."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -4931,20 +4931,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 2,
     "language": "Inglês",
-    "sourceQuestion": 1
+    "sourceQuestion": 1,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4002,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 01 do ENEM 2021 — 1º dia, opção espanhol. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Se reunieron en un volumen todas las entrevistas\ndadas por el poeta y dramaturgo Federico Garcia Lorca.\nLorca concedié 133 entrevistas; leyéndolas se sabrá\nqué estaba por detrás de la poética del escritor andaluz.\nSobre su obra declaró en una de elias: “No he sido nunca\npoeta de minoria. He tratado de poner en mis poemas\nlo de todos los tiempos, lo permanente, lo humano.\n‘Ami me ataca lo humano, es el elemento fundamental en\ntoda obra de arte”. Y en otra dijo: “Hoy no interesa más\nque una problemática: lo social. La obra que no siga esa\ndirección está condenada al fracaso, aunque sea muy\nbuena”. En su ultima entrevista, de junio de 1936, Lorca\nse muestra profético: \"Ni el poeta ni nadie tiene la clave y\nel secreto del mundo. Quiero ser bueno. Sé que la poesia\neleva y creo firmemente que si hay un más allá tendré la\nagradable sorpresa de encontrarme con él. Pero el dolor\ndel hombre y la injusticia constante que mana del mundo,\ny mi propio cuerpo y mi propio pensamiento, me evitan\ntrastadar mi casa a las estrellas’\nANE X Retro de pots como mus glans\" Open em with con.\n‘esto om dz 2017 (topo\nEsse trecho da resenha de um livro de entrevistas\nconcedidas por Federico Garcia Lorca tem por finalidade",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ressaltar a atração do entrevistado por questões místicas.",
+      "B": "divulgar a comoção das elites com as obras do entrevistado.",
+      "C": "salientar o compromisso do entrevistado com as questões sociais.",
+      "D": "mostrar a atualidade das obras poéticas e teatrais do entrevistado.",
+      "E": "criicarointeresse do entrevistado por particularidades da vida humana a LG-T' da Gadomo”"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -4953,20 +4956,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 4,
     "language": "Espanhol",
-    "sourceQuestion": 1
+    "sourceQuestion": 1,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4003,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 02 do ENEM 2021 — 1º dia, opção inglês. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "N2021\nch? =m\nThe British (serves 60 million)\nTake some Picts, Celts and Silures\nAnd let them settle,\nThen overrun them with Roman conquerors\nRemove the Romans after approximately 400 years\n‘Add lots of Norman French to some\n‘Angles, Saxons, Jutes and Vikings, then stir vigorously.\nEd\nSprinkle some fresh Indians, Malaysians, Bosnians,\nIraqis and Bangladeshis together with some\n‘Afghans, Spanish, Turkish, Kurdish, Japanese\nAnd Palestinians\nThen add to the metting pot.\nLeave the ingredients to simmer.\n{As they mix and blend allow their languages to flourish\nBinding them together with English.\nAllow time to be cool.\n‘Add some unity, understanding, and respect for the future,\nServe with justice\nAnd enjoy.\nNote: All the ingredients are equally important. Treating\none ingredient better than another will leave a bitter\nunpleasant taste.\nWarning: An unequal spread of justice will damage the\npeople and cause pain. Give justice and equality to all\nAo descrever o processo de formação da Inglaterra, o\nautor do poema recorre a caracteristicas de outro gênero\ntextual para evidenciar\nO ariqueza da mistura cultural\nO um legado de origem geográfica.\n@ umimpacto de natureza histórica.\n© um problema de estratificação social\n@ a questão da intolerância linguística.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -4975,20 +4981,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 2,
     "language": "Inglês",
-    "sourceQuestion": 2
+    "sourceQuestion": 2,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4004,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 02 do ENEM 2021 — 1º dia, opção espanhol. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Amuleto\nLo único cierto es que llegué a México en 1965 y me\nplanté en casa de León Felipe y en casa de Pedro Garfias\ny les dije aqui estoy para lo que gusten mandar. Y les\ndebi de caer simpática, porque antipática no soy, aunque\na veces soy pesada, pero antipática nunca. Y lo primero\nque hice fue coger una escoba y ponerme a barrer\nel suelo de sus casas y luego a limpiar las ventanas y\ncada vez que podia les pedia dinero y les hacia compra.\nY ellos me decian con ese tono espariol tan peculiar, esa\nmusiquila distinta que no los abandonó nunca, como si\nencircularan las zetas y las ces y como si dejaran a las\neses más huérfanas y libidinosas que nunca, Auxilio, me\ndecian, deja ya de trasegar por el piso, Auxilio, deja esos\npapeles tranquilos, mujer, que el polvo siempre se ha\navenido con la literatura.\nSOLANO, RA The novelas. arcos Creo de Lc, 203\nNo fragmento do romance, a uruguaia Auxilio narra\na experiência que viveu no México ao trabalhar\nvoluntariamente para dois escritores espanhóis. Com\nbase na relação com os escritores, ela reflete sobre a(s)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "variação linguistica do espanhol",
+      "B": "sujeira dos livros de literatura.",
+      "C": "distintas maneiras de acolher do mexicano.",
+      "D": "orientações sobre a limpeza das casas dos espanhóis.",
+      "E": "dificuldades de comunicação entre patrão e empregada"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -4997,20 +5006,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 4,
     "language": "Espanhol",
-    "sourceQuestion": 2
+    "sourceQuestion": 2,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4005,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 03 do ENEM 2021 — 1º dia, opção inglês. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Becoming\nBack in the ancestral homeland of Michelle Obama,\nblack women were rarely granted the honorific Miss or\nMs. but were addressed by their fist name, or simply as\n“gar of “auntie” or worse. This so openly demeaned them\nthat many black women, long ater they had left the South,\nrefused to answer if called by their fist name. A mother\nand father in 1970s Texas named their newborn “Miss” so\nthat white people would have no choice but to address their\ndaughter by that tile. Black women were meant for the field\nor the kitchen, or for use as they saw fit. They were, by\ndefinition, not ladies. The very idea of a black woman as\nfirst lady of the land, wel that would have been unthinkable.\nDepo enemies co As nde 2 (nd,\nA clica do lo de memórias de Michele Obama\nexeprimeira-dama dos EUA, aborda a história das relações\nhumanas na cidade natal da autora. Nesse contexto, o uso\ndo vocábulo “unthinkable” ressalta que\nO a ascensão social era improvável.\n(O amudança de nome era impensável.\na origem do indivíduo era irrelevante.\n© otrabalho feminino era inimaginável.\n@ o comportamento parental era irresponsável.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5019,20 +5031,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 3,
     "language": "Inglês",
-    "sourceQuestion": 3
+    "sourceQuestion": 3,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4006,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 03 do ENEM 2021 — 1º dia, opção espanhol. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Hoy, en cuestión de segundos uno es capaz de\nconocer la vida de un individuo o las actividades que lleva\na cabo sin necesidad de contacto personal; las RRSS\ntienen la poderosa virtud de convocar concentraciones\nde gentes con idearios comunes y generar movimientos\n‘como la Primavera Árabe, por ejemplo.\nBajo ese parámetro, cualquier incidente puede ser\ninmediatamente reportado por grabación o filmacién, por\nlo que a los aparatos celulares, más allé de su utidad en\ntérminos de conversacién, habria que calificarios como “la\nguilotina del siglo xx.\nAsí es. Son éstos los que han pasado a convertrse en\nartefactos con cuyo uso se han develado conversaciones,\nacuerdos, negociados, chantajes y un sin fin de hechos\nque han dado curso a procesos de naturaleza legal e\ninvestigativa que han tumbado gobiemos, empresas,\nempresarios, políticos y que, incluso, ha servido en un caso\nreciente, para que un inocente recupere su libertad tras\ncuatro afios de injusto enciero.\nO texto trata da evolução inerente às funcionalidades de\nrecursos tecnológicos. A expressão \"Ia guilotina del siglo\nXXI\" destaca que os celulares de hoje podem",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "oferecer recursos com funções múltiplas.",
+      "B": "reunir usuários com ideias semelhantes,",
+      "C": "divulgar informação instantânea.",
+      "D": "organizar movimentos sociais,",
+      "E": "assumir utilidade jurídica."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5041,20 +5056,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 5,
     "language": "Espanhol",
-    "sourceQuestion": 3
+    "sourceQuestion": 3,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4007,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 04 do ENEM 2021 — 1º dia, opção inglês. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nA presença de “at odds with” na fala da personagem do\ncartum revela o(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "necessidade de acessar informações confiáveis.",
+      "B": "dificuldade de conciliar diferentes anseios.",
+      "C": "desejo de dominar novas tecnologias.",
+      "D": "desafio de permanecer imparcial",
+      "E": "vontade de ler noticias positivas."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5063,20 +5081,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 3,
     "language": "Inglês",
-    "sourceQuestion": 4
+    "sourceQuestion": 4,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4008,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 04 do ENEM 2021 — 1º dia, opção espanhol. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "En el suelo, apoyado en el mostrador, se acurrucaba,\ninmóvil como una cosa, un hombre muy viejo. Los\nmuchos aos lo habian reducido y pulido como las aguas\na una piedra 0 las generaciones de los hombres a una\nsentencia. Era oscuro, chico y reseco, y estaba como\nfuera del tiempo, en una eternidad.\nNo âmbito literário, são mobilizados diferentes recursos\nque visam à expressividade. No texto, a analogia\nestabelecida pela expressão “como las aguas a una\npledra! tem a função de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "enfatizar a ação do tempo sobre a personagem.",
+      "B": "descrever a objetificação do ambiente.",
+      "C": "expor a anacronia da personagem.",
+      "D": "caracterizar o espaço do conto.",
+      "E": "narrar a perenidade da velhice."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5085,20 +5106,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 5,
     "language": "Espanhol",
-    "sourceQuestion": 4
+    "sourceQuestion": 4,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4009,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 05 do ENEM 2021 — 1º dia, opção inglês. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Exterior: Between The Museums — Day\nCELINE\n‘Americans always think Europe is perfect. But such\nbeauty and history can be really oppressive. Itreduces the\nindividual to nothing. it just reminds you all the time you\nare just a little speck in a long history, where in America\nyou feel ike you could be making history. That's why | like\nLos Angeles because itis so.\nJESSE\nUgly?\nCELINE\nNo, | was going to say “neutral”. Its like looking at a\nblank canvas. | think people go to places like Venice on\ntheir honeymoon to make sure they are not going to fight\nfor the first two weeks of their marriage because they'll be\ntoo busy looking around at all the beautiful things. That's\nwhat people call a romantic place — somewhere where\nthe prettiness will contain your primary violent instinct,\nAreal good honeymoon spot would be like somewhere in\nNew Jersey.\nConsiderando-se o olhar dos personagens, esse trecho\ndo roteiro de um filme permite reconhecer que a avaliação\nsobre um lugar depende do(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "beleza do próprio local.",
+      "B": "perspectiva do visitante.",
+      "C": "contexto histórico do local",
+      "D": "tempo de permanência no local.",
+      "E": "finalidade da viagem do visitante."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5107,20 +5131,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 3,
     "language": "Inglês",
-    "sourceQuestion": 5
+    "sourceQuestion": 5,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4010,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 05 do ENEM 2021 — 1º dia, opção espanhol. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "{Por Dios!\n. UE LE HA\nE gen id :\niam, A MUNDO\nsna,\n“tur! NOSOTROS.\nee a\nCex 2 Ra V4\nqeifo QN 4\nfA ¢\nA charge evoca uma siluação de assombro frente a uma\nrealidade que assola as sociedades contemporâneas.\nSeu efeito humorístico reside na critica diante do(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "constatação do ser humano como o responsável pela condição caótica do mundo.",
+      "B": "apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
+      "C": "indignação dos trabalhadores em face das injustiças sociais",
+      "D": "veiculação de informações trágicas pelos telejornais.",
+      "E": "manipulação das notícias difundidas pelas mídias."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5129,20 +5156,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 5,
     "language": "Espanhol",
-    "sourceQuestion": 5
+    "sourceQuestion": 5,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4011,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 06 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um asteroide de cerca de um mil metros de diâmetro,\nviajando a 288 mil quilômetros por hora, passou a uma\ndistância insignificante — em termos cósmicos — da\nTerra, pouco mais do dobro da distância que nos separa\nda Lua. Segundo os cálculos matemáticos, o asteroide\ncruzou a órbita da Terra e somente não colidiu porque\nela não estava naquele ponto de interseção. Se ele\ntivesse sido capturado pelo campo gravitacional do nosso\nplaneta e colidido, o impacto equivaleria a 40 bilhões\nde toneladas de TNT, ou o equivalente à explosão de\n40 mil bombas de hidrogênio, conforme calcularam os\ncomputadores operados pelos astrônomos do programa\nde Exploração do Sistema Solar da Nasa; se caisse no\ncontinente, abriria uma cratera de cinco quilômetros, no\nminimo, e destruiria tudo o que houvesse num raio de\nmilhares de outros; se desabasse no oceano, provocaria\nmaremotos que devastariam imensas regiões costeiras.\nEnfim, uma visão do Apocalipse.\nQual estratégia caracteriza O texto como uma noticia\nalarmante?\n(9 A descrição da velocidade do asteroide.\n© Arecorrência de formulações hipotética.\nA referência à opinião dos astrônomos.\n© Autiização da locução adverbial “no mínimo”.\n@ Acomparação com a distância da Lua à Terra.\né LG-T' da Gadomo”\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5151,20 +5181,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 6,
     "language": null,
-    "sourceQuestion": 6
+    "sourceQuestion": 6,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4012,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 07 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Adraga\nA gente não sabia se aquela draga tinha nascido ali, no\nPorto, como um pé de árvore ou uma duna.\n— E que fosse uma casa de peixes?\nMeia dúzia de loucos e bêbados moravam dentro dela,\nenraizados em suas ferragens.\nDos viventes da draga era um o meu amigo Mário-pega-\nsapo.\ntd\nQuando Mário morreu, um literato oficial, em necrológio\ncaprichado, chamou-o de Mario-Captura-Sapo! Ai que dor!\nAo literato cujo fazia-lhe nojo a forma coloquial.\nQueria captura em vez de pega para não macular (sic) a\nlingua nacional lá dele.\n3\nDa velha draga\nAbrigo de vagabundos e de bêbados, restaram as\nexpressões: estar na draga, viver na draga por estar sem\ndinheiro, viver na miséria\nQue ora ofereço ao filólogo Aurélio Buarque de Hollanda\nPara que as registre em seus léxicos\nPois que o povo já as registrou.\nAo criticar o preciosismo linguístico do literato e ao sugerir\na dicionarização de expressões locais, o poeta expressa\numa concepção de lingua que",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "contrapõe caracteristicas da escrita e da fala.",
+      "B": "ironiza a comunicação fora da norma-padrao.",
+      "C": "substitui regionalismos por registros formais.",
+      "D": "valoriza o uso de variedades populares.",
+      "E": "defende novas regras gramaticais."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5173,20 +5206,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 6,
     "language": null,
-    "sourceQuestion": 7
+    "sourceQuestion": 7,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4013,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 08 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O documentário O menino que fez um museu,\ndireção de Sérgio Utsch, produção independente de\nbrasileiros e britânicos, gravado no Nordeste em 2016,\nmais precisamente no distrito Dom Quintino, zona rural\ndo Grato, foi premiado em Londres, pela Foreign Press\nAssociation (FPA), a associação de correspondentes\nestrangeiros mais antiga do mundo, fundada em 1888\nDe acordo com o diretor, O menino que fez um museu\nfoi o único trabalho produzido por equipes fora do eixo\nEstados Unidos-Europa entre os finalistas. O documentário\nconta a história de um Brasil profundo, desconhecido\n‘até mesmo por muitos brasileiros. É apresentado com o\ncarisma de Pedro Lucas Feitosa, 11 anos\nQuando tinha 10 anos, Pedro Lucas criou o Museu\nde Luiz Gonzaga, que fica no distrito de Dom Quintino.\nA ideia surgiu após uma visita que o garoto fez, em\n2013, quando tinha 8 anos, ao Museu do Gonzagão,\nem Exu, Pernambuco. Pedro decidiu criar o próprio\nlugar de exposição para homenagear o rei e 0 local\nescolhido foi a casa da sua bisavó já falecida, que fica\nao lado da casa dele, na rua Alto de Antena.\nNo segundo parágrafo, uma citação afirma que o\ndocumentário \"foi o único trabalho produzido por equipes\nfora do eixo Estados Unidos-Europa entre os finalistas”\nNo texto, esse recurso expressa uma estratégia\nargumentativa que reforça a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "originalidade da iniciativa de homenagem à vida e à obra de Luiz Gonzaga.",
+      "B": "falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.",
+      "C": "proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.",
+      "D": "escassez de investimentos para a produção cinematográfica independente no pais.",
+      "E": "importância da parceria entre brasileiros e britânicos para a realização das fimagens."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5195,20 +5231,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 7,
     "language": null,
-    "sourceQuestion": 8
+    "sourceQuestion": 8,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4014,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 09 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A volta do marido pródigo\n— Bom dia, seu Martinha! Como passou de ontem?\n— Bem. Já sabe, não é? Só ganha meio dia. [..]\nLá além, Generoso cotuca Tercino:\n— [..] Vai em festa, dorme que-horas, e, quando\nchega, ainda é todo enfeitado e salamistrão!\n— Que é que hei de fazer, seu Martinha... Amanheci\ncom uma nevralgia... Fiquei com cisma de apanhar\nfriagem.\n— Hum.\n— Mas o senhor vai ver como eu toco o meu serviço\ne ainda faço este povo trabalhar.\nLJ\nPintão suou para desprender um pedrouço, e teve de\npular para trás, para que a laje lhe não esmagasse um\npé. Pragueja:\n— Quem não tem brio engorda!\n— É... Esse sujeito só 6 Isso, é mais isso... — opina\nSidu.\n— Também, tudo pra ele sai bom, e no fim dá certo.\n— diz Correia, suspirando e retomando o enxadão. —\n“Pra uns, as vacas morrem ... p'ra outros até boi pega\naparir..”.\n‘Seu Marra já concordou\n— Está bem, seu Laio, por hoje, como foi por doença,\neu aponto o dia todo. Que é a iltima vez... E agora, deixa\nde conversa fiada e vai pegando a ferramenta!\nEsse texto tem importância singular como patrimônio\nlinguístico para a preservação da cultura nacional devido",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "à menção a enfermidades que indicam falta de cuidado pessoal",
+      "B": "referência a profissões já extintas que caracterizam a vida no campo.",
+      "C": "aos nomes de personagens que acentuam aspectos de sua personalidade.",
+      "D": "a0 emprego de ditados populares que resgatam memórias e saberes coletivos.",
+      "E": "às descrições de costumes regionais que desmistificam crenças e superstições."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5217,20 +5256,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 7,
     "language": null,
-    "sourceQuestion": 9
+    "sourceQuestion": 9,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4015,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 10 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Intenso e original, Son of Saul retrata horror\ndo holocausto\nCentenas de filmes sobre o holocausto já foram\nproduzidos em diversos países do mundo, mas nenhum\né tão intenso como o húngaro Son of Saul, do estreante\n‘em longa-metragens Laszlo Nemes, vencedor do Grande\nPrêmio do Júri no úlimo Festival de Cannes.\nAo contrário da grande maioria das produções\ndo gênero, que costuma oferecer uma variedade de\ninformações didáticas e não raro cruza diferentes pontos\nde vista sobre o horror do campo de concentração, o fime\nacompanha apenas um personagem.\nEle é Saul (Géza Rohrig), um dos encarregados de\nconduzir as execuções de judeus como ele que, por um\ndia e meio, luta obsessivamente para que um menino\njá morto — que pode ou não ser seu filho — tenha um\nenterro digno e não seja simplesmente incinerado.\nO acompanhamento da jornada desse prisioneiro é\nno sentido mais literal que o cinema pode proporcionar\na câmera está o tempo todo com o personagem, seja por\nsobre seus ombros, seja com um close em primeiro plano\nou em sua visão subjetiva. O que se passa ao seu redor\né secundário, muitas vezes desfocado.\nSaul percorre diferentes divisões de Auschwitz à\nprocura de um rabino que possa conduzir o enterro da\ncriança, e por isso pouco se envolve nos planos de fuga\nque os companheiros tramam e, quando o faz, geralmente\natrapalha. “Você abandonou os vivos para cuidar de um\nmorto”, acusa um deles.\nVer toda essa via crucis é por vezes duro e exige\ncerta entrega do espectador, mas certamente é daquelas\nexperiências cinematográficas que permanecem na\ncabeça por muito tempo.\nO longa já está sendo apontado como o grande\nfavorito ao Oscar de filme estrangeiro. Se levar a estatueta,\ncertamente não faltará quem diga que a Academia tem\numa preferência por quem aborda a 2º Guerra. Por mais\nque exista uma dose de verdade na afirmação, premiar\numa abordagem tão ousada e radical como Son of Saul\nnão deixaria de ser um passo à frente dos votantes.\nA resenha é, normalmente, um texto de base\nargumentativa. Na resenha do filme Son of Saul, o trecho\nda sequência argumentativa que se constitui como\nopinião implícita é",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "“.] do estreante em longa-metragens Lászió Nemes, vencedor do Grande Prêmio do Júri no úlimo Festival de Cannes”",
+      "B": "“Ele é Saul (Géza Rohrig), um dos encarregados de conduzir as execuções de judeus [...]",
+      "C": "“[..Ja câmera está o tempo todo com o personagem, seja por sobre seus ombros, seja com um close |...\"",
+      "D": "“Saul percorre diferentes divisões de Auschwitz à procura de um rabino que possa conduzir o enterro da criança [...]",
+      "E": "“L..] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes”."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5239,20 +5281,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 8,
     "language": null,
-    "sourceQuestion": 10
+    "sourceQuestion": 10,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4016,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 11 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Sinhá\nSe a dona se banhou\nEu não estava lá\nPor Deus Nosso Senhor\nEu não olhei Sinhá\nEstava lá na roça.\nSou de olhar ninguém\nNão tenho mais cobiça\nNem enxergo bem\nPara que me pôr no tronco\nPara que me aleijar\nEu juro a vosmecê\nQue nunca vi Sinha\nFor que har meu corpo\nEu não olhei Sinhá\nPara que que vosmincê\nMeus olhos vai furar\nEu choro em ioruba\nMas oro por Jesus\nPara que que vassuncê\nMe tira a luz.\nCoco BUARQUE; NÃO BOSCO, Rode dns Bacon, 201 agers)\nNo fragmento da letra da canção, o vocabulário empregado\ne a situação retratada são relevantes para o patrimônio\nlinguístico e identitário do pais, na medida em que",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "remetem à violência fisica e simbólica contra os povos escravizados.",
+      "B": "valorizam as influências da cultura africana sobre a música nacional",
+      "C": "relativizam o sincretismo constitutivo das práticas religiosas brasileiras.",
+      "D": "narram os infortúnios da relação amorosa entre membros de classes sociais diferentes.",
+      "E": "problematizam as diferentes visões de mundo na sociedade durante o periodo colonial."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5261,20 +5306,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 8,
     "language": null,
-    "sourceQuestion": 11
+    "sourceQuestion": 11,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4017,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 12 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "ESSE PET É É\nDESCARTÁVEL.\nESSE NÃO.\n; 2)\nBe asain,\na E CRIME.\ne do cão configura recurso expressivo que busca",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "estimular denúncias de maus-tratos contra animais.",
+      "B": "desvincular o conceito de descarte da ideia de",
+      "C": "incentivar campanhas de adoção de animais em",
+      "D": "sensibilizar o público em relação ao abandono de",
+      "E": "alertar a população sobre as sanções legais acerca"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5283,20 +5331,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 12
+    "sourceQuestion": 12,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4018,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 13 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "12021 MM EP\nNessa tirinha, produzida na década de 1970, os recursos\nverbais e não verbais sinalizam a finalidade de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "reforçar a luta por direitos civis.",
+      "B": "explicitar a autonomia feminina.",
+      "C": "ironizar as condições de igualdade.",
+      "D": "estimular a abdicação da vida social.",
+      "E": "criticar as obrigações da maternidade."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5305,20 +5356,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 13
+    "sourceQuestion": 13,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4019,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 14 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A crise dos refugiados imortalizada para sempre no\nfundo do mar\n+\nq a\nTAYLOR, JC A balsa de Lampedusa Instalação\nMuseu Alântico, Lanzarote, Canárias, 2016 (dtalhe)\nA balsa de Lampedusa, nome da obra do artista\nbritânico Jason de Caires Taylor, é uma das instalações\ncriadas por ele para compor 0 acervo do primeiro museu\nsubmarino da Europa, o Museu Atântico, localizado em\nLanzarote, uma das ilhas do arquipélago das Canárias.\nLampedusa é o nome da ilha italiana onde a grande\nmaioria dos refugiados que saem da África ou de paises\ncomo Síria, Libano e Iraque tenta chegar para conseguir\nasilo no continente europeu.\nAs esculturas do Museu Atlântico ficam a 14 metros\nde profundidade nas águas cristalinas de Lanzarote.\nNa balsa, estão dez pessoas. Todas têm no rosto a\nexpressão do abandono. Entre elas, há algumas crianças.\nUma delas, uma menina debrugada sobre a beira do bote,\nolha sem esperança o horizonte. A imagem é tão forte que\ndispensa qualquer palavra. Exatamente o papel da arte\nAlém de apresentar ao público a obra A balsa de\nLampedusa, essa reportagem cumpre, paralelamente, a\nfunção de chamar a atenção para",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "a ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
+      "B": "as muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.",
+      "C": "a inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.",
+      "D": "aconstrução do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.",
+      "E": "a arte como perpetuadora de episódios marcantes da humanidade que têm de ser relembrados para que não tomem a acontecer."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5327,20 +5381,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 14
+    "sourceQuestion": 14,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4020,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 15 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO 1\nCorreu à sala dos retratos, abriu o piano, sentou-se é\nespalmou as mãos no teclado. Começou a tocar alguma\ncoisa própria, uma inspiração real e pronta, uma polca,\numa polca buliçosa, como dizem os anúncios. Nenhuma\nrepulsa da parte do compositor, os dedos lam arrancando\nas notas, ligando-as, meneando-as; dir-se-a que a musa\ncompunha e bailava à um tempo. [..] Compunha só,\nteclando ou escrevendo, sem os vãos esforços da véspera,\nsem exasperação, sem nada pedir ao céu, sem interrogar\nos olhos de Mozart. Nenhum tédio. Vida, graça, novidade,\nescorriam-lhe da alma como de uma fonte perene.\nTEXTO I\nUm homem célebre expõe o suplício do músico\npopular que busca atingir a sublimidade da obra-prima\nclássica, e com ela a galeria dos imortais, mas que é traído\npor uma disposição interior incontrolável que o empurra\nimplacavelmente na direção oposta. Pestana, célebre nos\nsaraus, salões, bailes e ruas do Rio de Janeiro por suas\ncomposições iresistivelmente dançantes, esconde-se\ndos rumores à sua volta num quarto povoado de icones\nda grande música europeia, mergulha nas sonatas do\nclassicismo vienense, prepara-se para o supremo salto\ncriativo e, quando dá por si, é o autor de mais uma\ninelutavel e saltitante polca.\nO conto de Machado de Assis faz uma referência\nvelada ao maxixe, gênero musical inicialmente\nassociado à escravidão e à mestiçagem. No Texto Il, o\nconfio do personagem em compor obras do gênero é\nrepresentativo da\nO pouca complexidade musical das composições\najustadas ao gosto do grande público.\nO prevalência de referências musicais africanas no\nimaginário da população brasileira.\nincipiente atribuição de prestígio social a músicas\ninstrumentais feitas para a dança.\nO tensa relação entre o enudito e o popular na\nconstituição da música brasileira.\n@ importância atribuida à música clássica na sociedade\nbrasileira do século XIX\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5349,20 +5406,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 10,
     "language": null,
-    "sourceQuestion": 15
+    "sourceQuestion": 15,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4021,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 16 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Devagar, devagarinho\nDesacelerar é preciso. Acelerar não é preciso.\nAfobados e voltados para o próprio umbigo, operamos,\nautomatizados, falas robóticas e silêncios glaciais. llustra\nbem esse estado de espírito a música Sinal fechado\n(1969), de Paulinho da Viola. Trata-se da história de\ndois sujeitos que se encontram inesperadamente em\num sinal de trânsito. A conversa entre ambos, porém,\nse deu rápida e rasteira. Logo, os personagens se\ndespedem, com a promessa de se verem em outra\noportunidade. Percebe-se um registro de comunicação\nvazia é superficial, cuja tônica foi o contato ligeiro e\nsuperficial construido pelos interlocutores: “Olá, como\nvai? / Eu vou indo, e você, tudo bem? / Tudo bem,\neu vou indo correndo, / pegar meu lugar no futuro.\nE você? / Tudo bem, eu vou indo em busca de um sono /\ntranquilo, quem sabe? / Quanto tempo... / Pois é, quanto\ntempo... / Me perdoe a pressa / é a alma dos nossos\nnegócios... / Oh! Não tem de qué. / Eu também só ando\nacem\nO culto à velocidade, no contexto apresentado, se\ncoloca como fruto de um imediatismo processual que\ncelebra o alcance dos fins sem dimensionar a qualidade\ndos meios necessários para atingir determinado\npropósito. Tal conjuntura favorece a lei do menor esforço\n— a comodidade — e prejudica a lei do maior esforço\n— a dignidade.\nComo modelo altemativo à cultura fast, temos o\nmovimento slow life, cujo propósito, resumidamente, é\nconscientizar as pessoas de que a pressa é inimiga da\nperfeição e do prazer, buscando assim reeducar seus\nsentidos para desfrutar melhor os sabores da vida.\nSANA MEL Bolt UG 1769 st 201 (old)\nNesse artigo de opinião, a apresentação da letra da\ncanção Sinal fechado é uma estratégia argumentativa\nque visa sensibilizar o leitor porque\n© adverte sobre os riscos que o ritmo acelerado da vida\noferece\n© exemplifica o fato criticado no texto com uma situação\nconcreta.\nO contrapõe situações de aceleração e de serenidade\nna vida das pessoas.\n© questiona o clichê sobre a rapidez e a aceleração da\nvida moderna.\n@ apresenta soluções para a cultura da correria que as\npessoas vivenciam hoje\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5371,20 +5431,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 10,
     "language": null,
-    "sourceQuestion": 16
+    "sourceQuestion": 16,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4022,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 17 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A história do futebol brasileiro contém, ao longo\nde um século, registros de episódios racistas. Eis o\nparadoxo: se, de um lado, a atividade futebolística\nera depreciada aos olhos da “boa sociedade” como\nprofissão destinada aos pobres, negros e marginais,\nde outro, achava-se investida do poder de representar\ne projetar anação em escala mundial. ACopa do Mundo\nno Brasil, em 1950, viria a se constituir, nesse sentido,\nem uma rara oportunidade. Contudo, na decisão contra\no Uruguai sobreveio o inesperado revés. As crônicas\nesportivas elegiam o goleiro Barbosa e o defensor\nBigode como bodes expiatórios, “descarregando\nnas costas” dos jogadores os “prejuizos” da derrota\nUma chibata moral, eis a sentença proferida no tribunal\ndos brancos. Nos anos 1970, por não atender às\nexpectativas normativas suscitadas pelo estereótipo\ndo “bom negro\", Paulo César Lima foi classificado\ncomo “jogador-problema”. Ele esboçava a revolta da\nchibata no futebol brasileiro. Enquanto Barbosa e\nBigode, sem alternativa, suportaram o linchemento\nmoral na derrota de 1950, Paulo César contra-atacava\nos que pretendiam condená-to pelo insucesso de 1974.\nO jogador assumia as cores e as causas defendidas\npela esquadra dos pretos em todas as esferas da\nvida social. “Sinto na pele esse racismo subjacente”,\nrevelou à imprensa francesa: “Isto é, ninguém ousa\npronunciar a palavra 'racismo'. Mas posso garantir\nque ele existe, mesmo na Seleção Brasileira\nSua ousadia consistiu em pronunciar a palavra\ninterdita no espaço simbólico do discurso oficial para\nreafirmar o mito da democracia racial\nO texto atribui o enfraquecimento do mito da democracia\nracial no futebol à\nO responsabilzação de jogadores negros pela derrota\nna final da Copa de 1950.\n© projeção mundial da nação por um esporte antes\ndestinado aos pobres.\nO depreciação de um esporte associado à\nmarginalidade.\n© interdição da palavra “racismo” no contexto esportivo.\n@ atitude contestadora de um “jogador-problema’.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5393,20 +5456,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 17
+    "sourceQuestion": 17,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4023,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 18 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Pe. a a\na _ i >\nERES pa etre sens ier\nae nies\nPA indi ss mallee\nNessa obra, que retrata uma cena de Caramuru, célebre\npoema épico brasileiro, a filiação à estética romântica",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "exaltação do retrato fiel da beleza feminina.",
+      "B": "tematização da fragilidade humana diante da morte.",
+      "C": "ressignificação de obras do cânone literário nacional",
+      "D": "representação dramática e idealizada do corpo da india.",
+      "E": "oposição entre a condição humana e a natureza wee"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5415,20 +5481,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 18
+    "sourceQuestion": 18,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4024,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 19 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Coincidindo com o Dia Internacional dos Direitos\nda Infância, foram apresentados diversos trabalhos que\nrar Cla e\nee ae ee qe te cme\nnce Olt cae ween neces\nSate nina dacs manos erp pára bica corn\ntambém, quando brincam, a maioria não o faz com outras\no\ncoradas la El a ma\nai, 20 2015 (adoplado)\nO texto indica que as transformações nas experiências\n© fomentaram as relações sociais entre as crianças.\n© tomaram olazer uma prática difundida entre as crianças.\nO incentivaram a criação de novos espaços para se\n© promoveram uma vivência corporal menos ativa.\nO contribuiram para o aumento do tempo dedicado para\n>>\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5437,20 +5506,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 19
+    "sourceQuestion": 19,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4025,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 20 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Que tal transformar a internet em palco para a dança?\nAy y\nL f\n| aN\nAND\nO coreógrafo e bailarino Didier Mulleras se destaca\ncomo um dos criadores que descobriram a dança de\noutro ponto de vista. Mini@tures é uma experiência\nemblemática entre movimento, computador, internet\ne video. Com os recursos da computação gráfica,\na dança das miniaturas pode caber na palma da\nmão. Pelo fato de usar a internet como palco, o\nprocesso de criação das miniaturas de dança levou\nem consideração os limites de tempo de download\ne o tamanho de arquivo, para que um número maior\nde “espectadores” pudesse assistir. A graça das\nminiaturas está justamente na contaminação entre\nmidias: corpoldançalcomputação — gráficalinternet\nDe fato, é a rede que faz a maior diferença nesse\ngrupo. Mini@tures explora uma nova dimensão que\ndescobre o espaço-tempo da web e conquista um novo\nterritório para a dança contemporânea. A qualquer\nhora, dança on-line.\nO aj: a Gar 208 ga\nConsiderado o primeiro projeto de dança contemporânea\nconcebido para a rede, esse trabalho é apresentado\n“como inovador por",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "adotar uma perspectiva conceitual como contraposição à tradição de grandes espetáculos",
+      "B": "criar novas formas de financiamento ao utilizar a intemet para divulgação das apresentações.",
+      "C": "privilegiar movimentos gerados por computação gráfica, com a substituição do palco pela tela.",
+      "D": "produzir uma arte multimodal, com o intuito de ampliar as possibilidades de expressão estética.",
+      "E": "redefinir a extensão e o propósito do espetáculo para adapté-lo ao perfil de diferentes usuários. 2 LG-T' da Gadomo”"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5459,20 +5531,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 12,
     "language": null,
-    "sourceQuestion": 20
+    "sourceQuestion": 20,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4026,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 21 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO!\nO mito da estiagem em São Paulo\nnos continentes serão repostos indefinidamente.\nTEXTO!",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "manter os estoques de água doce.",
+      "B": "utilizar a água superficial para o consumo.",
+      "C": "repor os estoques de água doce em regiões áridas.",
+      "D": "reduzir as taxas de precipitação e evaporação da água.",
+      "E": "equalizar a distribuição de água doce nas diferentes"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5481,20 +5556,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 12,
     "language": null,
-    "sourceQuestion": 21
+    "sourceQuestion": 21,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4027,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 22 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O você, porém, não reinará sozinho. O tu predomina em\nPorto Alegre e convive com o você no Rio de Janeiro e em\nséculo XIX e início do XX.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "a escolha de “você” ou de “tu” está condicionada à",
+      "B": "a possibilidade de se usar tanto “tu” quanto “você”",
+      "C": "o pronome “tu” tem sido empregado em situações",
+      "D": "aocorrência simultânea de “tu” e de 'você” evidencia a",
+      "E": "oempregode \"você\" em documentos escritos demonstra que a língua tende a se manter inalterada."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5503,20 +5581,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 22
+    "sourceQuestion": 22,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4028,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 23 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Em 2012, John Lennon da Silva, de 20 anos, morador\ndo bairro de São Mateus, na Zona Leste de São Paulo,\nA forma original de John Lennon da Silva reinterpretar a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "a composição da coreografia foi influenciada pela",
+      "B": "a criação artística é beneficiada pelo encontro",
+      "C": "a variação entre os modos de dançar uma",
+      "D": "a formação erudita, à qual o dançarino não teve",
+      "E": "a interpretação, por homens, de coreografias"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5525,20 +5606,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 23
+    "sourceQuestion": 23,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4029,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 24 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Seus primeiros anos de detento foram dificeis; aos\npoucos entendeu como o sistema funciona. Apanhou\ndezenas de vezes, teve o crânio esmagado, o maxilar\ndeslocado, braços e pernas quebrados; por fim, um dia\nficou lesionado da perna quando foi jogado da laje de um\npavilhão. Nem todas as vezes ele soube por que apanhou,\nmuito menos da última, quando foi deixado para morrer,\nmas sobreviveu. Seu corpo, moido no inferno, aguarda\no fim dos seus dias. Já não questiona mais. Obedece.\nCumpre as ordens. Baixa a cabeça e se retira. Apanha,\nàs vezes com motivo, às vezes sem. Por onde passou,\nderramaram seu sangue. Seu rastro pode ser seguido.\nIntriga ter sobrevivido durante tantos anos. Pouquissimos\nchegaram à terceira idade encarcerados.\nA narrativa concentra sua força expressiva no manejo de\nrecursos formais e numa representação ficcional que",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "buscam perpetuar visões do senso comum.",
+      "B": "trazem à tona atitudes de um estado de exceção.",
+      "C": "promovem a interlocução com grupos silenciados.",
+      "D": "inspiram o sentimento de justiça por meio da empatia.",
+      "E": "recorremao absurdo como forma de traduzir arealidade."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5547,20 +5631,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 24
+    "sourceQuestion": 24,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4030,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 25 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "— O senhor pensa que só porque o deixaram morar\nneste pais pode logo ir fazendo o que quer? Nunca ouviu\nfalar num troço chamado autoridades constituídas? Não\nsabe que tem de conhecer as leis do pais? Não sabe\nque existe uma coisa chamada Exército Brasileiro, que\no senhor tem de respeitar? Que negócio é esse? [..] Eu\nensino o senhor a cumprir a lei, ali no duro: “dura lex’!\nSeus filhos são uns moleques e outra vez que eu souber\nque andaram incomodando o General, vai tudo em cana\nMorou? Sei como tratar gringos feito o senhor. [..] Foi\nentão que a mulher do vizinho do General interveio:\n— Era tudo que o senhor tinha a dizer a meu marido?\nOdelegado apenas olhou-a, espantado como atrevimento.\n—Pois então fique sabendo que eu também sei tratar tipos\ncomo o senhor. Meu marido não é gringo nem meus filhos\nsão moleques. Se por acaso importunaram o General,\nele que viesse falar comigo, pois o senhor também está\nnos importunando. E fique sabendo que sou brasileira,\nsou prima de um Major do Exército, sobrinha de um\nCoronel, e filha de um General! Morou? Estarrecido, o\ndelegado só teve força para engolir em seco e balbuciar\nhumildemente: — Da ativa, minha senhora?.\nA representação do discurso intimidador engendrada no\nfragmento é responsável por",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ironizar atitudes e ideias xenofóbicas.",
+      "B": "conferir à narrativa um tom anedático.",
+      "C": "dissimular o ponto de vista do narrador.",
+      "D": "acentuar a hostilidade das personagens.",
+      "E": "exaltar relações de poder estereotipada."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5569,20 +5656,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 25
+    "sourceQuestion": 25,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4031,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 26 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Os velhos papéis, quando não são consumidos pelo\nfogo, às vezes acordam de seu sono para contar notícias\ndo passado\nÉ assim que se descobre algo novo de um nome\nantigo, sobre o qual já se julgava saber tudo, como\nMachado de Assis.\nPor exemplo, você provavelmente não sabe que o\nautor carioca, morto em 1908, escreveu uma letra do hino\nnacional em 1867 — e não poderia saber mesmo, porque\nos versos seguiam inéditos. Até hoje.\nEssa letra acaba de ser descoberta, em um jornal\nantigo de Florianópolis, pelo pesquisador independente\nFelipe Rissato.\n“Das florestas em que habito! Solto um canto\nvaronil:/ Em honra e glória de Pedro/ O gigante do Brasi”,\ndiz 0 começo do hino, composto de sete estrofes em\nredondilhas maiores, ou seja, versos de sete silabas\npoéticas. O trecho também é o refrão da música.\nO Pedro mencionado é o imperador Dom Pedro II\nO bruxo do Cosme Velho compôs a letra para o aniversário\nde 42 anos do monarca, em 2 de dezembro daquele ano\n— o hino seria apresentado naquele dia no teatro da\ncidade de Desterro, antigo nome de Florianópolis.\nConsiderando-se as operações de retomada de\ninformações na estruturação do texto, há interdependência\nentre as expressões",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "“Os velhos papéis” e “É assim.",
+      "B": "“algo novo\" e “sobre o qual",
+      "C": "“um nome antigo” e \"Por exemplo”.",
+      "D": "“0 gigante do Brasi\" e \"O Pedro mencionado”.",
+      "E": "“o imperador Dom Pedro IF e \"O bruxo do Cosme Velho”"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5591,20 +5681,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 14,
     "language": null,
-    "sourceQuestion": 26
+    "sourceQuestion": 26,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4032,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 27 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "4\n?\nE +\nRODRIGUES, S. Acervo pessoal.\nA revolução estética brasiliense empurrou os\ndesigners de móveis dos anos 1950 e início dos\n1960 para o novo. Induzidos a abandonar o gosto\nrebuscado pelo colonial, a trocar Ouro Preto por\nBrasília, eles criaram um mobiliário contemporâneo\nque ainda hoje vemos nas lojas e nas salas de espera\nde consultórios e escritórios. Colada no uso de\nmadeiras nobres, como o jacarandá e a peroba, e em\nmateriais de revestimento como o couro e a palhinha,\ndesenvolveu-se uma tendência feita de linhas retas é\ncurvas suaves, nos moldes da capital no Cerrado.\n4 C= da] Cadoro\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5613,20 +5706,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 14,
     "language": null,
-    "sourceQuestion": 27
+    "sourceQuestion": 27,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4033,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 28 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Thumbs Up\nPonto positivo para o Facebook, que vai dar uma\najeitada na casa para, quem sabe, não ser mais\nconhecido como o espaço da treta. Durante a F8,\nsua conferência anual, a empresa anunciou a maior\nmudança de design do serviço em 5 anos. Agora, 0\npolêmico feed de notícias deixa de ser o protagonista,\ne o queridinho da rede social se torna o segmento de\nGrupos (é o Orkut fazendo escola?). Segundo Mark\nZuckerberg, mais de 1 bilhão de usuários mensais\nentram nessa aba do aplicativo, e 400 mil deles já estão\nintegrados em grupos de “assuntos significativos!\nO objetivo agora é aumentar o tráfego, oferecendo mais\nsugestões e ferramentas especiais para quem gerencia\nessas comunidades. Além disso, o Marketplace, que já\ntem mais de 800 milhões de usuários, vai ganhar mais\natenção e integração. Com isso, parece que há um\nnovo padrão se montando na rede social: sai o feed,\nentra a segmentação, que pode ser uma boa porta para\nmonetização nos próximos anos. No mesmo evento,\nZuckerberg também disse que o futuro do Facebook é\na privacidade, mas não deu muitos detalhes de como\nvai proteger seus clientes daqui para frente. Evitar que\nvazamentos de dados dos usuários aconteçam é um\nbom começo.\nHFicaaDica\nO texto relata que uma rede social virtual realizará\nsua maior mudança de design dos últimos anos\nEsse fato revela que as tecnologias de informação e\ncomunicação",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "buscam oferecer mais privacidade,",
+      "B": "assimilam os comportamentos dos usuários.",
+      "C": "promovem maior interação em ambientes virtuais",
+      "D": "oferecem mais facilidades para obter cada vez mais lucro.",
+      "E": "evoluem para ficar mais parecidas umas com as outras."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5635,20 +5731,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 14,
     "language": null,
-    "sourceQuestion": 28
+    "sourceQuestion": 28,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4034,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 29 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Reaprender a ler notícias\nNão dá mais para ler um jornal, revista ou assistir\na um telejomal da mesma forma que faziamos\naté 0 surgimento da rede mundial de computadores.\nO Observatório da Imprensa antecipou isso lá nos idos\nde 1996 quando cunhou o slogan \"Você nunca mais vai\nler jornal do mesmo jeito”. De fato, hoje já não basta mais\nler o que está escrito ou falado para estar bem informado.\nÉ preciso conhecer as entrelinhas é saber que não há\nobjetividade e nem isenção absolutas, porque cada ser\nhumano vê o mundo de uma forma diferente. Ter um pé\natrás passou a ser a regra básica número um de quem\npassa os olhos por uma primeira página, capa de revista\nou chamadas de um noticiário na TV.\nHa uma diferença importante entre desconfiar de\ntudo e procurar ver o maior número possivel de lados\nde um mesmo fato, dado ou evento. Apenas desconfiar\nnão resolve porque se trata de uma atitude passiva.\nÉ claro, tudo começa com a dúvida, mas a partir dela\né necessário ser proativo, ou seja, investigar, estudar,\nprocurar os elementos ocultos que sempre existem numa\nnotícia. No começo é um esforço solitário que pode se\ntornar coletivo à medida que mais pessoas descobrem\nsua vulnerabilidade informativa.\nNo texto, os argumentos apresentados permitem inferir\nque o objetivo do autor é convencer os leitores a\n@ buscarem fontes de informação comprometidas com\na verdade.\n© privilegiarem noticias veiculadas em jornais de grande\ncirculação.\nO adotarem uma postura crítica em relação às\ninformações recebidas.\nO questionarem a prática jornalística anterior ao\nsurgimento da internet\n@ valorizaremreportagens redigidas com imparcialidade\ndiante dos fatos.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5657,20 +5756,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 29
+    "sourceQuestion": 29,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4035,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 30 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Não que Pelino fosse químico, longe disso; mas era\nsábio, era gramático. Ninguém escrevia em Tubiacanga\nque não levasse bordoada do Capitão Pelino, e mesmo\nquando se falava em algum homem notável lá no Rio,\nele não deixava de dizer: “Não há dúvida! O homem\ntem talento, mas escreve: ‘um outro’, ‘de resto”\nE contraia os lábios como se tivesse engolido alguma\ncousa amarga.\nToda a vila de Tubiacanga acostumou-se a respeitar\no solene Pelino, que corrigia e emendava as maiores\nglórias nacionais. Um sábio.\nAo entardecer, depois de ler um pouco O Sotero,\no Candido de Figueiredo ou o Castro Lopes, e de ter\npassado mais uma vez a tintura nos cabelos, o velho\nmestre-escola sala vagarosamente de casa, muito\nabotoado no seu paletó de brim mineiro, e encaminhava-\n-se para a botica do Bastos a dar dous dedos de prosa\nConversar é um modo de dizer, porque era Pelino\navaro de palavras, limitando-se tão-somente a ouvir.\nQuando, porém, dos lábios de alguém escapava a\nmenor incorreção de linguagem, intervinha e emendava\n“Eu asseguro, dizia o agente do Correio, que...” Por ai,\no mestre-escola intervinha com mansuetude evangélica:\n\"Não diga 'asseguro', Senhor Bernardes; em português\né garanto”\nE a conversa continuava depois da emenda, para ser\nde novo interrompida por uma outra. Por essas e outras,\nhouve muitos palestradores que se afastaram, mas\nPelino, indiferente, seguro dos seus deveres, continuava\no seu apostolado de vernaculismo.\nDo ponto de vista linguístico, a defesa da norma-padrão\npelo personagem caracteriza-se por",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "contestar o ensino de regras em detrimento do conteúdo das informações.",
+      "B": "resgatar valores patróticos relacionados às tradições da lingua portuguesa.",
+      "C": "adotar uma perspectiva complacente em relação aos desvios gramaticais",
+      "D": "invalidar os usos da língua pautados pelos preceitos da gramática normativa.",
+      "E": "desconsiderar diferentes níveis de formalidade nas situações de comunicação."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5679,20 +5781,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 30
+    "sourceQuestion": 30,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4036,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 31 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O skate apareceu como forma de vivência no lazer\nem períodos de baixa nas ondas e ficou conhecido como\n“surfinho”. No início foram utilizados eixos e rodinhas\nde patins pregados numa madeira qualquer, para sua\ncomposição, sendo as rodas de borracha ou ferro.\nO grande marco na história do skate ocorreu em 1974,\nquando o engenheiro quimico chamado Frank Nasworthy\ndescobriu o uretano, material mais flexivel, que oferecia\nmais aderência às rodas. A dependência dos skatistas\nem relação a esse novo material igualmente alavancou\n© surgimento de novas manobras e possibilitou a um\nmaior número de pessoas inexperientes começar a\nprática dessa modalidade. O resultado foi a criação de\ncampeonatos, marcas, fábricas e lojas especializadas.\nDe acordo com o texto, diversos fatores ao longo do tempo\n© contribuiram para a democratização do skate.\n© evidenciaram as demandas comerciais dos skatistas\nO definiram a carreira de skatista profissional\n© permitiram que a prática social do skate substituisse\no surfe.\n@ indicaram a autonomia dos praticantes de skate.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5701,20 +5806,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 31
+    "sourceQuestion": 31,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4037,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 32 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Estojo escolar\nRio de Janeiro — Noite dessas, ciscando num desses\ncanais a cabo, vi uns caras oferecendo maravilhas\neletrônicas, bastava telefonar eeu receberia um notebook\ncapaz de me ajudar a fabricar um navio, uma estação\nespacial.\n[..] Como pretendo viajar esses dias, habilte-me a\n‘comprar aquilo que os caras anunciavam como o top do\ntop em matéria de computador portáti.\nNo sábado, recebi um embrulho complicado que\nnecessitava de um manual de instruções para ser aberto.\n[..] De repente, como vem acontecendo nos últimos\ntempos, houve um corte na memória e vi diante de mim\no meu primeiro estojo escolar. Tinha 5 anos e ia para o\njardim de infância\nEra uma caixinha comprida, envernizada, com uma\ntampa que corria nas bordas do corpo principal. Dentro,\narrumados em divisões, havia lápis coloridos, um\napontador, uma lapiseira cromada, uma régua de 20 cm\ne uma borracha para apagar meus erros.\n[..] Da caixinha vinha um cheiro gostoso, cheiro que\nnunca esqueci e que me tonteava de prazer. [..]\nO notebook que agora abro é negro e, em matéria de\ncheiro, é abominável. Cheira vilmente a telefone celular,\na cabine de avião, a aparelho de ultrassonografia onde\noutro dia uma moça veio ver como sou por dentro. Acho\nque piorei de estojo e de vida.\n16 LG-T' da Gadomo”\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5723,20 +5831,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 32
+    "sourceQuestion": 32,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4038,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 33 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "rspeaqun = :\nre)\nAl | | 2\na el >\nSee É =\nas Ea CV:\n* a Gp\nTas mm a\nAly a=\nRT\nquadrinhos como prefácio é o(a)\n(O função de apresentação do livro.\n© apelo emocional apoiado nas imagens.\nO descrição do processo criativo da autora.\nO referência à mescla dos trabalhos manual e digital\n@ uso de elementos gráficos voltados para o público-alvo.\neae em]\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5745,20 +5856,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 33
+    "sourceQuestion": 33,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4039,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 34 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "OS RISCOS PARA CRIANÇAS DO USO\nDO CELULAR ANTES DE DORMIR\nDE somos onarese museum\nTEARS OSI BOSE,\nces REM\nase toovo Laço a ao\nay Ss\n‘Cm PA 4\nfa i 2| 6 4\nsprenmo Coro asma em pega\n[o 4 soon seas\n@ a ©\no QuE FAZER?\nNo texto, 08 recursos verbais e não verbais empregados\ntêm por objetivo",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares",
+      "B": "influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.",
+      "C": "relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+      "D": "indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+      "E": "sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas. enem” “1G ¥ dia] Cadena"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5767,20 +5881,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 34
+    "sourceQuestion": 34,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4040,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 35 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Singular ocorrência\n— Hã ocorrências bem singulares. Está vendo aquela\ndama que vai entrando na igreja da Cruz? Parou agora\nno adro para dar uma esmola.\n— De preto?\n— Justamente; lá vai entrando; entrou,\n— Não ponha mais na carta. Esse olhar está dizendo\nque a dama é uma recordação de outro tempo, e não há\nde ser muito tempo, a julgar pelo corpo: é moça de truz.\n— Deve ter quarenta e seis anos\n— Anh! conservada. Vamos lá; deixe de olhar para\no chão e conte-me tudo. Está viúva, naturalmente?\n— Não.\n— Bem; o marido ainda vive. É velho?\n— Não é casada\n— Solteira?\n— Assim, assim. Deve chamar-se hoje D. Maria\nde tal. Em 1860 florescia com o nome familiar de\nMarocas. Não era costureira, nem proprietária, nem\nmestra de meninas; vá excluindo as profissões e\nchegará lá. Morava na Rua do Sacramento. Já então\nera esbelta, e, seguramente, mais linda do que hoje;\nmodos sérios, linguagem limpa.\nNo diálogo, descortinam-se aspectos da condição da\nmulher em meados do século XIX. O ponto de vista dos\npersonagens manifesta conceitos segundo os quais a\nmulher\n© encontra um modo de dignificar-se na prática da\ncaridade.\nO preserva a aparência jovem conforme seu estilo de\nvida\nO condiciona seu bem-estar à estabilidade do\ncasamento.\n© tem sua identidade e seu lugar referendados pelo\nhomem.\n@ renuncia à sua participação no mercado de trabalho.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5789,20 +5906,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 35
+    "sourceQuestion": 35,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4041,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 36 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO \"\nSU\nLAIN EN\n4 a\nra) rie\neG\na,\nHAZOUNE,R Mannie Pte oe, io gt, 208,\nTEXTO I\nAs máscaras não foram feitas para serem usadas; elas\ndal gerernam apenas ra posa nlropomé teas\ndio roplenten pifsiroa deceniiedes 5 co mbaro ene.\nChem à sige pode qlariias dol que se",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "empobrecimento do valor artístico pela combinação do Seremos metavos rinse,",
+      "B": "reposicionamento estético de objetos por meio da mrodariga de função",
+      "C": "convite aos espectadores para interagir e completar",
+      "D": "militância com temas da ecologia que marcam o continente africano.",
+      "E": "realidade precária de suas condições de produção"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5811,20 +5931,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 36
+    "sourceQuestion": 36,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4042,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 37 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Comportamento geral\nae arp Sets Tar aga\nE dizer tudo tem melhorado\nVocê dave rezar polo bem do patrão\nE bnaue cor que ents generrpredada\nocd rion\ncê mereça\nTudo vai bem, tudo legal\nCerveja, samba, amanha, seu 28\nde aber coma carnaval\nVocê deve aprender a baixar a cabeça\nE dizer sempre: mult obrigado\nSão palavras que alnda te deixam dizer\nPor ser homem bem dsciplnado\nii la a a a de Nao\n“Td aquilo que for ordenado\nPra ganhar um fuscão no juizo final\nalone de ba comieoriade\nSy\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5833,20 +5956,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 37
+    "sourceQuestion": 37,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4043,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 38 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Se for possível, manda-me dizer:\n— É lua cheia. A casa está vazia —\nManda-me dizer, e o paraiso\nHa de ficar mais perto, e mais recente\nMe há de parecer teu rosto incerto.\nManda-me buscar se tens o dia\nTão longo como a noite. Se é verdade\nQue sem mim só vês monotonia.\nE se te lembras do brilho das marés\nDe alguns peixes rosados\nNumas águas\nE dos meus pés molhados, manda-me dizer\n— Élua nova —\nE revestida de luz te volto a ver.\nFalando ao outro, 0 eu lírico revela-se vocalizando um\ndesejo que remete ao",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ceticismo quanto à possibilidade do reencontro.",
+      "B": "tédio provocado pela distância física do ser amado.",
+      "C": "sonho de autorrealização desenhado pela memória.",
+      "D": "julgamento implícito das atitudes de quem se afasta.",
+      "E": "questionamento sobre o significado do amor ausente."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5855,20 +5981,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 38
+    "sourceQuestion": 38,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4044,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 39 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Falso moralista\nVocê condena o que a moçada anda fazendo\ne não aceita o teatro de revista\narte moderna pra você não vale nada\ne até vedete você diz não ser artista\nVocê se julga um tanto bom e até perfeito\nPor qualquer coisa deita logo falação\nMas eu conheço bem o seu defeito\ne não vou fazer segredo não\nVocê é visto toda sexta no Joá\ne não é só no Carnaval que vai pros bailes se acabar\nFim de semana você deixa a companheira.\ne no bar com os amigos bebe bem a noite inteira\nSegunda-feira chega na repartição\npede dispensa para ir ao oculista\né vai curar sua ressaca simplesmente\nVocê não passa de um falso moralista\nAs letras de samba normalmente se caracterizam por\napresentarem marcas informais do uso da lingua. Nessa\nletra de Nelson Sargento, são exemplos dessas marcas",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "“falagao\" e \"pros bailes",
+      "B": ":você e “teatro de revista”.",
+      "C": "“perfeito” e “Camavar”",
+      "D": "“bebe bem e “oculista’",
+      "E": "“curar e “falso moralista”"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5877,20 +6006,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 39
+    "sourceQuestion": 39,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4045,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 40 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Introdução a Alda\nDizem que ninguém mais a ama. Dizem que foi uma\nboa pessoa. Sua filha de doze anos não a visita nunca\n& talvez raramente se lembre dela. Puseram-na numa\ncidade triste de uniformes azuis e jalecos brancos, de\nonde não pôde mais sair. Lá, todos gritam-lhe irritados,\nmal se aproxima, ou lhe batem, como se faz com sacos\nde areia para treinar os músculos,\nSei que para todos ela já não é, e ninguém the daria\numa maçã cheirosa, bem vermelha. Mas não é verdade que\nalguém não a possa mais amar. Eu amo-a. Amo-a quando\na vejo por trás das grades de um palácio, onde se refugiou\nprincesa, chegada pelos caminhos da dor. Quando fora do\nreino sente o mundo de mil lanças, e selvagem prepara-\n-se, posta no olhar. Amo-a quando criança brinca na areia\nsem medo. Uns pés descalços, uma mulher sem intenções.\nCercada de mundo, às vezes sofrendo-o ainda\nCANÇADO, ML sofredor dover et orzo Aus, 2086,\nAo descrever uma mulher internada em um hospital\npsiquiátrico, o narrador compõe um quadro que expressa\nsua percepção",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "irônica quanto aos efeitos do abandono familiar.",
+      "B": "resignada em face dos métodos terapéuticos em vigor.",
+      "C": "alimentada pela imersão lírica no espaço da segregação.",
+      "D": "inspirada pelo universo pouco conhecido da mente humana.",
+      "E": "demarcada por uma linguagem alinhada à busca da lucidez."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5899,20 +6031,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 40
+    "sourceQuestion": 40,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4046,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 41 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O pavão vermelho\nOra, a alegria, este pavão vermelho,\nestá morando em meu quintal agora\nVem pousar como um sol em meu joelho\nquando é estridente em meu quintal a aurora.\nClarim de lacre, este pavão vermelho\nsobrepuja os pavões que estão lá ora\nÉ uma festa de púrpura. E o assemelho\na uma chamado labaro da aurora\nÉ o próprio doge a se mirar no espelho.\nE a cor vermelha chega a ser sonora\nneste pavão pomposo e de chavelho\nPavões lilases possui outrora\nDepois que amei este pavão vermelho,\nos meus outros pavões foram-se embora.\nCO Pon imp pr Ca ctr Cos Cn 211\nNa construção do soneto, as cores representam um\nrecurso poético que configura uma imagem com a qual\no eu ico\n@ revela a intenção de isolar-se em seu espaço.\nO simboliza a beleza e o esplendor da natureza.\n@ experimenta a fusão de percepções sensoriais.\n® metaforiza a conquista de sua plena realização.\nexpressa uma visão de mundo mistica e espiritualizada.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5921,20 +6056,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 41
+    "sourceQuestion": 41,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4047,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 42 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "6\na\nLICHTENSTEIN R Garoa com bola lo sob 63019\nMuseu do te Nodrna d Nova York, 106,\nA obra, da década de 1960, pertencente ao movimento\nartístico Pop Art, explora a beleza e a sensualidade\ndo corpo feminino. em uma situação de divertimento.\nHistoricamente, “a “sociedade inventou e continua\nreinventando o corpo como objelo de intervenções sociais,\nbuscando atender aos valores e costumes de cada época\nNa reprodução desses preceitos, a erolização do corpo\nfeminino tem sido consttuida pela",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "realização de exercícios físicos sistemáticos e excessivos,",
+      "B": "utilização de medicamentos e produtos estéticos.",
+      "C": "educação do gesto, da vontade e do comportamento.",
+      "D": "construção de espaços para vivência de práticas corporais.",
+      "E": "promoção de novas experiências de movimento humano no lazer"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5943,20 +6081,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 42
+    "sourceQuestion": 42,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4048,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 43 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nMAS o na Ur\nTimor | a gs ee\nE q TP. o @ =\ne EVA",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "sugerir a impossibilidade de manutenção dos afetos.",
+      "B": "revelaros corpos marcados pela brutalidade colonial.",
+      "C": "representar o abatimento diante da desumanidade",
+      "D": "acentuar a resistência identitiria dos povos",
+      "E": "expor os sujeitos alijados de sua ancestralidade pelo E"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5965,20 +6106,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 43
+    "sourceQuestion": 43,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4049,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 44 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O fragmento faz uma referência irônica a formas\nde divulgação e circulação de informações em uma\nlocalidade sem imprensa. Ao destacar a confiança da\npopulação no sistema da matraca, O narrador associa\nesse recurso à disseminação de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "campanhas políticas.",
+      "B": "anúncios publicitários.",
+      "C": "noticias de apelo popular.",
+      "D": "informações não fidedignas.",
+      "E": "serviços de utilidade pública"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -5987,20 +6131,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 44
+    "sourceQuestion": 44,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4050,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
     "topic": "ENEM 2021",
-    "statement": "Questão 45 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No ano em que o maior clarinetista que o Brasil\nconheceu, Abel Ferreira, faria 100 anos, o choro dá\nmostras de vivacidade. É quase um paradoxo que essa\nriquíssima manifestação da genuína alma brasileira seja\nforte o suficiente para driblar a falta de incentivos oficiais,\na insensibilidade dos meios de comunicação e a amnésia\ngeneralizada. “Ele trazia a alma brasileira derramada\nem sua sonoridade impar. Artur da Távola, seguramente\nseu maior admirador, foi quem melhor o definiu, ‘alma\nsertaneja, toque mozarteano”. O acervo do músico\nautodidata nascido na mineira Coromandel, autor de 50\nmúsicas, entre as quais Chorando baixinho (1942), que o\nconsagrou, amigo e parceiro de Pixinguinha, com quem\ngravou Ingénuo (1958), permanece com os herdeiros à\nespera de compilação adequada. O Museu da Imagem\ne do Som do Rio de Janeiro tem a guarda do sax e do\nclarinete, doados em 1995.\nNa avaliação de Leonor Bianchi, editora da Revista\ndo Choro, “a música instrumental fica apartada do que é\npopular porque não vai à sala de concerto. O público em\ngeral tem interesse em samba, pagode e axé”, Ela atribui\nessa situação à falta de conhecimento e à pouca divulgação\ndo gênero nas escolas.\nConsiderando-se o contexto, o gênero e o público-alvo,\nos argumentos trazidos pela autora do texto buscam\n© atribuir o desconhecimento da obra de Abel Ferreira\nao ensino de música nas escolas.\nO reivindicar mais investimentos estatais para a\npreservação do acervo musical nacional.\n@ destacar a relevância histórica e a riqueza estética do\nchoro no cenário musical brasileiro.\nO apresentar ao leitor dados biográficos pouco\nconhecidos sobre a trajetória de Abel Ferreira.\nO constatar a impopularidade do choro diante da\npreferência do público por músicas populares.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6009,20 +6156,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 45
+    "sourceQuestion": 45,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4051,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 46 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Seu tumo de trabalho acabou, você já está em casa e\nÉ hora do jantar da família. Mas, em vez de relaxar, você\ncomeça a pensar na possibilidade de ter recebido alguma\nmensagem importante no e-mail profissional ou no grupo\nde WhatsApp da empresa. Imediatamente, você fica\ndistante. Momentos depois, com alguns toques na tela\ndo celular, você está de volta ao ambiente de trabalho.\nO jantar e a família ficaram em segundo plano.\nAmplo voniado de checa mensagens do ro pó-enpedante roca ua\nO texto indica práticas nas relações cotidianas do trabalho\nque causam para o indivíduo a\nOO proteção da vida privada.\n© ampliação de atividades extras.\n@ elevação de etapas burocráticas.\n© diversificação do lazer recreativo.\n@ desobrigagao de afazeres domésticos.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6031,20 +6181,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 22,
     "language": null,
-    "sourceQuestion": 46
+    "sourceQuestion": 46,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4052,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 47 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Quando a taxa de remuneração do capital excede\nsubstancialmente a taxa de crescimento da economia,\npela lógica, a riqueza herdada aumenta mais rápido do\nque a renda e a produção. Então, basta aos herdeiros\npoupar uma parte limitada da renda de seu capital para\nque ele cresça mais rápido do que a economia como\num todo. Sob essas condições, é quase inevitável que\na riqueza herdada supere a riqueza constituída durante\numa vida de trabalho, e que a concentração do capital\natinja níveis muito altos,\nConsiderando os princípios que legitimam as\ndemocracias liberais, a lógica econômica descrita no\ntexto enfraquece o(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ideologia do mérito.",
+      "B": "direito de nascimento.",
+      "C": "eficácia da legislação.",
+      "D": "ganho das financeiras.",
+      "E": "eficiência dos mercados."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6053,20 +6206,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 22,
     "language": null,
-    "sourceQuestion": 47
+    "sourceQuestion": 47,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4053,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 48 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Atualmente, o Programa de Melhoramento “Uvas\ndo Brasil utiiza métodos clássicos de melhoramento,\ncomo seleção massal, seleção cional e hibridações.\nAções de ajuste de manejo de seleções avançadas\nvêm sendo desenvolvidas paralelamente ao Programa\nde Melhoramento, no sentido de viabilização desses\nmateriais. Ao longo dos seus 40 anos, uma grande equipe.\ntécnica trabalhou para executar projetos de pesquisa para\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6075,20 +6231,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 22,
     "language": null,
-    "sourceQuestion": 48
+    "sourceQuestion": 48,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4054,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 49 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO!\nPortadoras de mensagem espiritual do passado,\nas obras monumentais de cada povo perduram no\npresente como o testemunho vivo de suas tradições\nseculares. A humanidade, cada vez mais consciente da\nunidade dos valores humanos, as considera um bem\ncomum e, perante as gerações futuras, se reconhece\nsolidariamente responsável por preservá-las, impondo\na simesma o dever de transmiti-las na plenitude de sua\nautenticidade\nTEXTO!\nOs sistemas tradicionais de proteção se mostram\ncada vez menos eficientes diante do processo acelerado\nde urbanização e transformação de nossa sociedade.\nA legislação de proteção peca por considerar o\nmonumento, até certo ponto, desvinculado da realidade\nsocioeconômica. O tombamento, ao decretar a\nimutabilidade do monumento, provoca a redução de seu\nvalor venal e o abandono, o que é uma causa, ainda que\nlenta, de destruição inevitável.\nEscritos em temporalidade histórica aproximada, os\ntextos se distanciam ao apresentarem pontos de vista\ndiferentes sobre a(s)\n(O ampliação do comércio de imagens sacras.\n© substituição de materiais de valor artístico.\nO políticas de conservação de bens culturais.\n© defesa da privatização de sítios arqueológicos.\n@ medidas de salvaguarda de peças museológicas.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6097,20 +6256,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 22,
     "language": null,
-    "sourceQuestion": 49
+    "sourceQuestion": 49,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4055,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 50 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTOL\nEm 2016, foram gerados 44,7 milhões de toneladas de\nresiduos eletrônicos, um aumento de 8% na comparação\ncom 2014. Esperialitas previram um crescimento de mais\n19%, para 628 mihões de toneladas, até 2021\nTEXTO\nHá ainda quem exporte deliberadamente ixo eletrânico\nà tecnologia. Um negócio muito mais lucrativo é vender\nà lo eletrônico a negociantes locais, que O importam\nalegando tratar-se de material usado. Os negociantes\nlado, que o desmantelam e extraem os fos de cobre. Estes\nsão ‘deretidos em lareiras ao ar Wve, poluindo O ar e,\ndescritas nos textos refletem um padrão de relações\nderivado do(a);",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Exercicio pleno da cidadania.",
+      "B": "Divisão internacional do trabalho.",
+      "C": "Gestão empresarial do toyotismo.",
+      "D": "Concepção sustentável da economia.",
+      "E": "Protecionismo alfandegário dos Estados."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6119,20 +6281,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 50
+    "sourceQuestion": 50,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4056,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 51 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "devem garantir de forma adequada que a retirada de\nConsiderando o debate sobre segurança hídrica, a\nproposta apresentada no texto está pautada no(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "distribuição equitativa do abastecimento.",
+      "B": "monitoramento do fornecimento urbano.",
+      "C": "racionamento da capacidade fluvial.",
+      "D": "revitalização gradativa de solos.",
+      "E": "geração de produtos recicláveis,"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6141,20 +6306,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 51
+    "sourceQuestion": 51,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4057,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 52 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Durante os anos de 1854-55, o govemo brasileiro —\npor meio de sua representacao iplomálica em Londres\nPo os Inre-cambistas ingleses — nas colunas do Daily\nNews e na Câmara dos Comuns — aumentaram a pressão\npela revogação da Lei Aberdeen. O governo britânico,\nEntretanto, ainda receava que, sem um irado angio:\nVelhos hábitos\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6163,20 +6331,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 52
+    "sourceQuestion": 52,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4058,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 53 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Famoso por ser o encantador de viúvas da cidade\nde Cabaceiras, na Paraiba, Zé de Sila é um contador de\nhistórias parecido com o personagem Chicó, do Auto da\nCompadecida. Ele defende veementemente que a oração\nda avó sustentava mais a chuva. \"Quando era pequeno e\nchovia por aqui, ajudava minha avó colocando os pratos\nemborcados no terreiro para diminuir o vento. Ela fazia isso\ne rezava para a chuva durar mais”, diz Zé de Sia\nAo destacar expressões e vivências populares do\ncotidiano, o texto mobiliza os seguintes aspectos da\ndiversidade regional:",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alianças afetivas conectadas ao ritual matrimonial",
+      "B": "Práticas místicas associadas ao patrimônio cultural.",
+      "C": "Manifestações teatrais atreladas ao imaginário político.",
+      "D": "Narrativas filmicas relacionadas às intempéries climáticas.",
+      "E": "Argumentações literárias interligadas às catástrofes ambientais"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6185,20 +6356,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 53
+    "sourceQuestion": 53,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4059,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 54 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O uso de novas tecnologias envolve a assimilação\nde uma cultura empresarial na qual haja a integração\nentre as propostas de modemização tecnológica e a\nracionalização. Nem sempre o uso de novas tecnologias\né apenas um processo técnico na medida em que\npressupõe uma nova orientação no controle do capital,\nno processo produtivo e na qualificação da mão de obra.\nDos diversos efeitos que derivaram dessa orientação, a\nterceirização, a precarização e a flexibilização aparecem\ncom constância como características do paradigma\nflexivel, em substituição ao modelo taylorista-fordista.\nHEREDIA V. Nowe tents ox pesos d abo fe a\nrena rst, Sepia Nova 10, a a0 spo\nO uso de novas tecnologias relacionado ao controle\nempresarial é criticado no texto em razão da",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "operacionalização da tarefa laboral",
+      "B": "capacitação de profissionais liberais.",
+      "C": "fragiização das relações de trabalho.",
+      "D": "hisrarquização dos cargos executivos.",
+      "E": "aplicação dos conhecimentos da ciência."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6207,20 +6381,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 54
+    "sourceQuestion": 54,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4060,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 55 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A categoria de refugiado carrega em si as noções\nde transitoriedade, provisoriedade e temporalidade.\nOs refugiados situam-se entre o pais de origem e o\npais de destino. Ao transitarem entre os dois universos,\nocupam posição marginal, tanto em termos identitários\n— assentada na falta de pertencimento pleno enquanto\nmembros da comunidade receptora e nos vínculos\nintrojetados por códigos partilhados com a comunidade.\nde origem — quanto em termos jurídicos, ao deixarem\nde exercitar, ao menos em caráter temporário, o status\nde cidadãos no país de origem e portar o status de\nrefugiados no país receptor.\nA condição de transitoriedade dos refugiados no Brasi,\nconforme abordada no texto, é provocada pela associação\nentre",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ascensão social e burocracia estatal",
+      "B": "miscigenação étnica e limites fronteiriços.",
+      "C": "desqualificação profissional e ação policial.",
+      "D": "instabilidade financeira e crises econômicas.",
+      "E": "desenraizamento cultural e insegurança legal."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6229,20 +6406,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 55
+    "sourceQuestion": 55,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4061,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 56 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Mulheres naturalistas raramente figuraram na corrida\npor conhecer terras exóticas. No século XIX, mulheres\n‘como Lady Charlotte Canning eventualmente coletavam\nespécimes botânicos, mas quase sempre no papel\nde esposas coloniais, viajando para locais onde seus\nmaridos as levavam é não em busca de seus próprios\nprojetos científicos.\nNo contexto do século XIX, a relação das mulheres com\no campo científico, descrita no texto, é representativa da\n(9 afirmação da igualdade de gênero.\nO transformação dos espaços de lazer.\nsuperação do pensamento patriarcal.\nO incorporação das estratificações sociais.\n@ substituição das atividades domésticas\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6251,20 +6431,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 56
+    "sourceQuestion": 56,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4062,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 57 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Nos setores mais altamente desenvolvidos da\nsociedade contemporânea, o transplante de necessidades\nsociais para individuais é de tal modo eficaz que a diferença\nentre elas parece puramente teórica. As criaturas se\nreconhecem em suas mercadorias; encontram sua alma em\nseu automóvel, casa em patamares, utensílios de cozinha.\nO texto indica que, no capitalismo, a satisfação dos\ndesejos pessoais é influenciada por",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "políticas estatais de divulgação.",
+      "B": "incentivos controlados de consumo.",
+      "C": "prescrições coletivas de organização.",
+      "D": "mecanismos subjetivos de identificação.",
+      "E": "repressões racionalizadas do narcisismo. E CH dia [Cademo"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6273,20 +6456,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 57
+    "sourceQuestion": 57,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4063,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 58 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A vida das pessoas se modifica com a mesma rapidez\ncom que se reproduz a cidade. O lugar da festa, do encontro\nquase desaparecem; o número de brincadeiras infantis\nnas ruas diminui — as crianças quase não são vistas;\nos pedaços da cidade são vendidos, no mercado, como\nmercadorias; árvores são destruídas, praças transformadas\nem concreto. Por outro lado, os habitantes parecem perder\nna cidade suas próprias referências. A imagem de uma\ngrande cidade hoje é tão mutante que se assemelha à de\num grande guindaste, aliás, a presença maciça destes, das\nbritadeiras, das betoneiras nos dão o limite do processo de\ntransformação diária ao qual está submetida a cidade.\nNo contexto das grandes cidades brasileiras, a situação\napresentada no texto vem ocorrendo como consequência da",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "manutenção dos modos de convívio social",
+      "B": "preservação da essência do espaço público.",
+      "C": "ampliação das normas de controle ambiental",
+      "D": "Nexibilização das regras de participação politica",
+      "E": "alteração da organização da paisagem geográfica."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6295,20 +6481,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 58
+    "sourceQuestion": 58,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4064,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 59 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No semiárido brasileiro, o sertanejo desenvolveu uma\nacuidade detalhada para a observação dos fenômenos,\nao longo dos tempos, presenciados na natureza, em\nespecial para a previsão do tempo e do clima, utilizando\ncomo referência a posição dos astros, constelação\ne nuvens. Conforme os sertanejos, a estação vai\nser chuvosa quando a primeira lua cheia de janeiro\n\"sair vermelha, por detrás de uma barra de nuvens”, mas\n“se surgir prateada, é sinal de seca’\nMAK. D: MAC. Atlicaçã dos os pone da beco do emp pra\npi mp dp 010 ota)\nO texto expõe a produção de um conhecimento que se\nconstitui pela",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "técnica científica",
+      "B": "experiência perceptiva.",
+      "C": "negação das tradições.",
+      "D": "padronização das culturas",
+      "E": "uniformização das informações."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6317,20 +6506,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 59
+    "sourceQuestion": 59,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4065,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 60 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Vocês que fazem parte dessa massa\nQue passa nos projetos do futuro\nÉ duro tanto ter que caminhar\nE dar muito mais do que receber\nÉ, 6,6, vida de gado\nPovo marcado\nÉ, povo feliz!\nPERA fm\nQual comportamento coletivo é criticado no trecho da\nletra da canção lançada em 1979?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Miltancia política",
+      "B": "Passividade social",
+      "C": "Altruismo religioso,",
+      "D": "Autocontrole moral",
+      "E": "Inconformismo eleitoral"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6339,20 +6531,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 60
+    "sourceQuestion": 60,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4066,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 61 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Desde 2009, a área portuária carioca vem sofrendo\ngrandes transformações realizadas no escopo da\noperação urbana consorciada conhecida como Porto\nMaravilha. Parte importante na tentativa de tomar o\nRio de Janeiro um polo de serviços internacional, a\n“revitalização” urbana deveria deixar para trás uma\npaisagem geográfica que ainda recordava a cidade do\ninicio do século passado para abrir espaço, em seu lugar,\nà instalação de modemas torres comerciais, espaços\nde consumo e lazer inéditos e cerca de cem mil novos\nmoradores, uma nova configuração socioespacial capaz\nde alçar a área portuária do Rio de Janeiro ao patamar\ndos waterfronts de Baltimore, Barcelona e Buenos Aires.\nAs intervenções urbanas descritas derivam de um\nprocesso socioespacial que busca a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "intensificação da participação na competiividade global.",
+      "B": "contenção da especulação no mercado imobiliário.",
+      "C": "democratização da habitação popular.",
+      "D": "valorização das funções tradicionais.",
+      "E": "priorização da gestão participativa."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6361,20 +6556,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 61
+    "sourceQuestion": 61,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4067,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 62 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Constatou-se uma infima inserção da indústria\nbrasileira nas novas tecnologias ancoradas na\nmicroeletrônica, capazes de acarretar elevação da\nprodutividade nacional de forma sustentada. Os motores\ndo crescimento nacional, há décadas, são os grupos\nrelacionados a commodities agroindustriais e à indústria\nrepresentativa do antigo padrão fordista de produção,\nesta úllima também limitada pela baixa potencialidade\nfutura de desencadear inovações tecnológicas capazes\nde proporcionar elevação sustentada da produtividade.\nem pen gor emas e 182016 (ip\nUm efeito desse cenário para a sociedade brasileira tem\nsido o(a)\n09 barateamento da cesta básica.\n© retormo à estatização econômica.\nO ampliação do poder de consumo.\n© subordinação aos fluxos globais.\n@ incentivo à politica de modemização.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6383,20 +6581,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 62
+    "sourceQuestion": 62,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4068,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 63 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "As alividades mineradoras têm criado confitos\ncom extrativistas, quilombolas, pequenos agricultores,\nribeirinhos, pescadores artesanais e povos indígenas.\nEm geral, estes sujeitos têm encontrado grande\ndificuldade de reproduzir suas dinâmicas territoriais\ndepois da instalação da atividade mineradora, nem\nenema: GH da [Cademo\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6405,20 +6606,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 63
+    "sourceQuestion": 63,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4069,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 64 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Por maioria, nós não entendemos uma quantidade\nrelativa. maior, mas a determinação de um estado ou\nde um padrão em relação ao qual tanto as quantidades\nmaiores quanto as menores serão ditas minoritárias.\nMaioria supõe um estado de dominação. É nesse sentido\nque as mulheres, as crianças e também os animais são\nminoritários.\nNo texto, a caracterização de uma minoria decorre da\nexistência de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ameaças de extinção social",
+      "B": "políticas de incentivos estatais.",
+      "C": "relações de natureza arbitrária.",
+      "D": "valorações de conexões simétricas.",
+      "E": "hisrarquizações de origem biológica."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6427,20 +6631,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 64
+    "sourceQuestion": 64,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4070,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 65 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Ao mesmo tempo, graças às amplas possibilidades\nque tive de observar a classe média, vossa adversária\nrapidamente conclui que vós tendes razão, inteira razão,\nem não esperar dela qualquer ajuda. Seus interesses\nsão diametralmente opostos aos vossos, mesmo que ela\nprocure incessantemente afirmar o contrário e vos queira\npersuadir que sente a maior simpatia por vossa sorte.\nMas seus atos desmentem suas palavras.\nENGELS Atuação da clase trabalhadora a gars So Pad: otemp, ot.\nNo texto, o autor apresenta delineamentos éticos que\ncorrespondem ao(s)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "conceito de luta de classes,",
+      "B": "alicerce da ideia de mais-valia.",
+      "C": "fundamentos do método científico.",
+      "D": "paradigmas do processo indagativo.",
+      "E": "domínios do fetichismo da mercadoria."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6449,20 +6656,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 65
+    "sourceQuestion": 65,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4071,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 66 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Houve crescimento de 74% da população brasileira\nencarcerada entre 2005 e 2012. As análises possibilitaram\nidentificar o perfil da população que está nas prisões do\npais: homens, jovens (abaixo de 29 anos), negros, com\nensino fundamental incompleto, acusados de crimes\npatrimoniais e, no caso dos presos adultos, condenados\ne cumprindo regime fechado e, majoritariamente, com\npenas de quatro até oito anos.\nNesse contexto, as políticas públicas para minimizar a\nproblemática descrita devem privilegiar a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "flexibilização do Código Civil.",
+      "B": "promoção da inclusão social",
+      "C": "redução da maioridade penal",
+      "D": "contenção da corrupção política.",
+      "E": "expansão do período de reclusão."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6471,20 +6681,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 66
+    "sourceQuestion": 66,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4072,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 67 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Nem guerras, nem revoltas. Os incêndios eram\no mais frequente tormento da vida urbana no Regnum\nHalicum. Entre 880 e 1080, as cidades estiveram\nconstantemente entregues ao apetite das chamas, A certa\naltura, a documentação parece vencer pela insistência do\nvocabulário, levando até oleitormaiscriticoacogitarqueos\nmedievais tinham razão ao tratar aqueles acontecimentos\n‘como castigos que antecediam o julgamento final. Como\num quinto cavaleiro apocalíptico, o incêndio agia ao feitio\nda peste ou da fome: vagando mundo afora, retornava\nde tempos em tempos e expurgava justos e pecadores\nnum tormento derradeiro, como insistiam os textos do\nséculo X. O impacto acarretado sobre as relações sociais\nera imediato e prolongava-se para além da destruição\nmaterial. As medidas proclamadas pelas autoridades\nfaziam mais do que reparar os danos e reconstruir a\npaisagem: elas convertiam a devastação em uma ocasião\npara alterar e expandir não só a topografia urbana, mas\nas práticas sociais até então vigentes.\nDe acordo com o texto, a catástrofe descrita impactava as\nsociedades medievais por proporcionar a\nO correção dos métodos preventivos e das regras\nsanitárias.\nO revelação do descaso público e das degradações\nambientais\ntransformação do imaginário popular e das crenças\nreligiosas.\nO remodelação dos sistemas politicos e das\nadministrações locais.\n@ reconfiguração dos espaços ocupados e das\ndinâmicas comunitárias.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6493,20 +6706,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 67
+    "sourceQuestion": 67,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4073,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 68 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O protagonismo indigena vem optando por uma\nestratégia de “des-invisibilização”, valendo-se da\ndinâmica das novas tecnologias. Em outubro de 2012,\napós receberem uma liminar lhes negando o direito a\npermanecer em suas terras, os Guarani de Pyelito Kue\ndivulgaram uma carta na qual se dispunham a morrer,\nmas não a sair de suas terras. Esse fato foi amplamente\ndivulgado, gerando uma grande mobilização na internet,\nque levou milhares de pessoas a escolherem seu lado,\ndivulgando a hashtag “#somostodosGuarani-Kaiowa\"\nou acrescentando o sobrenome Guarani-Kaiowé a seus\nnomes nos perfis das principais redes sociais.\nCAPER. A;90NLLA O Asam de ng corte om\nA estratégia comunicativa adotada pelos indigenas, no\ncontexto em pauta, teve por efeito",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "enfraquecer as formas de miitância politica",
+      "B": "abalar a identidade de povos tradicionais",
+      "C": "inserir as comunidades no mercado global.",
+      "D": "distanciar os grupos de culturas locais.",
+      "E": "angariar o apoio de segmentos étnicos extemos."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6515,20 +6731,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 68
+    "sourceQuestion": 68,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4074,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 69 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O governo Vargas, principalmente durante o Estado\nNovo (1937-1945), pretendeu construir um Estado capaz\nde criar uma nova sociedade. Uma dimensão-chave\ndesse projeto tinha no território seu foco principal. Não por\nacaso, foram criadas então instituições encarregadas de\nfornecer dados confiáveis para a ação do governo, como\no Conselho Nacional de Geografia, o Conselho Nacional\nde Cartografia, o Conselho Nacional de Estatística e o\nInstituto Brasileiro de Geografia e Estatística (IBGE), este\nde 1938,\nPPL A oito Otoni pci\nA criação dessas instituigdes pelo govemo Vargas\nrepresentava uma estratégia política de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Ievantarinformações para a preservação da paisagem dos sertões.",
+      "B": "controlar o crescimento exponencial da população brasileira.",
+      "C": "obter conhecimento científico das diversidades regionais.",
+      "D": "conter o fluxo migratório do campo para a cidade.",
+      "E": "propor a criação de novas unidades da federação."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6537,20 +6756,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 69
+    "sourceQuestion": 69,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4075,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 70 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Foram esses cientistas Xavante que esclareceram\nos mistérios da germinação de cada uma das sementes.\nEles tinham o conhecimento para quebrar a dormência.\nOfogo era fundamental para muitas; para outras, o caminho\npara despertar passava pelo sistema digestivo dos animais\nsilvestres. “Essa planta nasce depois que fazemos a caçada\ncom fogo, diziam eles, esta outra quando a anta caga a\nsemente, aquela precisa ser comida pelo lobo”. Aliando os\nconhecimentos dos cientistas da aldeia e da cidade, essa\nárea do Cerrado foi recuperada totalmente.\ne age ler\nNo texto, a relação socioespacial dos indigenas evidencia\na importância do(a)\n@ prática agricola para a logística nacional.\n© cultivo de hortaliças para o consumo urbano.\nsaber tradicional para a conservação ambiental\n© criação de gado para o aprimoramento genético.\n@ reflorestamento comercial para a produção orgânica.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6559,20 +6781,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 70
+    "sourceQuestion": 70,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4076,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 71 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Desde os primórdios da formação da crosta terrestre\naté os dias de hoje, as rochas formadas vêm sendo\ncontinuamente destruídas. Os produtos resultantes da\ndestruição das rochas são transportados pela água, vento\ne gelo a toda superfície terrestre, acionados pelo calor e\npela gravidade. Cessada a energia transportadora, são\ndepositados nas regiões mais baixas da crosta, podendo\nformar pacotes rochosos.\nAs transformações na superficie terrestre, conforme\ndescritas no texto, compõem o seguinte processo\ngeomorfológico:",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Ciclo sedimentar",
+      "B": "Instabilidade sísmica.",
+      "C": "intemperismo biológico.",
+      "D": "Derramamento basaitico,",
+      "E": "Compactação superficial"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6581,20 +6806,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 71
+    "sourceQuestion": 71,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4077,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 72 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A participação social no planejamento e na gestão\nurbanos ganhou impulso a partir do Estatuto da Cidade\n(Lei n. 10.257/2001), que estabeleceu condições para\nelaboração de planos diretores participativos, instrumentos\nesses indutores da expansão urbana e do ordenamento\nterritorial que, a princípio, devem buscar representar\nos interesses dos diversos segmentos da sociedade.\nNo entanto, é notório o limite à representação dos\ninteresses das camadas sociais menos favorecidas nesse\nprocesso. Este rumo deve ser corrigido e deve-se continuar\nbuscando mecanismos de inclusão dos interesses de toda\na sociedade.\nSede o diario tree male a\nenema: GH da [Cademo\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6603,20 +6831,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 72
+    "sourceQuestion": 72,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4078,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 73 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Quando Getúlio Vargas se suicidou, em agosto de\n1954, o pais parecia à beira do caos. Acuado por uma\ngrave crise politica, o velho lider preferiu uma bala no\npeito à humilhação de aceitar uma nova deposição,\ncomo a que sofrera em outubro de 1945. Entretanto, ao\ncontrário do que imaginavam os inimigos, ao ruído do\nestampido não se seguiu o silêncio que cerca a derrota.\nO evento analisado no texto teve como repercussão\nimediata na política nacional a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "reação popular.",
+      "B": "intervenção militar.",
+      "C": "abertura democrática.",
+      "D": "campanha anticomunista.",
+      "E": "radicalização oposicionista."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6625,20 +6856,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 73
+    "sourceQuestion": 73,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4079,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 74 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Eu, Dom João, pela graça de Deus, faço saber a V.\nMercê que me aprouve banir para essa cidade vários\nciganos — homens, mulheres e crianças — devido ao\nseu escandaloso procedimento neste reino. Tiveram\nordem de seguir em diversos navios destinados a esse\nporto, e, tendo eu proibido, por lei recente, o uso da sua\nlingua habitual, ordeno a V. Mercê que cumpra essa lei\nsob ameaça de penalidades, não permitindo que ensinem\ndita lingua a seus filhos, de maneira que daqui por diante\no seu uso desapareça.\nAordem emanada da Coroa portuguesa para sua colônia\namericana, em 1718, apresentava um tratamento da\nidentidade cultural pautado em",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "converter grupos infiéis à religião oficial",
+      "B": "suprimir formas divergentes de interação social.",
+      "C": "evitar envolvimento estrangeiro na economia local.",
+      "D": "reprimir individuos engajados em revoltas nativistas.",
+      "E": "controlar manifestações artísticas de comunidades autóctones,"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6647,20 +6881,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 74
+    "sourceQuestion": 74,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4080,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 75 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "De um lado, ancorados pela prática médica europeia,\npor outro, pela terapêutica indígena, com seu amplo uso\nda flora nativa, os jesuítas foram os reais iniciadores do\nexercício de uma medicina híbrida que se tornou marca\ndo Brasil colonial. Alguns religiosos vinham de Portugal já\nversados nas artes de curar, mas a maioria aprendeu na\nprática diária as funções que deveriam ser atribuídas a\num físico, cirurgião, barbeiro ou boticário.\nURGE O Domne pas Cots 2a ep\nConforme o texto, o que caracteriza a construção da\nprática medicinal descrita é a\n(9 adoção de rituais místicos.\nO rejeição dos dogmas cristãos.\n@ superação da tradição popular.\nO imposição da farmacologia nativa.\nconjugação de saberes empíricos.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6669,20 +6906,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 75
+    "sourceQuestion": 75,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4081,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 76 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Desde o século XI que a cristandade ocidental era\nagitada pelo desafio lançado pela cultura profana — a dos\nromances de cavalaria, mas também a cultura folclórica\ndos camponeses e igualmente a dos citadinos, de caráter\nmais jurídico — à cultura eclesiástica, cujo veículo era o\nlatim. Francisco de Assis veio alterar a situação, propondo\naos seus ouvintes uma mensagem acessível à todos e,\nsimultaneamente, enobrecendo a língua vulgar através\ndo seu uso na religião.\nVAIGHE A A spiidade da ad Mi idea tv\nO comportamento desse religioso demonstra uma\npreocupação com as caracteristicas assumidas pela\nIgreja e com as desigualdades sociais compartilhada no\nseu tempo pelos(as)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "senhores feudais",
+      "B": "movimentos heréticos.",
+      "C": "integrantes das Cruzadas.",
+      "D": "corporações de ofícios.",
+      "E": "universidades medievais."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6691,20 +6931,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 76
+    "sourceQuestion": 76,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4082,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 77 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Por que o Brasil continuou um só enquanto a\nAmérica espanhola se dividiu em vários paises?\nPara o historiador brasileiro José Murilo de Carvalho,\nno Brasil, parte da sociedade era muito mais coesa\nideologicamente do que a espanhola. Carvalho argumenta\nque isso se deveu à tradição burocrática portuguesa.\n“Portugal nunca permitiu a criação de universidades em sua\ncolônia”. Por outro lado, na América espanhola, entre 1772\ne 1872, 150 mil estudantes se formaram em universidades\nlocais, Para o historiador mexicano Alfredo Ávila Rueda, as\nuniversidades na América espanhola eram, em sua maioria,\nreacionárias. Nesse sentido, o historiador mexicano diz\nacreditar que a livre circulação de impressos (jomais, livros\ne panfletos) na América espanhola, que não era permitida\nna América portuguesa (a proibição só foi revertida em\n1808), teve função muito mais importante na construção de\nregionalismos do que propriamente as universidades.\nE CH dia [Cademo\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6713,20 +6956,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 77
+    "sourceQuestion": 77,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4083,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 78 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO!\nMacaulay enfatizou o glorioso acontecimento\nrepresentado pela luta do Parlamento contra Carlos |\nem prol da liberdade politica e religiosa do povo inglês;\nsignificou o primeiro confronto entre a liberdade e a\ntirania real, primeiro combate em favor do Iluminismo e\ndo Liberalismo.\nTEXTO!\nA Revolução Inglesa, como todas as revoluções,\nfoi causada pela ruptura da velha sociedade, e não\npelos desejos da velha burguesia. Na década de 1640,\ncamponeses se revoltaram contra os cercamentos,\ntecelões contra a miséria resultante da depressão e os\ncrentes contra o Anticristo a fim de instalar o reino de\nCristo na Tera.\nA concepção da Revolução Inglesa apresentada no Texto Il\ndiferencia-se da do Texto | ao destacar a existência de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "pluralidade das demandas sociais.",
+      "B": "homogeneidade das lutas religiosas",
+      "C": "unicidade das abordagens históricas.",
+      "D": "superficialidade dos interesses políticos.",
+      "E": "superioridade dos aspectos econômicos."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6735,20 +6981,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 78
+    "sourceQuestion": 78,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4084,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 79 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "As grandes empresas seriam, — certamente,\nrepresentação de um exercício de poder, ante 0 grau de\nautonomia de ação de que dispõem. O que se pretende\nsalientar é a ideia de enclave: plantas industriais que\nestabelecem relações escassas com o entomo, mas\nexercem grande influência na economia extralocal\nQue tipo de ação tomada por empresas reflete a forma\nde territorializagao da produção industrial apresentada\nno texto?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Criação de vilas operárias.",
+      "B": "Promoção de eventos comunitários.",
+      "C": "Recuperação de áreas degradadas.",
+      "D": "Incorporação de saberes tradicionais.",
+      "E": "Importação de mão de obra qualificada"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6757,20 +7006,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 79
+    "sourceQuestion": 79,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4085,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 80 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Numa sociedade em transição, a marcha da\nmudança, em diferentes graus, está impressa em todos\nos aspectos da ordem social, especialmente no jogo\npolítico, que nessas sociedades sempre apresenta\npadrões característicos de ambivalência, cujas raízes\nsociais se encontram na coexistência de dois padrões\nde estrutura social: o padrão tradicional, em declínio, e\no novo, emergente, em expansão. Em tais situações,\né possível encontrar, simultaneamente, apoio para uma\norientação política ou para outra que seja exatamente o\nseu oposto. O padrão ambivalente do processo político,\nnas sociedades em desenvolvimento, é o que explica\num dos seus traços mais salientes, e que consiste\nna tendência ao adiamento das grandes decisões.\nResulta daí que a inércia política ou a convulsão\npolítica podem se suceder uma à outra em períodos\nsurpreendentemente curtos.\nPRO. A ©. Sociologia o deserichimento Ride lero\nação la 187 (tao,\nDe acordo com a perspectiva apresentada, central no\npensamento social brasileiro dos anos 1950 e 1960, o\ndesenvolvimento do pais foi marcado por",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "radicalidade nas agendas de reforma das elites dirigentes,",
+      "B": "anomalias na execução dos planos econômicos ortodoxos.",
+      "C": "descompassos na construção de quadros institucionais modernos.",
+      "D": "ilegitimidade na atuação dos movimentos de representação classista",
+      "E": "vagarosidade na dinâmica de aperfeiçoamento dos programas partidários."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6779,20 +7031,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 80
+    "sourceQuestion": 80,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4086,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 81 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Manifesto dos Pioneiros da Educação Nova — 1932\nA Educação Nova, alargando a sua finalidade para\nalém dos limites das classes, assume, com uma feição\nmais humana, a sua verdadeira função social, preparando-\n-se para formar ‘a hierarquia democrática” pela \"hierarquia\ndas capacidades”, recrutadas em todos os grupos sociais,\n‘a que se abrem as mesmas oportunidades de educação.\nEla tem, por objeto, organizar e desenvolver os meios de\nação durável com o fim de “dirigir os desenvolvimentos\nnatural e integral do ser humano em cada uma das etapas\nde seu crescimento”, de acordo com uma certa concepção\ndo mundo.\nOs autores do manifesto citado procuravam contrapor-\n-Se a0 caráter oligárquico da sociedade brasileira. Nesse\nsentido, o trecho propõe uma relação necessária entre\n@ ensino técnico e mercado de trabalho.\n© acesso à escola e valorização do mérito.\nampliação de vagas e formação de gestores.\n© disponibilidade de financiamento e pesquisa avançada\n@ remuneração de professores e extinção do analfabetismo.\nenem: CH=1º da [Cademo\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6801,20 +7056,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 81
+    "sourceQuestion": 81,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4087,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 82 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Sócrates: “Quem não sabe o que uma coisa é, como\npoderia saber de que tipo de coisa ela 6? Ou te parece\nser possivel alguém que não conhece absolutamente\nquem é Mênon, esse alguém saber se ele é belo, se é rico\ne ainda se é nobre? Parece-te ser isso possivel? Assim,\nMênon, que coisa afirmas ser a virtude?”\nPLATÃO. Minon od Jon PUC Re: Ste aut Log 201 (datado\nA atitude apresentada na interlocução do filósofo com\nMênon é um exemplo da utilização do(a)",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "escrita epistolar.",
+      "B": "método dialético.",
+      "C": "linguagem trágica.",
+      "D": "explicação fisicalista.",
+      "E": "suspensão judicativa."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6823,20 +7081,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 82
+    "sourceQuestion": 82,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4088,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 83 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No seio de diversos povos africanos, nomeadamente\nno antigo Reino do Congo, existem testemunhos gráficos\nde que a escrita tomava várias formas. Exemplo disso são\nas tampas de panela esculpidas em baixo-relevo do povo\nWoyo (região de Cabinda), com cenas e provérbios do\ncotidiano, desenhos na terra ou areia, imagens gravadas\nou inscritas nos bastões de chefe ou em pedras sagradas,\nmas, sobretudo, movimentos do corpo humano inscritos\nnum gestual familiar. Entre os Woyo existia o costume\nde os pais oferecerem aos filhos testos ou tampas de\npanelas entalhados, transmitindo uma espécie de recado,\ncom signos codificados que traduziam orientações para\nconseguir uma boa relação conjugal, ter sensatez na\nescolha do cônjuge e estar alerta para as dificuldades do\ncasamento.\nPara o povo Woyo, os artefatos culturais mencionados no\ntexto cumprem a função de uma",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "pedagogia dos costumes sociais,",
+      "B": "imposição das formas de comunicação.",
+      "C": "desvalorização dos comportamentos da juventude.",
+      "D": "destituição dos valores do matrimônio.",
+      "E": "etnografia das celebrações religiosas."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6845,20 +7106,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 83
+    "sourceQuestion": 83,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4089,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 84 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão Som\nO torém dependia de organização familiar, sendo\nbrincado por pessoas com vínculos de parentesco\n@ afinidade que viviam no local. Era visto como uma\nbrincadeira, um entretenimento feito para os próprios\nparticipantes e seus conhecidos. O tempo do caju era\no pretexto para sua realização, sendo chamadas várias\npessoas da região a fim de tomar mocororó, bebida\nfermentada do caju.\nO ritual mencionado no texto atribui à manifestação cultural\nde grupos indigenas do Nordeste brasileiro a função de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "celebrar a história oficial.",
+      "B": "estimular a coesão social.",
+      "C": "superar a atividade artesanal.",
+      "D": "manipular a memória individual.",
+      "E": "modernizar o comércio tradicional"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6867,20 +7131,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 30,
     "language": null,
-    "sourceQuestion": 84
+    "sourceQuestion": 84,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4090,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 85 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No dia 8 de Outubro do anno proximo\npassado fugio da fazenda do Bom Retiro, pro-\npriedade do dr. Francisco Antonio de Araújo,\no escravo José, pardo claro, de 22 annos de\nidade, estatura regular, cheio de corpo, com\na falta de um dente na frente do lado supe-\nrior, cabellos avermelhados, orelha roxa,\nfalla macia, e andar vagaroso. Intitula-se\nforro, e quando fugio à primeira vez esteve\ncontratado como camarada em uma fazenda\nem Capivary.\nQuem o aprehender e entregar ao seu se-\nnhor no Amparo, ou o recolher a cadêa em\nqualquer parte será bem gratificado, e protes-\nta-se com todo o rigor da lei contra quem o\nac outar. 15-13\nNo anúncio publicado na segunda metade do século XIX,\nqual a estratégia de resistência escrava apresentada?\n(9 Criação de relações de trabalho.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Fundação de territórios quilombolas.",
+      "B": "Suavização da aplicação de normas.",
+      "C": "Regularização das funções remuneradas.",
+      "D": "Constituição de economia de subsistência.",
+      "E": "E CH= dia | Gadomo"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6889,20 +7156,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 30,
     "language": null,
-    "sourceQuestion": 85
+    "sourceQuestion": 85,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4091,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 86 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A filosofia é como uma árvore, cujas raizes são a\nmetafísica; o tronco, a física, e os ramos que saem do\ntronco são todas as outras ciências, que se reduzem\na três principais: a medicina, a mecânica e a moral,\nentendendo por moral a mais elevada e a mais perfeita\nporque pressupõe um saber integral das outras ciências,\ne & o último grau da sabedoria.\nEssa construção alegórica de Descartes, acerca da\ncondição epistemológica da filosofia, tem como objetivo",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "sustentar a unidade essencial do conhecimento.",
+      "B": "refutar elemento fundamental das crenças.",
+      "C": "impulsionar o pensamento especulativo.",
+      "D": "recepcionar o método experimental.",
+      "E": "incentivar a suspensão dos juízos."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6911,20 +7181,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 30,
     "language": null,
-    "sourceQuestion": 86
+    "sourceQuestion": 86,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4092,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 87 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Minha fórmula para o que há de grande no individuo\né amor fat: nada desejar além daquilo que é, nem diante\nde si, nem atrás de si, nem nos séculos dos séculos.\nNão se contentar em suportar o inelutavel, e ainda menos\ndissimulé-lo, mas amá-lo.\nNETO ap ERR. Anand nd rae\nEssa formula indicada por Nietzsche consiste em uma\ncritica à tradição crista que",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "combate as práticas sociais de cunho afetivo.",
+      "B": "impede o avanço científico no contexto modemo.",
+      "C": "associa os cultos pagãos à sacralização da natureza.",
+      "D": "condena os modelos filosóficos da Antiguidade Clássica.",
+      "E": "consagraa realização humana ao campo transcendental"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6933,20 +7206,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 30,
     "language": null,
-    "sourceQuestion": 87
+    "sourceQuestion": 87,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4093,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 88 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "É preciso usar de violência e rebater varonilmente os\napetites dos sentidos sem atender ao que a came quer ou\nnão quer, mas trabalhando por sujeité-la ao espírito, ainda\nque se revolte. Cumpre castigá-a e curvala à sujeição,\na tal ponto que esteja disposta para tudo, sabendo\ncontentar-se com pouco e deleitar-se com a simplicidade,\nsem resmungar por qualquer incômodo.\nQual caracteristica do ascetismo medieval é destacada\nno texto?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Exaltação do ritualismo litúrgico.",
+      "B": "Afirmação do pensamento racional.",
+      "C": "Desqualificação da atividade laboral",
+      "D": "Condenação da alimentação impura.",
+      "E": "Desvalorização da materialidade corpórea"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6955,20 +7231,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 30,
     "language": null,
-    "sourceQuestion": 88
+    "sourceQuestion": 88,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4094,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 89 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Movimento de tr\nEQUINOGIO\n21 de março\nEsces ao\nsoLsricio T\n21 de junho :\nConsiderando as informações apresentadas, o prédio do\n12 horas, projetará sua sombra para a direção\nO norte,\nO sul.\nleste,\nO oeste\n@ nordeste.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6977,20 +7256,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 31,
     "language": null,
-    "sourceQuestion": 89
+    "sourceQuestion": 89,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4095,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
     "topic": "ENEM 2021",
-    "statement": "Questão 90 do ENEM 2021 — 1º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO|\n| +\ntan =F:\n= ht A an A ee\nDR A A OS\nPat CS hla.\nTEXTO II\nA repugnante tarefa de carregar lixo e os dejetos da «\núnico escravo da familia ou ao de menor status ou valor. Toc\npopularmente como tigres” levavam tubos ou barris de excre\nA ação representada na imagem e descrita no texto evid\nséculos XVII e XIX caracterizada pela",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "valorização do trabalho braçal.",
+      "B": "reileração das hierarquias sociais",
+      "C": "sacralização das atividades laborais.",
+      "D": "superação das exclusões econômicas.",
+      "E": "ressigniicação das heranças religiosas. enema GH dia | Gademo"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -6999,20 +7281,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 31,
     "language": null,
-    "sourceQuestion": 90
+    "sourceQuestion": 90,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4096,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 91 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nO ener\nCIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS\nQuestões de 91 a 135\nQuestão 1S eet",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "recessivo.",
+      "B": "dominante.",
+      "C": "codominante.",
+      "D": "poligênico.",
+      "E": "polialético."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7021,20 +7306,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 2,
     "language": null,
-    "sourceQuestion": 91
+    "sourceQuestion": 91,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4097,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 92 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Faixa de força\nDispositivo eletrônico sletomouts W)\n[1 | Religiodeparede | | 12015\n[mm Camera cigar 75a78\nNotebooWLaptop | 1958200,\no\noi\nein\nOW\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7043,20 +7331,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 2,
     "language": null,
-    "sourceQuestion": 92
+    "sourceQuestion": 92,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4098,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 93 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O alcoolômetro Gay Lussac é um instrumento destinado\na med tor de Boo, em orcriagem d vol Gt.\nde seuss de qua é ou ra ara O \"GLa 100 “GL\ncom divsbos de 01 “GLA concepção do aloolomato\nSe baseia no prncii de obitade de Arquimedes\nsemeharte do funcionamento de um denimeto A escala\nde inavumorio 6 aura a 20°C\" Sendo mecassára a\ncoreção da medi, cago lempsraa da solução não\nGetele ne temperatura de aferição. É apresentada porte da\ntabla de coven de um aeosloreto coma temperatura\nDESSES\ntemperatura 20 *C\n“GL Leitura da temperatura (°C)\n[20 [21 [ 22 | 23 [24 [2\nÉ cones i corr da medida de nstumarin poi\num aumento na temperatura promove o()",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "aumento da dissociação da água.",
+      "B": "aumento da densidade da água e do alcool",
+      "C": "mudança do volume dos materiais por dilatação.",
+      "D": "aumento da concentração de álcool durante a medida.",
+      "E": "alteração das propriedades químicas da mistura deeds bo"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7065,20 +7356,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 2,
     "language": null,
-    "sourceQuestion": 93
+    "sourceQuestion": 93,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4099,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 94 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "© Premio Nobel de Quimica de 2000 deveu-se\ndi danosa, 6 ap. dasanvehnenio de, palineos\nCondutores” Eases mans am ampla spicapso om\nnovos deposives clrouminescentas (LEDs), Shas\nFabião ete. Una propredade-cnave de um polmero\ndolo é a pes do ye des Confagade a\nlo de caia ppa do eo\nLin ates des polimero opened ole sta\nPRAY PRA\nE) N\nZ\no kt Noe\n8\nmeo rã ana]\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7087,20 +7381,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 2,
     "language": null,
-    "sourceQuestion": 94
+    "sourceQuestion": 94,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4100,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 95 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Estudo aponta que a extinção de preguiças-gigantes,\ncuja base da dieta eram frutos e sementes, provocou\nimpactos consideráveis na vegetação do Pantanal\nbrasileiro. A flora, embora não tenha desaparecido,\ntornou-se menos abundante que no passado, além de\nocupar áreas mais restritas.\nBICUDO. rios pesada Eca Pesa Fapesp 29, me go,\nO evento descrito com a fora ocorreu em razão da redução",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "da produção de flores.",
+      "B": "do tamanho das plantas.",
+      "C": "de fatores de disseminação das sementes.",
+      "D": "da quantidade de sementes por fruto.",
+      "E": "dos habitats disponíveis para as plantas."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7109,20 +7406,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 3,
     "language": null,
-    "sourceQuestion": 95
+    "sourceQuestion": 95,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4101,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 96 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Carros elétricos estão cada vez mais baratos,\nno entanto, os órgãos governamentais e a indústria se\npreocupam com o tempo de recarga das baterias, que é\nmuito mais lento quando comparado ao tempo gasto para\nencher o tanque de combustivel. Portanto, os usuários\nde transporte individual precisam se conscientizar dos\nganhos ambientais dessa mudança e planejar com\nantecedência seus percursos, pensando em pausas\nnecessárias para recargas.\nApós realizar um percurso de 110 km, um motorista\npretende recarregar as baterias de seu carro elétrico, que\ntem um desempenho médio de 5,0 km/kWh, usando um\ncarregador ideal que opera a uma tensão de 220 V e é\npercorrido por uma corrente de 20 A.\nQuantas horas são necessárias para recarregar a energia\nutilizada nesse percurso?\n© 0,005\n© 0,125\n@ 25\n® 50\neso\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7131,20 +7431,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 3,
     "language": null,
-    "sourceQuestion": 96
+    "sourceQuestion": 96,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4102,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 97 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Nas angiospermas, além da fertilização da oosfera,\nexiste uma segunda fertilização que resulta num tecido\ntriploide.\nEssa segunda fertilização foi importante evolutivamente,\npois viabilizou a formação de um tecido de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "nutrição para o fruto.",
+      "B": "reserva para o embrião.",
+      "C": "revestimento para a semente.",
+      "D": "proteção para o megagametófito.",
+      "E": "vascularização para a planta jovem."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7153,20 +7456,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 3,
     "language": null,
-    "sourceQuestion": 97
+    "sourceQuestion": 97,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4103,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 98 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão9s $$ rrr\nCom o objetivo de proporcionar aroma e sabor a\ndiversos alimentos, a indústria alimentícia se utiliza de\nflavorizantes. Em geral, essas substâncias são ésteres,\ncomo as apresentadas no quadro.\nporea de C,H,CO,CH. Kiwi\nmetia pi\nAcetato de | CH co (CH,),CH(CH,), | Banana\nisoamila :C0,(CH),CH(CH),\nnee de CHCO,CHCH, | Pêssego\nbenzila LCO,CH.GH,\nPropanoato de\nCar\nAntranilato de\nSEE\nO aroma do flavorizante derivado do ácido etanoico e que\napresenta cadeia carbônica saturada é de\nO kiwi\nO banana\nO péssego.\nO um\n@ wa\nQuesto 99 rere\nO eletrocardiograma é um exame cardíaco que mede\na intensidade dos sinais elétricos advindos do coração.\nA imagem apresenta o resultado típico obtido em um\npaciente saudável e a intensidade do sinal (V,,) em\nunção do tempo.\nSOE EEE\nE BO SSS GORRO GORRO SORO GORRO E\n£ E ct ces ct\ne EEE EEE EEE EEE EEE EEE\ntempo (5)\nDe acordo com o eletrocardiograma apresentado, qual\nfoi o número de batimentos cardíacos por minuto desse\npaciente durante o exame?\n© 30\n© 60\ne 100\no 120\ne 180\nAMARELO - 1º Aplicação 3\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7175,20 +7481,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 3,
     "language": null,
-    "sourceQuestion": 98
+    "sourceQuestion": 98,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4104,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 99 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão9s $$ rrr\nCom o objetivo de proporcionar aroma e sabor a\ndiversos alimentos, a indústria alimentícia se utiliza de\nflavorizantes. Em geral, essas substâncias são ésteres,\ncomo as apresentadas no quadro.\nporea de C,H,CO,CH. Kiwi\nmetia pi\nAcetato de | CH co (CH,),CH(CH,), | Banana\nisoamila :C0,(CH),CH(CH),\nnee de CHCO,CHCH, | Pêssego\nbenzila LCO,CH.GH,\nPropanoato de\nCar\nAntranilato de\nSEE\nO aroma do flavorizante derivado do ácido etanoico e que\napresenta cadeia carbônica saturada é de\nO kiwi\nO banana\nO péssego.\nO um\n@ wa\nQuesto 99 rere\nO eletrocardiograma é um exame cardíaco que mede\na intensidade dos sinais elétricos advindos do coração.\nA imagem apresenta o resultado típico obtido em um\npaciente saudável e a intensidade do sinal (V,,) em\nunção do tempo.\nSOE EEE\nE BO SSS GORRO GORRO SORO GORRO E\n£ E ct ces ct\ne EEE EEE EEE EEE EEE EEE\ntempo (5)\nDe acordo com o eletrocardiograma apresentado, qual\nfoi o número de batimentos cardíacos por minuto desse\npaciente durante o exame?\n© 30\n© 60\ne 100\no 120\ne 180\nAMARELO - 1º Aplicação 3\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7197,20 +7506,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 3,
     "language": null,
-    "sourceQuestion": 99
+    "sourceQuestion": 99,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4105,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 100 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Entre 2014 e 2016, as regiões centrale oeste da África:\npode chegar a 90%. Em regiões de clima tropical e subtropic\nvírus da dengue, que, embora tenha período de incubação m\nSegundo as informações do texto e aplicando principios de «\nqual dos dois virus infecta seres humanos há mais tempo?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Ebola, pois o maior período de incubação reflete duração",
+      "B": "Dengue, pois o menor periodo de incubação reflete duração",
+      "C": "Ebola, cuja alta letalidade indica maior eficiência do virus evolução.",
+      "D": "Ebola, cujos surtos epidémicos concentram-se no « evolutiva dos seres humanos.",
+      "E": "Dengue, cuja baixa letalidade indica maior eficiência longo da coevolução patógeno-hospedeiro"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7219,20 +7531,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 4,
     "language": null,
-    "sourceQuestion": 100
+    "sourceQuestion": 100,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4106,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 101 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Aimagem apresenta as etapas do funcionamento de un\nb=\nPS\nSPA\nesse\nSeta)\no é me\nCaixa de Pa fi\nÀ\nRetém os detritos BEM] NE fi L$\nda pia e cozinha, 3\nliberando água A — +.\nquase isenta de mm 2\ngordura, Ss\nQB Caixa de «\npassagem\nRecebe o que vem dos banheiros\ne lavanderia, reunindo todo o esgoto\nresidencial\nEm qual etapa decanta-se 0 lodo a ser separado do esgoto\noO.\n@2\n@3\nos\n06\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7241,20 +7556,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 4,
     "language": null,
-    "sourceQuestion": 101
+    "sourceQuestion": 101,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4107,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 102 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O plantio por estaquia é um método de propagação «\nno solo para produzir novas gerações. Na floricultura, é «\npropagação da planta é positiva em razão da aplicação de\nAutiização de auxinas no método de estaquia das roseira\n@ floração da planta.\nO produção de gemas laterais.\n@ formação de folhas maiores.\nO formação de raízes adventícias.\nprodução de compostos energéticos.\nan aa casera =\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7263,20 +7581,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 4,
     "language": null,
-    "sourceQuestion": 102
+    "sourceQuestion": 102,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4108,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 103 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "dão com à pel Brlade-A fita iib ln ui\né exeretada pel bile ou pel uia. A imagem Musa o que\nLumirrubina\now “ado |\npegado\nBee",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ótico.",
+      "B": "funcional.",
+      "C": "de cadeia.",
+      "D": "de posição.",
+      "E": "geométrico."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7285,20 +7606,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 5,
     "language": null,
-    "sourceQuestion": 103
+    "sourceQuestion": 103,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4109,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 104 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "i Wa i ann\ndesempenho. Considerando o mesmo automével em d\n[ramos Wotora gasotina\nge 08 100 kmin em 184\nVelocidade máxima 165 kmh",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Como a versão a gasolina consegue a maior aceleraçá",
+      "B": "Como a versão a gasolina atinge o maior valor de ene!",
+      "C": "Como a versão a álcool apresenta a maior taxa de var potência",
+      "D": "Como ambas as versões apresentam a mesma varie",
+      "E": "Como a versão a gasolina fica com o motor trabalhan"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7307,20 +7631,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 5,
     "language": null,
-    "sourceQuestion": 104
+    "sourceQuestion": 104,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4110,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 105 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um garoto precisa montar um circuito que acenda\ntrês lâmpadas de cores diferentes, uma de cada vez.\nEle dispõe das lâmpadas, de fios, uma bateria e dois\ninterruptores, como Ilustrado, junto com seu símbolo de\ntrês pontos. Quando esse interruptor fecha AB, abre BC\nevice-versa\nBateria Lâmpadas\na age\nRs ct\n© garoto fez cinco circuitos elétricos usando os dois\ninterruptores, mas apenas um satisfaz a sua necessidade.\nEsse circuito é representado por\no\n+ a Coaa Cs\nE— (vence) (vermeuma) ( azu\nARA NA\nA A\n8 8\nE to\n, À\n/\nSaid Se 7\nJ A\n8 8\n7 f\nE NE Saicadamas-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7329,20 +7656,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 6,
     "language": null,
-    "sourceQuestion": 105
+    "sourceQuestion": 105,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4111,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 106 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O emprego de cáluas de combustivel a hidrogênio po\nO quadro apresenta características de cinco tecnologias n\nTipo de célula de Temperatura\ncombustível operacional (°C)\n“ o\nusec soo-1000 | Ca\noe poli\nPAFC 175-200 A\nSOFC 600 - 1000 Oxi\nTestes operacionais com esses tipos de células tem i\nque operam em baixos niveis de energia térmica, são form\nêm meio ácido\nAtecrologi testada mais adequada para o emprego em y",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "AFC.",
+      "B": "MSFC.",
+      "C": "PEM.",
+      "D": "PAFC.",
+      "E": "SOFC"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7351,20 +7681,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 7,
     "language": null,
-    "sourceQuestion": 106
+    "sourceQuestion": 106,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4112,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 107 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Considere atrinhe, na stuagdo em que a temperatura dc\nTasso] | Pero are ve muons\n[rá quenre ig | MESMO É A UMIDADE\n[HOJE, NÉ? S\nRs\neo\naie -O - be\npx ABAS\nge\n. LAS",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "incômodo mencionado pelo personagem da tirinha deve (O a temperatura do vapor-d'água presente no ar é alta.",
+      "B": "o suor apresenta maior dificuldade para evaporar do o",
+      "C": "a taxa de absorção de radiação pelo corpo torna-se m",
+      "D": "oartorna-se mau condutor e dificulta o processo de lit",
+      "E": "o vapor-<'agua presente no ar condensa-se ao entrar mem ONE da lonmos"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7373,20 +7706,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 7,
     "language": null,
-    "sourceQuestion": 107
+    "sourceQuestion": 107,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4113,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 108 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7395,20 +7731,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 8,
     "language": null,
-    "sourceQuestion": 108
+    "sourceQuestion": 108,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4114,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 109 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7417,20 +7756,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 8,
     "language": null,
-    "sourceQuestion": 109
+    "sourceQuestion": 109,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4115,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 110 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7439,20 +7781,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 8,
     "language": null,
-    "sourceQuestion": 110
+    "sourceQuestion": 110,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4116,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 111 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Wa ciate de/Sh5 Pat asas de ear são\nresponsáveis pla alteração da direção do fuxo da brisa\nCl ie deva GURIA (egos do monaneii\nMs, do cruzar a ha de calor a brisa maritima agora\nenecrira um fuxe de sr veria, que tanafer para\nela energia térmica absorvida das superfles quentes\nda cidade, desiocando-a para alla altudes. Dessa\nFica Fa oe seapa'a ives ones po manh\ndae Gn Ves de fe Cedo dem an A ge\nBasra Se Mes Tulalabad gua tia O\nnesse fenômeno.\nJe\n28 A Brisa\n\\ maritima\nIlha de calor o\nis gas at eR na ew Ta\nus Sao PR be dee mito Fê He\nSenses Ul bree scuealnde iin caw\nBima le coer C2 Dace mimo\nEs nonacans ito, espaco,",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "irradiação e convecção.",
+      "B": "irradiação e irradiação.",
+      "C": "condução e irradiação.",
+      "D": "convecção e irradiação.",
+      "E": "convecção e convecção."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7461,20 +7806,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 111
+    "sourceQuestion": 111,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4117,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 112 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No Se tna creia ta da com ta\nstarve tats nara lise bres pesa\naf ec eee ala © mp lpeinld cio nee\nrápido soe, see Hela esl apela: em algo que\né altel do rout, a obsenação dieta da realade\nBida oo vite\nApós uma aula de física, dois colegas estavam\ndiscutindo sobre a queda dos corpos, e um tentava\nconvencer o outro de que Unha razão.\n[2 __aae\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7483,20 +7831,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 112
+    "sourceQuestion": 112,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4118,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 113 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A obtenção de etanol utilizando a cana-de-açúcar\nenvolve a fermentação dos monossacarideos formadores\nda sacarose contida no melaço. Um desses formadores\né a glicose (C,H, 0,), cuja fermentação produz cerca de\n50 g de etanol a partir de 100 g de glicose, conforme a\nequação quimica descrita.\nFermentação alcoói\nC,H,,0, fermentação aleoolca, » cu cH0H+2C0,\nEm uma condição especifica de fermentação,\nobtém-se 80% de conversão em etanol que, após sua\npurificação, apresenta densidade igual a 0,80 g/mL.\nO melaço utilizado apresentou 50 kg de monossacarideos\nna forma de glicose.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "volume de etanol, em litro, obtido nesse processo é mais próximo de",
+      "B": "16.",
+      "C": "20.",
+      "D": "25. oa.",
+      "E": "100."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7505,20 +7856,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 9,
     "language": null,
-    "sourceQuestion": 113
+    "sourceQuestion": 113,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4119,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 114 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Com o objetivo de identfoar a melhor espécie produt\nTecido a\n| esse | Periderme/Esclerênquima Floema/Esc\npá los +\n+\npato mm E\nLs oem | E\nTegendar(-)ausente, (=) presente em pequena quantia\n(+) presente em grande quantidade\nQual espécie corresponde ao objetivo proposto?\n01\nOz\n@3\n04\n@5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7527,20 +7881,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 10,
     "language": null,
-    "sourceQuestion": 114
+    "sourceQuestion": 114,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4120,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 115 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Acor verde das folhas deve-se ao pigmento clorfia. Nas\nfunção da interação desses pigmentos com a radiação so\nConforme apresentado no espectro de absorção, a\nEspectro de absorção na região do visive\nClorofila (\"| Antocianina\ne [4\n3 \\\n/ \\\n2 A \\\na \\\nae \\\nago 400 500 600 700\nComprimento de onda (rm)\nEm qual faixa do espectro visivel os carotenos absorvem\n@ Entre o verde e o amarelo.\nO Entre o amarelo e o laranja.\n@ Entre o laranja e o vermelho.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7549,20 +7906,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 10,
     "language": null,
-    "sourceQuestion": 115
+    "sourceQuestion": 115,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4121,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 116 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "TEXTO!\nNo cordel intulado Senhor dos Anéis, de autoria de\nGonçalo Ferreira da Siva, lê-se a sextiha:\nAdistância em relação\nAo nosso planeta amado\nPouco menos que a do Sol\nEle está distanciado\nE menos denso que a água\nQuando no normal estado\nTEXTO Il\nDistâncias médias dos planetas ao Sol e suas\ndensidades médias\nDistância média | — Densidade\nEee tas ‘a0 Sol (u.a.) | relativa média\ncont e pr pn\nConsiderando os versos da sextiha e as informações da\ntabela, a qual planeta o cordel faz referência?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Mercúrio",
+      "B": "Jupiter",
+      "C": "Urano",
+      "D": "Satumo",
+      "E": "Netuno. enem: ON da [Gademo5-"
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7571,20 +7931,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 116
+    "sourceQuestion": 116,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4122,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 117 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Cientistas da Universidade de New South Wales,\nna Austrália, demonstraram em 2012 que a Lei de\nOhm é válida mesmo para fios finissimos, cuja área\nda seção reta compreende alguns poucos átomos.\nAtabela apresenta as áreas e comprimentos de alguns\ndos fios construídos (respectivamente com as mesmas\nunidades de medida). Considere que a resistividade\nmantém-se constante para todas as geometrias (uma\naproximação confirmada pelo estudo).\nArea | Comprimento | Resistência\na elétrica\nAs resistências elétricas dos fios, em ordem crescente, são",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "R1<R2<RI<RA.",
+      "B": "R2cRIcRI<RA",
+      "C": "R2<RI<RI<RA.",
+      "D": "RacRicRI<R2",
+      "E": "R4<RI<R2<RI"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7593,20 +7956,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 117
+    "sourceQuestion": 117,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4123,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 118 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Organismos autétrofos e heterótrofos realizam\nprocessos complementares que associam os ciclos do\ncarbono e do oxigênio. O carbono fixado pela energia\nluminosa ou a partir de compostos inorgânicos é\neventualmente degradado pelos organismos, resultando\nem fontes de carbono como metano ou gás carbónico.\nAinda, outros compostos orgânicos são catabolizados\npelos” seres, com menor rendimento energético,\nproduzindo compostos secundários (subprodutos) que\npodem funcionar como combustiveis ambientais\nO processo metabólico associado à expressão\ncombustiveis ambientais é a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "fotossíntese.",
+      "B": "fermentação.",
+      "C": "quimiossintese",
+      "D": "respiração aeróbica.",
+      "E": "fosforiação oxidativa AMARELO - 1º Aplicação ="
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7615,20 +7981,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 11,
     "language": null,
-    "sourceQuestion": 118
+    "sourceQuestion": 118,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4124,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 119 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um técnico analisou um lote de analgésicos\nque supostamente estava fora das especificações.\nAcomposição prevista era 100 mg de ácido acetilsalclico\npor comprimido (princípio ativo, cuja estrutura está\napresentada na figura), além do amido e da celulose\n(componentes inertes). O técnico realizou os seguintes\ntestes:\n1) obtenção da massa do comprimido;\n2) medição da densidade do comprimido;\n3) verificação do pH com papel indicador;\n4) determinação da temperatura de fusão do comprimido;\n5) tilulação com solução aquosa de NaOH.\nApós a realização dos testes, o lote do medicamento\nfoireprovado porque a quantidade de ácido acetisaliclico\npor comprimido foi de apenas 40% da esperada.\no, OH\nNO\n[o\nÁcido acetilsalicílico\nO teste que permitiu reprovar o lote de analgésicos foi\no de numero\n91\no2\n93\noa\n@ 5.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7637,20 +8006,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 12,
     "language": null,
-    "sourceQuestion": 119
+    "sourceQuestion": 119,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4125,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 120 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O rompimento da barragem de rejeitos de mineração\nno municipio mineiro de Mariana e o derramamento de\nprodutos tóxicos nas águas do Rio Doce, ocorridos em\n2015, ainda têm consequências para os organismos\nque habitam o Parque Nacional Marinho de Abrolhos,\nlocalizado a mais de 1000 quilômetros de distância. Esse\ndesastre ambiental afetou o fitoplâncton, as esponjas, as\nalgas macroscópicas, os peixes herbivoros e os golfinhos.\nFRANER Gj SIAN, 5. TAMRES OC rapina cu ve 1\nConcentrações mais elevadas dos compostos citados\nsão encontradas em",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "esponjas.",
+      "B": "golinhos",
+      "C": "fitoplancton",
+      "D": "peixes herbivoros",
+      "E": "algas macroscópicas. 2 ON-? dia | Cademo 5-"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7659,20 +8031,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 12,
     "language": null,
-    "sourceQuestion": 120
+    "sourceQuestion": 120,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4126,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 121 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Duas esferas carregadas com cargas iguais em\nmódulo e sinais contrários estão ligadas por uma\nhaste rígida isolante na forma de haltere. O sistema se\nmovimenta sob ação da gravidade numa região que\ntem um campo magnético horizontal uniforme (B), da\nesquerda para a direita. A imagem apresenta o sistema\nvisto de cima para baixo, no mesmo sentido da aceleração\nda gravidade (3) que atua na região.\nad\nVisto de cima, o diagrama esquemático das forças\nmagnéticas que atuam no sistema, no momento inicial em\nque as cargas penetram na região de campo magnético,\nestá representado em\no ?—_?\nAMARELO 1º Aplicação enema\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7681,20 +8056,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 12,
     "language": null,
-    "sourceQuestion": 121
+    "sourceQuestion": 121,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4127,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 122 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma escola iniciou o processo educativo para\nimplantação da coleta seletiva e destino de materiais\nrecicláveis Para atingir seus objetivos, a instituição planejou\n1) sensibilizar a comunidade escolar, desenvolvendo\natividades em sala é extraclasse de maneira\ncontinua;\n2) capacitar o pessoal responsável pela limpeza da\nescola quanto aos novos procedimentos adotados\ncom a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis\nespecíficos nas salas, pátio e outros ambientes\npara acondicionamento dos resíduos.\nPara completar a ação proposta no ambiente escolar, o que\nfalta ser inserido no planejamento?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.",
+      "B": "Fimar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis",
+      "C": "destinação apropriada. Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do io.",
+      "D": "Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva",
+      "E": "Colocar recipientes coletores de lixo recictavel fora da escola para entrega voluntária pela população."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7703,20 +8081,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 122
+    "sourceQuestion": 122,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4128,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 123 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Os búfalos são animais considerados rústicos pelos\ncriadores é, por isso, são deixados no campo sem\ncontrole reprodutivo. Por causa desse tipo de criação,\nà consanguinidade é favorecida, proporcionando o\naparecimento de enfermidades, como o albinismo, defeitos\ncardíacos, entre outros. Separar os animais de forma\nadequada minimizaria a ocorrência desses problemas.\nDAME CF RECORRE SD A Pes WB. 7201 tp\nQual procedimento biotecnológico prévio é recomendado\nnessa situação?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Transgenia.",
+      "B": "Terapia gênica.",
+      "C": "Vacina de DNA",
+      "D": "Clonagem terapêutica.",
+      "E": "Mapeamento genético"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7725,20 +8106,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 123
+    "sourceQuestion": 123,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4129,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 124 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O ciclo do cobre é um experimento didático em que\no cobre metálico é utilizado como reagente de partida\nApós uma sequência de reações (Il ll, IV eV), o cobre\nretoma ao seu estado inicial ao final do ciclo.\ncu Oy cunoy, MPH, cuçom;\nZn.HCl cuso, 4!tS0. cuo N\nVv V tt\nenem: N-Z da Cademo5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7747,20 +8131,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 124
+    "sourceQuestion": 124,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4130,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 125 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão 122 $$ ror\nUma escola iniciou o processo educativo para\nimplantação da coleta seletiva e destino de materiais\nrecicláveis Para atingir seus objetivos, a instituição planejou\n1) sensibilizar a comunidade escolar, desenvolvendo\natividades em sala é extraclasse de maneira\ncontinua;\n2) capacitar o pessoal responsável pela limpeza da\nescola quanto aos novos procedimentos adotados\ncom a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis\nespecíficos nas salas, pátio e outros ambientes\npara acondicionamento dos resíduos.\nPara completar a ação proposta no ambiente escolar, o que\nfalta ser inserido no planejamento?\n@ Realizar campanhas educativas de sensibilização em\nbairros vizinhos para fortalecer a coleta seletiva.\nO Fimar parceria com a prefeitura ou cooperativa de\ncatadores para recolhimento dos materiais recicláveis\ne destinação apropriada.\nOrganizar visitas ao lixão ou aterro local para\nidentificar aspectos importantes sobre a disposição\nfinal do io.\nO Divulgar na rádio local, no jornal impresso e nas redes\nsociais que a escola está realizando a coleta seletiva\n& Colocar recipientes coletores de lixo recictavel fora da\nescola para entrega voluntária pela população.\nQuestão 123 $$ eremmor\nOs búfalos são animais considerados rústicos pelos\ncriadores é, por isso, são deixados no campo sem\ncontrole reprodutivo. Por causa desse tipo de criação,\nà consanguinidade é favorecida, proporcionando o\naparecimento de enfermidades, como o albinismo, defeitos\ncardíacos, entre outros. Separar os animais de forma\nadequada minimizaria a ocorrência desses problemas.\nDAME CF RECORRE SD A Pes WB. 7201 tp\nQual procedimento biotecnológico prévio é recomendado\nnessa situação?\nO Transgenia.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Terapia gênica.",
+      "B": "Vacina de DNA",
+      "C": "Clonagem terapêutica.",
+      "D": "Mapeamento genético Questão 124 rer",
+      "E": "ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida Após uma sequência de reações (Il ll, IV eV), o cobre retoma ao seu estado inicial ao final do ciclo. cu Oy cunoy, MPH, cuçom; Zn.HCl cuso, 4!tS0. cuo N Vv V tt enem: N-Z da Cademo5-"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7769,20 +8156,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 125
+    "sourceQuestion": 125,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4131,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 126 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "sa pot seção 28 pa. Em pa com ci\nRe Fe\nOs materiais mais comuns no mercado para panelas são\n(k= 5 Wim K) combinado com o cobre (k = 40 Wim K).\nCompara-se uma panela de ferro, uma de alumínio\ne uma composta de : da espessura em cobre e 4 da",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "cobre-aço, alumínio e ferro.",
+      "B": "alumínio, cobre-aço e ferro.",
+      "C": "cobre-aço, ferro e alumínio.",
+      "D": "alumínio, ferro e cobre-aço.",
+      "E": "ferro, alumínio e cobre-aço."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7791,20 +8181,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 13,
     "language": null,
-    "sourceQuestion": 126
+    "sourceQuestion": 126,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4132,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 127 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "É possível ligar aparelhos elétricos de baixa corrente\ntradicionais pilhas. A ustração apresenta uma montagem\n| comNasOveq) a\n[OT NT\ne E a\n/\n|\n|\n|\n| |\nq CuSO (aq) ZnS0,(aq) Cuso,\nUnlizendo a representação de projetos eléicos, o cleo\no ; o\ne\n|\na\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7813,20 +8206,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 14,
     "language": null,
-    "sourceQuestion": 127
+    "sourceQuestion": 127,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4133,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 128 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A figura foi extraida de um antigo jogo para\ncomputadores, chamado Bang! Bang!\na p\nA or 7\n|\ni m\n: j\n: dl\nrr RB\nNo jogo, dois competidores controlam os canhões\nA e B, disparando balas altemadamente com o objetivo\nde atingir o canhão do adversário; para isso, atribuem\nvalores estimados para o módulo da velocidade inicial de\ndisparo (fD7]) e para o ângulo de disparo (9).\nEm determinado momento de uma partida, o\ncompetidor B deve disparar, ele sabe que abala disparada\nanteriormente, 0 = 53º, passou tangenciando o ponto P.\nNo jogo, [| é igual a 10 mis?. Considere sen 53°- 0.8,\ncos 53°= 0,6 e desprezível a ação de forças dissipativas.\nnl tehsil A 121 pd\nCom base nas distâncias dadas e mantendo o último\nAngulo de disparo, qual deveria ser, aproximadamente,\no menor valor de [5%] que permitiria ao disparo efetuado\npelo canhão B atingir o canhão A?\nO som\nO 35ms.\n© “ms.\n© 45ms.\n6 50ms\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7835,20 +8231,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 128
+    "sourceQuestion": 128,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4134,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 129 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Os pesticidas organoclorados foram amplamente\nempregados na agricultura, contudo, em razão das suas\nelevadas toxicidades e persistências no meio ambiente,\neles foram banidos. Considere a aplicação de 500 g de\num pesticida organoclorado em uma cultura e que, em\ncertas condições, o tempo de meia-vida do pesticida no\nsolo seja de 5 anos.\nA massa do pesticida no decorrer de 35 anos será mais\npróxima de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "399.",
+      "B": "3129",
+      "C": "6259",
+      "D": "12509.",
+      "E": "25009. enemiz ON-2 da | Cademo"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7857,20 +8256,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 129
+    "sourceQuestion": 129,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4135,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 130 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A sequência de nucleotídeos do RNA mensageiro\n[ifz/s[4TEreço\nindependentes. Sabe-se que os códons UAG e UAA são\nterminais, ou seja, indicam a interrupção da tradução.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Deleção de G no códon 3.",
+      "B": "Substituição de C por U no códon 4.",
+      "C": "Substituição de G por C no códon 6.",
+      "D": "Substituição de A por G no códon 7.",
+      "E": "Deleção dos dois primeiros nucleotídeos no códon 5."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7879,20 +8281,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 130
+    "sourceQuestion": 130,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4136,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 131 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão 128 oro\nA figura foi extraida de um antigo jogo para\ncomputadores, chamado Bang! Bang!\na p\nA or 7\n|\ni m\n: j\n: dl\nrr RB\nNo jogo, dois competidores controlam os canhões\nA e B, disparando balas altemadamente com o objetivo\nde atingir o canhão do adversário; para isso, atribuem\nvalores estimados para o módulo da velocidade inicial de\ndisparo (fD7]) e para o ângulo de disparo (9).\nEm determinado momento de uma partida, o\ncompetidor B deve disparar, ele sabe que abala disparada\nanteriormente, 0 = 53º, passou tangenciando o ponto P.\nNo jogo, [| é igual a 10 mis?. Considere sen 53°- 0.8,\ncos 53°= 0,6 e desprezível a ação de forças dissipativas.\nnl tehsil A 121 pd\nCom base nas distâncias dadas e mantendo o último\nAngulo de disparo, qual deveria ser, aproximadamente,\no menor valor de [5%] que permitiria ao disparo efetuado\npelo canhão B atingir o canhão A?\nO som\nO 35ms.\n© “ms.\n© 45ms.\n6 50ms\nQuestão 129 ror\nOs pesticidas organoclorados foram amplamente\nempregados na agricultura, contudo, em razão das suas\nelevadas toxicidades e persistências no meio ambiente,\neles foram banidos. Considere a aplicação de 500 g de\num pesticida organoclorado em uma cultura e que, em\ncertas condições, o tempo de meia-vida do pesticida no\nsolo seja de 5 anos.\nA massa do pesticida no decorrer de 35 anos será mais\npróxima de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "399.",
+      "B": "3129",
+      "C": "6259",
+      "D": "12509.",
+      "E": "25009. enemiz ON-2 da | Cademo"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7901,20 +8306,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 131
+    "sourceQuestion": 131,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4137,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 132 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O aves, porque a pequena circulação e a grande\n© répteis, porque a mistura de sangue é minimizada por\nO crocodilianos, porque a separação dos ventrículos\nO peixes, porque a circulação é simples, ocorrendo\n@ anfíbios, porque pressões diferenciais isolam\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7923,20 +8331,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 15,
     "language": null,
-    "sourceQuestion": 132
+    "sourceQuestion": 132,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4138,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 133 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "No culivo por hidroponia, são utiizadas soluções\nnutitivas. contendo macronutrientes. e micronutrientes\nessenciais, Alm dos nutrientes, o pH é um parâmetro de\nextrema importância, uma vez que ele afeta a preparação\nda solução nutritiva e a absorção dos nutrientes pelas\nplantas, Para o cultivo de alface, valores de pH entre\n55 e 65 são ideais para O seu desenvolvimento,\nAs correções de pH são feias pela adição de compostos\nácidos ou básicos, mas não devem introduzir elementos\nnocivos às plantas. Na tabela, são apresentados alguns\ndados da composição da solução nutiva de referência\npara esse culivo. Também é apresentada a composição\nde uma solução preparada por um produtor de culto\nhidropônico\nConcentração, mmollL\n[Composição [Solução nutritiva\nEspécies químicas\nrena cis do referéncia| preparada\nG5<pH<65)| (pH=43)\nPlHPO,) 10\n6\nE\nMicromitionios\nPara correção do pH da solução nutriva preparada, esse\nprodutor pode empregar uma solução de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "ácido fostórico, H,PO,",
+      "B": "sulfato de calcio, Caso,",
+      "C": "óxido de alumínio, ALO,",
+      "D": "cloreto de ferro), FeCl,",
+      "E": "hidróxido de potássio, KOH"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7945,20 +8356,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 133
+    "sourceQuestion": 133,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4139,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 134 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O sino dos ventos é composto por várias barras\nmetálicas de mesmo material e espessura, mas de\ncomprimentos diferentes, conforme a figura\nComprimento 1 |\n|\nComprinento 2.\n|\nO GN-# da [Cadomo5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7967,20 +8381,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 134
+    "sourceQuestion": 134,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4140,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
     "topic": "ENEM 2021",
-    "statement": "Questão 135 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O polvo mimético apresenta padrões cromaticos e\ncomportamentos muito curiosos. Frequentemente, muda\nà orientação de seus tentáculos, assemelhando-se a\nalguns animais. As imagens 1, 3 € 5 apresentam polos\nmimetizando, respectivamente, um pebe-lnguado (2),\num peixe-leão (4) e uma serpente-marinha (6).\nOni ee DER\nRo O MM\nDT i\nOS >\nPome ES\nee GAR\nADE AIN\nRR SS Fis A ~\nBSAA By NN\nChe Sa Ses FZ )\nDo ponto de vita evolutivo, a capacidade apresentada se\nestabeleceu porque os polvos",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "originaram-se do mesmo ancestral que esses animais",
+      "B": "passarampormutações similares aesses organismos.",
+      "C": "observaram esses animais em seus nichos ecoltgicos",
+      "D": "resultaram de convergência adaptativa com essas espécies",
+      "E": "sobreviveram às pressões seletivas com esses comportamentos WARELO Pilão emas ]"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -7989,20 +8406,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 16,
     "language": null,
-    "sourceQuestion": 135
+    "sourceQuestion": 135,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4141,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 136 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8011,20 +8431,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 136
+    "sourceQuestion": 136,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4142,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 137 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8033,20 +8456,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 137
+    "sourceQuestion": 137,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4143,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 138 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8055,20 +8481,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 138
+    "sourceQuestion": 138,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4144,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 139 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8077,20 +8506,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 139
+    "sourceQuestion": 139,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4145,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 140 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8099,20 +8531,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 17,
     "language": null,
-    "sourceQuestion": 140
+    "sourceQuestion": 140,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4146,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 141 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Frequências cardiacas\nhos de\nTrechos do percurso pe (born)\n[tenons [|\n(batimento por minuto).",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "leve no plano, forte no plano, subida moderada e",
+      "B": "leve no plano, forte no plano e subida moderada.",
+      "C": "forte no plano, subida moderada e subida forte.",
+      "D": "forte no plano e subida moderada.",
+      "E": "leve no plano e subida forte."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8121,20 +8556,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 141
+    "sourceQuestion": 141,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4147,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 142 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Dessas farmácias, algumas oferecem descontos:\n- na compra dos medicamentos X e Y na\nFarmácia 2, recebe-se um desconto de 20% em\n“ambos os produtos, independentemente da compra\ndo medicamento Z, e não há desconto para o\nmedicamento Z;\n+ na compra dos 3 medicamentos na Farmácia 3,\nrecebe-se 20% de desconto no valor total da\ncompra\nO paciente deseja efetuar a compra de modo a\nminimizar sua despesa com os medicamentos.\nDe acordo com as informações fomecidas, o paciente\ndeve comprar os medicamentos da seguinte forma:",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "X,YeZna Farmácia 1",
+      "B": "XeY na Farmácia 1, e Z na Farmacia 3.",
+      "C": "XeYna Farmácia 2, e Z na Farmácia 3.",
+      "D": "Xna Farmácia 2, e Y e Z na Farmacia 3.",
+      "E": "X,YeZna Farmacia 3"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8143,20 +8581,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 142
+    "sourceQuestion": 142,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4148,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 143 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Dessas farmácias, algumas oferecem descontos:\n- na compra dos medicamentos X e Y na\nFarmácia 2, recebe-se um desconto de 20% em\n“ambos os produtos, independentemente da compra\ndo medicamento Z, e não há desconto para o\nmedicamento Z;\n+ na compra dos 3 medicamentos na Farmácia 3,\nrecebe-se 20% de desconto no valor total da\ncompra\nO paciente deseja efetuar a compra de modo a\nminimizar sua despesa com os medicamentos.\nDe acordo com as informações fomecidas, o paciente\ndeve comprar os medicamentos da seguinte forma:",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "X,YeZna Farmácia 1",
+      "B": "XeY na Farmácia 1, e Z na Farmacia 3.",
+      "C": "XeYna Farmácia 2, e Z na Farmácia 3.",
+      "D": "Xna Farmácia 2, e Y e Z na Farmacia 3.",
+      "E": "X,YeZna Farmacia 3"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8165,20 +8606,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 143
+    "sourceQuestion": 143,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4149,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 144 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Muitos brinquedos que frequentemente são\nencontrados em praças e parques públicos apresentam\nformatos de figuras geométricas bidimensionais e\ntridimensionais. Uma empresa foi contratada para\ndesenvolver uma nova forma de brinquedo. A proposta\napresentada pela empresa foi de uma estrutura formada\napenas por hastes metálicas, conectadas umas às\noutras, como apresentado na figura. As hastes de mesma\ntonalidade e espessura são congruentes.\nCom base na proposta apresentada, quantas figuras\ngeométricas planas de cada tipo são formadas pela\nunião das hastes?",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "12 trapézios isósceles e 12 quadrados.",
+      "B": "24 trapézios isósceles e 12 quadrados. ©@ 12 paralelogramos e 12 quadrados.",
+      "C": "Btrapézios isósceles e 12 quadrados,",
+      "D": "12 trapézios escalenos e 12 retângulos.",
+      "E": "AMARELO - 1º Aplicação enema"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8187,20 +8631,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 18,
     "language": null,
-    "sourceQuestion": 144
+    "sourceQuestion": 144,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4150,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 145 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Num octaedro regular, duas faces são consideradas\nopostas quando não têm nem arestas, nem vértices em\ncomum. Na figura, observa-se um octaedro regular e uma\nde suas planificações, na qual há uma face colorida na\ncor cinza escuro é outras quatro faces numeradas.\n‘Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza\nescuro, quando o octaedro for reconstruído a partir da\nplanificação dada?\nO 1,234\n© tes\n91\n92\n94\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8209,20 +8656,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 145
+    "sourceQuestion": 145,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4151,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 146 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O instrumento de percussão conhecido como triângulo\né composto por uma barra fina de aço, dobrada em um\nformato que se assemelha a um triângulo, com uma abertura",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "uma haste, conforme ilustra a Figura 1 /N di »h=B8em é, Figura 1 Figura 2 Uma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilatero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perimetro do triângulo equilátero representado na Figura 2 Considere 1,7 como valor aproximado para 3. Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centimetro, é o 907.",
+      "B": "13,60.",
+      "C": "20,40.",
+      "D": "27,18.",
+      "E": "36,24."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8231,20 +8681,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 146
+    "sourceQuestion": 146,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4152,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 147 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão 145 creer\nNum octaedro regular, duas faces são consideradas\nopostas quando não têm nem arestas, nem vértices em\ncomum. Na figura, observa-se um octaedro regular e uma\nde suas planificações, na qual há uma face colorida na\ncor cinza escuro é outras quatro faces numeradas.\n‘Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza\nescuro, quando o octaedro for reconstruído a partir da\nplanificação dada?\nO 1,234\n© tes\n91\n92\n94\nQuestão 146 creer\nO instrumento de percussão conhecido como triângulo\né composto por uma barra fina de aço, dobrada em um\nformato que se assemelha a um triângulo, com uma abertura",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "uma haste, conforme ilustra a Figura 1 /N di »h=B8em é, Figura 1 Figura 2 Uma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilatero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perimetro do triângulo equilátero representado na Figura 2 Considere 1,7 como valor aproximado para 3. Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centimetro, é o 907.",
+      "B": "13,60.",
+      "C": "20,40.",
+      "D": "27,18.",
+      "E": "36,24."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8253,20 +8706,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 147
+    "sourceQuestion": 147,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4153,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 148 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "o serviço lhe informa que o custo de fabricação do cartão\né de R$ 0,01 por centímetro quadrado e que disponibiliza\nR$ 0,80 por cartão. Ele escolherá, dentro desse limite de\naproximação para 3.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "triângulo,",
+      "B": "quadrado.",
+      "C": "retângulo.",
+      "D": "hexágono.",
+      "E": "círculo."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8275,20 +8731,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 19,
     "language": null,
-    "sourceQuestion": 148
+    "sourceQuestion": 148,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4154,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 149 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nvolumétrico de um fluido é diretamente proporcional ao",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "kgmis*",
+      "B": "kgmis:",
+      "C": "kgmtst",
+      "D": "kgs?",
+      "E": "gms?"
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8297,20 +8756,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 149
+    "sourceQuestion": 149,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4155,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 150 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\n[isgem [Gsmiscss | Gates [Sapatos |\nDi je ja os]\nLu [is [sas To]\noz\no 24\no 2\n© 33\n@ 39\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8319,20 +8781,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 150
+    "sourceQuestion": 150,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4156,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 151 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nO 159.\nO 161\ne 164.\n© 174.\ne 180.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8341,20 +8806,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 151
+    "sourceQuestion": 151,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": true
   },
   {
     "id": 4157,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 152 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O projeto de um contéiner, em forma de paralelepípedo\nreto retangular, previa a pintura dos dois lados (interno e\nexterno) de cada uma das quatro paredes com tinta acrlica\ne a pintura do piso interno com tinta epóxi. O construtor\nhavia pedido, a cinco fornecedores diferentes, orçamentos\ndas tintas necessárias, mas, antes de iniciar a obra, resolveu\nmudar o projeto original, alterando o comprimento e a largura\npara o dobro do originalmente previsto, mantendo inalterada\na altura. Ao pedir novos orçamentos aos fornecedores, para\nas novas dimensões, cada um deu uma resposta diferente\nsobre as novas quantidades de tinta necessárias.\nEm relação ao previsto para o projeto original, as\nnovas quantidades de tinta necessárias informadas pelos\nfornecedores foram as seguintes:\n+ Fomecedor |: \"O dobro, tanto para as paredes\nquanto para o piso.\n+ Fornecedor Il: \"O dobro para as paredes e quatro\nvezes para o piso.”\n+ Fornecedor Ill: Quatro vezes, tanto para as paredes\nquanto para o piso.”\n+ Fornecedor IV: \"Quatro vezes para as paredes e o\ndobro para 0 piso.”\n+ Fomecedor V: \"Oito vezes para as paredes e quatro\nvezes para o piso.\nAnalisando as informações dos fornecedores, o\nconstrutor providenciará a quantidade adequada de\nmaterial, Considere a porta de acesso do contéiner como\nparte de uma das paredes.\nQual dos fornecedores prestou as informações adequadas,\ndevendo ser o escolhido pelo construtor para a aquisição\ndo material?\n91\noi\neu\now\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8363,20 +8831,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 152
+    "sourceQuestion": 152,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4158,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 153 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um povoado com 100 habitantes está passando por\numa situação de seca prolongada e os responsáveis\npela administração pública local decidem contratar a\nconstrução de um reservatório. Ele deverá ter a forma\nde um cilindro circular reto, cuja base tenha 5 metros\nde diâmetro interno, e atender à demanda de água da\npopulação por um período de exatamente sete dias\nconsecutivos. No oitavo dia, o reservatório vazio é\ncompletamente reabastecido por carros-pipa.\nConsidere que o consumo médio diário por habitante\né de 120 litros de água. Use 3 como aproximação para 7\nNas condições apresentadas, o reservatório deverá ser\nconstruído com uma altura intema mínima, em metro, igual a\no 1,12\n© 3,10.\n@ 4.35.\n© 448.\ne 5.60.\nAMARELO - 1º Aplicação enema\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8385,20 +8856,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 20,
     "language": null,
-    "sourceQuestion": 153
+    "sourceQuestion": 153,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4159,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 154 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O quado representa a relação entre o preço de um pr\nPreço do produto (R)\nR<5000\n5000 < R= 10000\n10000<R<15000 |:\nO gráfico que melhor representa essa relação é\no 1\nPod R\nof 5000 10000 15000\no\n1\nitor\nof 5000 10000 15000\ne\n1\n500} -------55 '\ni IR\nOf 5000 10000 15000\nenema NT-2 da Cademo 5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8407,20 +8881,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 21,
     "language": null,
-    "sourceQuestion": 154
+    "sourceQuestion": 154,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4160,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 155 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O administrador de um teatro percebeu que, com o\n200 pessoas e que, a cada R$ 1,00 de redução no pres\nEle sabe que os donos do teatro só admitem trabalhar\nde disponibilizar troco, e pretende convencê-los a dimit\nda arrecadação em função do valor do desconto no pres\nO gráfico que mais se assemelha ao que deve ser elabora\n© o, Atecadação [\n500.\nem\n5500.\nsom\n500.\n‘000.\n3500\n000.\n2500\n2000\n1500\n+ 000\nEa Desconto\nCTESATETE DANCA Dana\n© quit Arrecadacao [\n6500.\nsom\n5500 .....\n5000 qe...\n45001 ouso!\namp e é\n3500\n200\n2500\n2000\n4500\n+000,\nseo Desconto\nOTED SET HSMN MMU wIDMT RE\nArrecadação\n7000\n3500.\nsom\n5500\n5000.\n4500\navo\n3500\n300.\n2500\n2000\n1500\n+000,\n500. Desconto\nOF RSG BET OMT arara tavOaOD B28\n2 MT -2 da | Caderna 5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8429,20 +8906,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 22,
     "language": null,
-    "sourceQuestion": 155
+    "sourceQuestion": 155,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4161,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 156 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma construtora, pretendendo investir na construção\nde imóveis em uma metrópole com cinco grandes\nregiões, fez uma pesquisa sobre a quantidade de familias\nque mudaram de uma região para outra, de modo a\ndeterminar qual região foi o destino do maior fluxo de\nfamilias, sem levar em consideração o número de famílias\nque deixaram a região. Os valores da pesquisa estão\ndispostos em uma matiiz A=[ajl, i/€ (1,2, 3,4, 5)\nem que o elemento aj corresponde ao total de familias\n(em dezena) que se mudaram da região | para a região j\ndurante um certo período, e o elemento aj é considerado\nnulo, uma vez que somente são consideradas mudanças\nentre regiões distintas. A seguir, está apresentada a\nmatriz com os dados da pesquisa.\n(0 422 5)\n00623\nA-|2 2030\n10204\n1 2040)\nQual região foi selecionada para o investimento da\nconstrutora?\n91\n@2\n@3\n04\n@5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8451,20 +8931,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 156
+    "sourceQuestion": 156,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4162,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 157 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Para realizar um voo entre duas cidades que distam\n2.000 km uma da outra, uma companhia aérea utlizava\num modelo de aeronave A, capaz de transportar até\n200 passageiros. Quando uma dessas aeronaves está\nlotada de passageiros, o consumo de combustivel\né de 0,02 litro por quilômetro e por passageiro. Essa\ncompanhia resolveu trocar o modelo de aeronave A\npelo modelo de aeronave B, que é capaz de transportar\n10% de passageiros a mais do que o modelo A, mas\nconsumindo 10% menos combustível por quilômetro e\npor passageiro,\nA quantidade de combustível consumida pelo modelo\nde aeronave B, em relação à do modelo de aeronave A,\nem um voo lotado entre as duas cidades, é",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "10% menor.",
+      "B": "1% menor.",
+      "C": "igual",
+      "D": "1% maior.",
+      "E": "11% maior."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8473,20 +8956,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 157
+    "sourceQuestion": 157,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4163,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 158 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Em uma corrida automobilística, os carros podem fazer\nparadas nos boxes para efetuar trocas de pneus. Nessas\ntrocas, o trabalho é feito por um grupo de três pessoas em\nsão necessários 4 segundos para que a troca seja efetuada. O\npôde participar da troca e nem foi substituído, de forma que\n060\n057\n@ 50\n045\n844\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8495,20 +8981,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 158
+    "sourceQuestion": 158,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4164,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 159 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "a falta de 800 mg do mineral A, de 1 000 mg do mineral\nB e de 1 200 mg do mineral C. Por isso, recomendou a\nminerais faltantes e informou que não haveria problema se\ndo mineral B e 200 mg do mineral C e custa R$ 2,00;\ndo mineral B e 200 mg do mineral C e custa R$ 3,00;\ndo mineral B e 300 mg do mineral C e custa R$ 5,00;\ndo mineral B e 1.000 mg do mineral C e custa R$ 6,00;\n‘do mineral B e 1.200 mg do mineral C e custa R$ 8,00.\noO |.\nol.\n@ Il.\nOW.\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8517,20 +9006,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 23,
     "language": null,
-    "sourceQuestion": 159
+    "sourceQuestion": 159,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4165,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 160 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um atleta produz sua própria refeição com custo fixo «\nbatata-doce e uma hortaliça. Atualmente, os preços dos pr\nFrango (kg)\nR$ 12,50\nEm relação a esses preços, haverá um aumento de\npreços não serão alterados. O atleta deseja manter o cus\nPortanto, terá que reduzir a quantidade de frango.\nQual deve ser a redução percentual da quantidade de fra\no 125\no 280\ne 300\no 500\ne 700\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8539,20 +9031,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 160
+    "sourceQuestion": 160,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4166,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 161 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma mola é solta da posição distendida conforme a figur\n“da massa m em função do tempo t (em segundo) em um sis\né descrito por uma expressão do tipo P(t) = +A cos (cot) ou P(\nmáximo e « é a frequência, que se relaciona com o periodo Tp\nConsidere a ausência de quaisquer forças dissipativas\nPp\n3|-\n2|-\nPosição al\nde equilíbrio\no\nm\nAl\nMola distendida -2|.\nm\n-3/-\nA expressão algébrica que representa as posições P(t) da",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "-3cos (21)",
+      "B": "-3sen (21)",
+      "C": "3005 (21)",
+      "D": "-6 cos (2)",
+      "E": "6 sen (2)"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8561,20 +9056,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 24,
     "language": null,
-    "sourceQuestion": 161
+    "sourceQuestion": 161,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4167,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 162 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Para a comunicação entre dois navios é utlizado\num sistema de codificação com base em velores\nnuméricos. Para isso, são consideradas as operações\ntriângulo À e estrela =, definidas sobre o conjunto dos\nhmotoe fésia por aay =i 4 ey ppa ge e\nO navio que deseja enviar uma mensagem deve\nfornecer um valor de entrada b, que irá gerar um valor\nde saída, a ser enviado ao navio receptor, dado pela\nsoma das duas maiores soluções da equação\n(246) s(bãa) = 0. Cada valor possivel de entrada e saída\nrepresenta uma mensagem diferente já conhecida\npelos dois navios\nUm navio deseja enviar ao outro a mensagem\n“ATENÇÃO! Para isso, deve utilizar o valor de entrada\nbot\nDessa forma, o valor recebido pelo navio receptor será\nos\no\now\n145\no 2H\n2\n2248\norg\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8583,20 +9081,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 162
+    "sourceQuestion": 162,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4168,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 163 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um parque temático braleroconstrula uma réplica em\nminiatura do castelo de Liechtenstein. O castelo original,\nrepresentado na imagem, está situado na Alemanha e foi\nreconsiuido entre os anos de 1840 & 1842, após duas\ndestruções causadas por gueras.\n& Ã\nee\nenemas “iT aa Cader\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8605,20 +9106,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 163
+    "sourceQuestion": 163,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4169,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 164 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Questão 162 rot\nPara a comunicação entre dois navios é utlizado\num sistema de codificação com base em velores\nnuméricos. Para isso, são consideradas as operações\ntriângulo À e estrela =, definidas sobre o conjunto dos\nhmotoe fésia por aay =i 4 ey ppa ge e\nO navio que deseja enviar uma mensagem deve\nfornecer um valor de entrada b, que irá gerar um valor\nde saída, a ser enviado ao navio receptor, dado pela\nsoma das duas maiores soluções da equação\n(246) s(bãa) = 0. Cada valor possivel de entrada e saída\nrepresenta uma mensagem diferente já conhecida\npelos dois navios\nUm navio deseja enviar ao outro a mensagem\n“ATENÇÃO! Para isso, deve utilizar o valor de entrada\nbot\nDessa forma, o valor recebido pelo navio receptor será\nos\no\now\n145\no 2H\n2\n2248\norg\nQuestão 163 = rot\nUm parque temático braleroconstrula uma réplica em\nminiatura do castelo de Liechtenstein. O castelo original,\nrepresentado na imagem, está situado na Alemanha e foi\nreconsiuido entre os anos de 1840 & 1842, após duas\ndestruções causadas por gueras.\n& Ã\nee\nenemas “iT aa Cader\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8627,20 +9131,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 25,
     "language": null,
-    "sourceQuestion": 164
+    "sourceQuestion": 164,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4170,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 165 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A receila R de uma empresa ao final de um mês é o\ndinheiro captado com a venda de mercadorias ou com à\nprestação de serviços nesse més, e à despesa D é todo 0\ndinheiro ullizado para pagamento de salários, contas de\nágua e luz, impostos, entre outros. O lucro mensal obtido\não final do mes é a diferença entre a receita ea despesa\nregistradas no més. O gráfico apresenta as receitas ©\ndespesas, em milhão de real, de uma empresa ao final\ndos cinco primeiros meses de um dado ano.\nReceitas e despesas\n28\ndA\njaneiro fevereiro março abril maio\nReceita —— Despesa- - -\nAprevisão para os próximos meses é que olucro mensal\nnão Seja inferior ao maior lucro oblidoalé o mês de maio.\nNessas condições, o lucro mensal para os próximos\nmeses deve ser maior ou igual ao do mês de",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "janeiro.",
+      "B": "fevereiro.",
+      "C": "março.",
+      "D": "abril",
+      "E": "maio."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8649,20 +9156,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 165
+    "sourceQuestion": 165,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4171,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 166 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A depressão caractorizase por um desequilbrio na\nquímica cerebral. Os neurônios de um deprimido nao\nrespondem bem aos estímulos dos neurolransmissores.\nOs remédios que combatem a depressão têm o objetivo de\nrestabelecer a química cerebral. Com o aumento gradativo\nde casos de depressão, a venda desses medicamentos\nestá em crescente evolução, conforme ilustra o gráfico.\nqro | : : : :519,2\nE so | 1 É 1465\n' ! ag A !\nE400) ! i ; : :\nRA 1 1294 Y 1 1\n$ 300) imo 4 i ! i\n8 200) + : | | |\nry ‘ ‘ ‘ ‘ ‘\no | ! É ! É\n3 205 206 2007 208 2005\nni Ano\nea caer\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8671,20 +9181,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 166
+    "sourceQuestion": 166,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4172,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 167 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um casal está planejando comprar um apartamento\nde dois quartos num bairro de uma cidade e consultou\na página de uma corretora de imóveis, encontrando\n105 apartamentos de dois quartos à venda no bairro\ndesejado. Eles usaram um aplicativo da corretora para\ngerar a distribuição dos preços do conjunto de imóveis\nselecionados.\nO gráfico ilustra a distribuição de frequências dos\npreços de venda dos apartamentos dessa lista (em\nmil reais), no qual as faixas de preço são dadas por\n3200, 400), }400, 500], 500, 600]. 1600, 700], 1700, 800],\n1800, 900}, 1900, 1 000], 11 000, 1 100], 11 100, 1200) é\n11 200, 1 300}\nA mesma corretora anuncia que cerca de 50% dos\napartamentos de dois quartos nesse bairro, publicados\nem sua página, tém preço de venda inferior a 550 mil reais,\nNo entanto, o casal achou que essa última informação\nnão era compativel com o gráfico obtido.\nDistribuição dos preços\nê\n8e\n“7 são ado s6o 600 760 860 900 100 1100 1200 1560,\nPreço (em mil reais)\nCom base no gráfico obtido, o menor preço, p (em mil reais),\npara o qual pelo menos 50% dos apartamentos apresenta\npreço inferior a pé",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "600.",
+      "B": "700.",
+      "C": "800.",
+      "D": "900.",
+      "E": "1000. AMARELO - 1º Aplicação enem"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8693,20 +9206,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 26,
     "language": null,
-    "sourceQuestion": 167
+    "sourceQuestion": 167,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4173,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 168 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "A Cifra de César é um exemplo de um método de c\n“comunicar com seus generais.\nNo método, cada letra era trocada por uma letra que ape\nde forma cíclica. A seguir temos um exemplo em que cada le\n[original [afe[c[o[E[r[e[H[1[s [x]\nCodificado |D [E |F[c[H[1[u [k[t [m[n]\nPara quebrar um código como esse, a análise de frequ\nUma análise do texto do romance O guarani, de Joss\nseguinte gráfico de frequências:\n70000\n60 000\nso 000\ng\n8 40000\n3\n8 30000\n20 000\n10000\no\nABCDEFGHI J\nApós codificar esse texto com a regra do exemplo forne\nAs quatro letras mais frequentes, em ordem decrescente ¢",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "A£0es",
+      "B": "DE Fes",
+      "C": "DH Rev.",
+      "D": "RL Bex",
+      "E": "xBLep"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8715,20 +9231,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 168
+    "sourceQuestion": 168,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4174,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 169 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O quadro apresenta o número de terremotos de ma\n‘em nosso planeta nos anos de 2000 a 2011\n[eran 2000 | 207 [ 2502 [2005 [ama\n[mmemis [is [is | 1 [15 | 1\nUm pesquisador acredita que a mediana representa b\nSegundo esse pesquisador, o número anual típico de terre\non\n915\n@ 155\n© 157\n@ 175\nenemacz MT -2º da | Cadero 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8737,20 +9256,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 27,
     "language": null,
-    "sourceQuestion": 169
+    "sourceQuestion": 169,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4175,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 170 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O grafico apresenta o nivel de ocupação dos cinco\nreservatórios de água que abasteciam uma cidade em\n2 de fevereiro de 2015.\nNível dos reservatórios em 2 fev. 2015\nCapacidade (bilhão de tros)\nobtos 00 20 80 40\nse\ngo\ngn\ngo\nãs\n8\n24\n8\n3\n2»\n1\n1 W Al Vv Vv\nReservatório\nNessa data, o reservatório com o maior volume de água\nerao\n91\noi\non\now\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8759,20 +9281,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 170
+    "sourceQuestion": 170,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4176,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 171 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma pessoa realizou uma pesquisa com alguns\nalunos de uma escola, coletando suas idades, e organizou\nesses dados no grafico.\n8\nEr\n| all\n89\n6\n918 27\nIdade (ano)\nQual é a média das idades, em ano, desses alunos?\n[AR\n@ 12\n@ 18\n© 19\n@7\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "D",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8781,20 +9306,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 171
+    "sourceQuestion": 171,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4177,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 172 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Em um estudo realizado pelo IBGE em quatro\nestados e no Distrito Federal, com mais de 5 mil pessoas\ncom 10 anos ou mais, observou-se que a leitura ocupa,\nem média, apenas seis minutos do dia de cada pessoa\nNa faixa de idade de 10 a 24 anos, a média diária é de\ntrês minutos. No entanto, no grupo de idades entre\n24 e 60 anos, o tempo médio diário dedicado à\nleitura é de 5 minutos. Entre os mais velhos, com\n60 anos ou mais, a média é de 12 minutos\nA quantidade de pessoas entrevistadas de cada faixa\nde idade seguiu a distribuição percentual descrita no\nquadro.\n[ Faixactária | Percentual de entrevistados |\n[Demazisrs | x]\n[\"Apariraesoanos [x]\nOs valores de x e y do quadro são, respectivamente, iguais a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "10e80",
+      "B": "10e9",
+      "C": "20e6",
+      "D": "20e8",
+      "E": "25650"
     },
     "correctAnswer": "C",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8803,20 +9331,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 172
+    "sourceQuestion": 172,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4178,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 173 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um zootecnista pretende testar se uma nova ração\npara coelhos é mais eficiente do que a que ele vem\nutilizando atualmente. A ração atual proporciona uma\nmassa média de 10 kg por coelho, com um desvio padrão\nde 1 kg, alimentado com essa ração durante um período\nde três meses.\nO zootecnista selecionou uma amostra de coelhos é\nos alimentou com a nova ração pelo mesmo período de\ntempo. Ao final, anotou a massa de cada coelho, obtendo\num desvio padrão de 1,5 kg para a distribuição das\nmassas dos coelhos dessa amostra.\nPara avaliar a eficiência dessa ração, ele utlizará\no coeficiente de variação (CV) que é uma medida de\ndispersão definida por CV = em que s representa o\ndesvio padrão e x, a média das massas dos coelhos que\nforam alimentados com uma determinada ração.\nO zootecnista substituirá a ração que vinha utilizando\npela nova, caso o coeficiente de variação da distribuição\ndas massas dos coelhos que foram alimentados com a\nnova ração for menor do que o coeficiente de variação\nda distribuição das massas dos coelhos que foram\nalimentados com a ração atual.\nAsubstituição da ração ocorrerá se a média da distribuição\ndas massas dos coelhos da amostra, em quilograma, for\nsuperior a",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "50.",
+      "B": "95.",
+      "C": "100.",
+      "D": "105.",
+      "E": "150. AMARELO - 1*Aplcagao enema"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8825,20 +9356,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 28,
     "language": null,
-    "sourceQuestion": 173
+    "sourceQuestion": 173,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4179,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 174 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma rede de hamburgueria tem três franquias em\ncidades distintas. Visando incluir um novo tipo de lanche\nno cardápio, o gerente de marketing da rede sugeriu que\nfossem colocados à venda cinco novos tipos de lanche,\nem edições especiais. Os lanches foram oferecidos pelo\nmesmo periodo de tempo em todos os franqueados.\nO tipo que apresentasse a maior média por franquia\nseria incluido defintivamente no cardápio. Terminado o\nperiodo de experiência, a gerência recebeu um relatório\ndescrevendo as quantidades vendidas, em unidade, de\ncada um dos cinco tipos de lanche nas três franquias.\nLanche\nv\n[Res os | 20 [aes | ao [os |\nfa 5 [ws | 510 [oo | ws |\nfa 5 [20 [as [as [|\nCom base nessas informações, a gerência decidiu incluir\nno cardápio o lanche de tipo\n91\noi\no 1\nom\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8847,20 +9381,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 174
+    "sourceQuestion": 174,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4180,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 175 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Uma grande rede de supermercados adota um\nsistema de avaliação dos faturamentos de suas fais,\nconsiderando a média de faturamento mensal em\nmilhão. A matriz da rede paga uma comissão para os\nrepresentantes dos supermercados que atingirem uma\nmédia de faturamento mensal (M), conforme apresentado\nno quadro\n[ Comissão | Média de faturamento mensal (M)\nDoi fo teme |]\n[se\nee\nae CS\nUm supermercado da rede obteve os faturamentos\nnum dado ano, conforme apresentado no quadro.\nFaturamento mensal\n(em milhão de real) | Quantidade de meses\n[os ee\nenema MT-2 da | Cademo 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8869,20 +9406,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 175
+    "sourceQuestion": 175,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4181,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 176 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Aplicativos que gerenciam servigos de hospedagem\ntêm ganhado espaço no Brasi e no mundo por oferecer\nopções diferenciadas em termos de localização e valores\nde hospedagem. Em um desses aplcativos, o preço P a\nser pago pela hospedagem é calculado considerando um\npreço por diária d, acrescido de uma taxa fxa de impeza L\ne de uma taxa de serviço. Essa taxa de serviço é um valor\npercentual s calculado sobre o valor pago pelo total das\ndias.\nNessa situação, o preço a ser pago ao aplicativo para uma\nhospedagem den diárias pode ser obtido pela expressão",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "P=dn+L+dns",
+      "B": "P=dn+L+ds",
+      "C": "P=d+L+s",
+      "D": "P=dns+L",
+      "E": "P=dn+L+s"
     },
     "correctAnswer": "A",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8891,20 +9431,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 176
+    "sourceQuestion": 176,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4182,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 177 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O organizador de uma competição de lançamento de\ndardos pretende tornar 0 campeonato mais competitivo.\nPelas regras atuais da competição, numa rodada, o\njogador lança 3 dardos e pontua caso acerte pelo menos\num deles no alvo. O organizador considera que, em\nmédia, 0s jogadores têm, em cada lançamento, + de\nprobabilidade de acertar um dardo no alvo\nAfim de tomar o jogo mais atrativo, planeja modificar\nas regras de modo que a probabilidade de um jogador\nisso, decide aumentar a quantidade de dardos serem\nlançados em cada rodada.\nCom base nos valores considerados pelo organizador da\ncompetição, a quantidade minima de dardos que devem\nser disponiblizados em uma rodada para tomar o jogo\nmais atrativo é\no2\n04\n@ 6.\nos\ne 10.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "B",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8913,20 +9456,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 29,
     "language": null,
-    "sourceQuestion": 177
+    "sourceQuestion": 177,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4183,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 179 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "Um segmento de reta está dividido em duas partes\nna proporção áurea quando o todo está para uma das\npartes na mesma razão em que essa parte está para a\noutra. Essa constante de proporcionalidade é comumente\nrepresentada pela letra grega q, e seu valor é dado pela\nsolução positiva da equação q? = q + 1\nAssim como a potência q, as potências superiores\nde q podem ser expressas da forma aq + b,emque aeb\nsão inteiros positivos, como apresentado no quadro.\nLe Te Te Tete te |\nLott [2011 [oor2 [sora [80+5| |\nA potência 9’, escrita na forma ag + b (a e b são inteiros\npositivos), é",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "59+3",
+      "B": "79+2",
+      "C": "99 +6",
+      "D": "1n19+7",
+      "E": "13948"
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8935,20 +9481,23 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 31,
     "language": null,
-    "sourceQuestion": 179
+    "sourceQuestion": 179,
+    "ocrOptions": true,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   },
   {
     "id": 4184,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
     "topic": "ENEM 2021",
-    "statement": "Questão 180 do ENEM 2021 — 2º dia. Abra a página original do caderno no link abaixo, leia o enunciado e as alternativas e selecione aqui a letra que escolheste.",
+    "statement": "O Atomium, representado na imagem, é um\ndos principais pontos turísticos de Bruxelas. Ele foi\nconstruído em 1958 para a primeira grande exposição\nmundial depois da Segunda Guerra Mundial, a Feira\nMundial de Bruxelas.\nTrata-se de uma estrutura metálica construída no\nformato de um cubo. Essa estrutura está apoiada por um\ndos vértices sobre uma base paralela ao plano do solo,\n& a diagonal do cubo, contendo esse vértice, é ortogonal\nao plano da base. Centradas nos vértices desse cubo,\nforam construídas oito esferas metálicas, e uma outra\nesfera foi construida centrada no ponto de interseção das\ndiagonais do cubo. As oito esferas sobre os vértices são\ninterligadas segundo suas arestas, e a esfera central se\nconecta a elas pelas diagonais do cubo.\nTodas essas interligações são feitas por tubos\ncllináricos que possuem escadas em seu interior,\npermitindo o deslocamento de pessoas pela parte\ninterna da estrutura. Na diagonal ortogonal à base, o\ndeslocamento é feito por um elevador, que permite o\ndeslocamento entre as esferas da base e a esfera do\nponto mais alto, passando pela esfera central.\nenemio: MT -2º di | Cadero 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
     "alternatives": {
-      "A": "Alternativa A no caderno oficial (consulte o PDF acima).",
-      "B": "Alternativa B no caderno oficial (consulte o PDF acima).",
-      "C": "Alternativa C no caderno oficial (consulte o PDF acima).",
-      "D": "Alternativa D no caderno oficial (consulte o PDF acima).",
-      "E": "Alternativa E no caderno oficial (consulte o PDF acima)."
+      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
+      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
+      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
+      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
+      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
     },
     "correctAnswer": "E",
     "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
@@ -8957,7 +9506,10 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
     "sourcePage": 31,
     "language": null,
-    "sourceQuestion": 180
+    "sourceQuestion": 180,
+    "ocrOptions": false,
+    "ocrReviewed": false,
+    "ocrNeedsVisualReview": false
   }
 ];
 if (typeof module !== "undefined") module.exports = QUESTIONS;
