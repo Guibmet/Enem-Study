@@ -33,7 +33,7 @@ function render(){
 }
 function home(){
   const a=last(),c=S.cur,w=wrongIds(a),pend=Q.length-correctEver().size,areaOpts=AREAS.map(x=>`<option>${esc(x)}</option>`).join('');
-  app.innerHTML=`<h1>ENEM Study</h1><p>Simulado com ${Q.length} questões de múltipla escolha no estilo ENEM, em ${AREAS.length} áreas do conhecimento. Responda, finalize e veja a correção comentada. Questões autorais, não oficiais do Inep.</p>
+  app.innerHTML=`<h1>Simulado do Enem</h1><p>Simulado com ${Q.length} questões de múltipla escolha no estilo ENEM, em ${AREAS.length} áreas do conhecimento. Responda, finalize e veja a correção comentada.</p>
   ${warn?`<p class="card" role="alert">${esc(warn)}</p>`:''}${mem?'<p class="card" role="alert">O armazenamento local está indisponível: seu progresso não será salvo ao fechar a página.</p>':''}
   <div class="card"><div class="row">
    <button class="btn" id="b-new">Começar simulado</button>
