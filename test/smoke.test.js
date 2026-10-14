@@ -21,6 +21,7 @@ test('fluxo completo renderiza sem exceções',()=>{
   el('#back').onclick();el('#rev').onclick();assert.match(el('#app').innerHTML,/Revisar erros/);
   assert.match(el('#app').innerHTML,/Tentar novamente/);
   el('#hm').onclick();
-  assert.match(el('#app').innerHTML,/417 entradas/);
-  assert.match(el('#app').innerHTML,/Todas as inéditas \(407\)/);
+  assert.match(el('#app').innerHTML,new RegExp(Q.length+' entradas'));
+  const identity = id => { const q=byId[id]; return q && q.source && q.sourcePdf && q.sourceQuestion != null ? `${q.source}|${q.sourcePdf}|${q.sourceQuestion}` : `id:${id}`; };
+  assert.ok(el('#app').innerHTML.includes(`Todas as inéditas (${new Set(Q.map(q=>identity(q.id))).size})`));
 });

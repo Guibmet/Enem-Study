@@ -2,10 +2,10 @@ const test = require('node:test'), assert = require('node:assert');
 const Q = require('../questions.js'), G = require('../grading.js');
 const ids = Q.map(q => q.id);
 test('banco expandido: questões autorais e referências oficiais de 2020 e 2021', () => {
-  assert.equal(Q.length, 417);
+  assert.equal(Q.length, 317);
   assert.equal(new Set(ids).size, Q.length);
-  assert.equal(Q.filter(q => q.source === 'ENEM 2020 oficial').length, 183);
-  assert.equal(Q.filter(q => q.source === 'ENEM 2021 oficial').length, 184);
+  assert.equal(Q.filter(q => q.source === 'ENEM 2020 oficial').length, 137);
+  assert.equal(Q.filter(q => q.source === 'ENEM 2021 oficial').length, 130);
 });
 test('todas as questões têm cinco alternativas e gabarito válido', () => {
   Q.forEach(q => {
@@ -24,15 +24,15 @@ test('gabarito oficial ENEM 2021 (amostra dos cadernos anexados)', () => {
   const byId = Object.fromEntries(Q.map(q => [q.id, q]));
   const g = [
     [4001,'C'], [4002,'C'], [4003,'A'], [4004,'A'], [4005,'A'], [4006,'E'],
-    [4007,'B'], [4008,'A'], [4009,'B'], [4010,'A'], [4011,'B'], [4050,'C'],
-    [4051,'B'], [4095,'B'], [4096,'A']
+    [4008,'A'], [4009,'B'], [4011,'B'], [4051,'B'],
+    [4097,'D']
   ];
   for (const [id, answer] of g) assert.equal(byId[id].correctAnswer, answer, `questão id ${id}`);
 });
 test('gabarito oficial ENEM 2020 (amostra dos cadernos anexados)', () => {
   const byId = Object.fromEntries(Q.map(q => [q.id, q]));
-  const g = {1001:'A',1002:'A',1003:'E',1004:'D',1005:'C',1046:'D',1090:'D',
-    3091:'C',3092:'E',3093:'D',3094:'B',3095:'D',3115:'A',3180:'C'};
+  const g = {1003:'E',1004:'D',1005:'C',1046:'D',1090:'D',
+    3091:'C',3092:'E',3093:'D',3094:'B',3095:'D',3115:'A'};
   for (const k in g) assert.equal(byId[k].correctAnswer, g[k], `questão ${k}`);
 });
 test('tudo certo = 100%', () => {
@@ -81,10 +81,11 @@ test('se restarem menos inéditas que o tamanho solicitado, completa com questõ
 
 test('questões de 2021 estão transcritas e ligadas ao caderno original', () => {
   const qs = Q.filter(q => q.source === 'ENEM 2021 oficial');
-  assert.equal(qs.length, 184);
+  assert.equal(qs.length, 130);
   for (const q of qs) {
     assert.ok(!q.statement.includes('Abra a página original do caderno'), `placeholder ainda presente em ${q.id}`);
     assert.ok(q.sourcePdf && q.sourcePage > 0, `PDF/página ausente em ${q.id}`);
     assert.ok(q.ocrOptions === true || q.statement.includes('Alternativas transcritas acima'), `alternativas sem indicação em ${q.id}`);
+    assert.equal(q.ocrNeedsVisualReview, false, `OCR precisa de revisão visual em ${q.id}`);
   }
 });

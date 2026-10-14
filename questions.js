@@ -886,50 +886,6 @@ var QUESTIONS = [
     "alternativeExplanations": {}
   },
   {
-    "id": 1001,
-    "area": "Linguagens",
-    "subject": "Linguagens · Inglês",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: https://sites.psu.edu. Acesso em: 12 jun. 2018. Os recursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
-    "alternatives": {
-      "A": "criticar o tipo de tratamento dado à mulher.",
-      "B": "rever o desempenho da mulher no trabalho.",
-      "C": "questionar a sobrecarga de atribuições da mulher.",
-      "D": "analisar as pesquisas acerca dos direitos da mulher.",
-      "E": "censurar a mulher pelo uso de determinadas palavras."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 2,
-    "language": "en",
-    "sourceQuestion": 1
-  },
-  {
-    "id": 1002,
-    "area": "Linguagens",
-    "subject": "Linguagens · Inglês",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: www.csuchico.edu. Acesso em: 11 dez. 2017. Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
-    "alternatives": {
-      "A": "estereotipar povos de certas culturas.",
-      "B": "discriminar hábitos de grupos minoritários.",
-      "C": "banir imigrantes de determinadas origens.",
-      "D": "julgar padrões de beleza de diversas etnias.",
-      "E": "desvalorizar costumes de algumas sociedades."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 2,
-    "language": "en",
-    "sourceQuestion": 2
-  },
-  {
     "id": 1003,
     "area": "Linguagens",
     "subject": "Linguagens · Inglês",
@@ -1458,28 +1414,6 @@ var QUESTIONS = [
     "sourceQuestion": 21
   },
   {
-    "id": 1022,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017. Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
-    "alternatives": {
-      "A": "promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
-      "B": "estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
-      "C": "divulgar para a população as novas regras complementares para as torcidas de futebol.",
-      "D": "informar ao público masculino as consequências de condutas ofensivas.",
-      "E": "regulamentar normas de boa convivência nos estádios."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 11,
-    "language": null,
-    "sourceQuestion": 22
-  },
-  {
     "id": 1023,
     "area": "Linguagens",
     "subject": "Linguagens",
@@ -1522,50 +1456,6 @@ var QUESTIONS = [
     "sourcePage": 12,
     "language": null,
     "sourceQuestion": 24
-  },
-  {
-    "id": 1025,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "KOSUTH, J. One and Three Chairs. Museu Reina Sofia, Espanha, 1965. Disponível em: www.museoreinasofia.es. Acesso em: 4 jun. 2018 (adaptado). A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete “Cadeira”. Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
-    "alternatives": {
-      "A": "não é a realidade, mas uma representação dela.",
-      "B": "fundamenta-se na repetição, construindo variações.",
-      "C": "não se define, pois depende da interpretação do fruidor.",
-      "D": "resiste ao tempo, beneficiada por múltiplas formas de registro.",
-      "E": "redesenha a verdade, aproximando-se das definições lexicais."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 12,
-    "language": null,
-    "sourceQuestion": 25
-  },
-  {
-    "id": 1026,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: www.iotforall.com. Acesso em: 22 jun. 2018. A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções",
-    "alternatives": {
-      "A": "promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
-      "B": "conduzir escolhas profissionais da área de ciência da computação, oferecendo um leque de opções de atuação.",
-      "C": "transferir conhecimento da inteligência artificial para as áreas tradicionais, como as das ciências exatas e naturais.",
-      "D": "levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu próprio lugar.",
-      "E": "delimitar tecnologias exclusivas de jogos virtuais, a fim de oferecer maior emoção ao jogador por meio de outras realidades."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 12,
-    "language": null,
-    "sourceQuestion": 26
   },
   {
     "id": 1027,
@@ -1634,28 +1524,6 @@ var QUESTIONS = [
     "sourceQuestion": 29
   },
   {
-    "id": 1030,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018. Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
-    "alternatives": {
-      "A": "silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
-      "B": "metáfora de que as mulheres precisam defender-se do assédio masculino.",
-      "C": "constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.",
-      "D": "necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.",
-      "E": "incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores."
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 14,
-    "language": null,
-    "sourceQuestion": 30
-  },
-  {
     "id": 1031,
     "area": "Linguagens",
     "subject": "Linguagens",
@@ -1698,28 +1566,6 @@ var QUESTIONS = [
     "sourcePage": 14,
     "language": null,
     "sourceQuestion": 32
-  },
-  {
-    "id": 1033,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "TEXTO I Poesia em cartaz O caminho habitual para o trabalho, aquele em que a gente já nem repara direito, pode ficar mais belo com um poema. O projeto #UmLambePorDia nasceu desta intenção: trazer mais cor e alegria para a cidade por meio de cartazes coloridos ao estilo lambe-lambe. Quem teve a ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. “Em meio a olhares cada vez mais viciados, acabamos nos esquecendo da beleza envolvida em cada esquina e no próprio poder transformador da palavra”. Assim, a cada dia um cartaz é colocado por aí, para nos lembrar de reparar na cidade, na vida que corre ao redor e também em nós mesmos. TEXTO II Disponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado). Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
-    "alternatives": {
-      "A": "disseminação da arte poética em um veículo não convencional.",
-      "B": "manutenção da expectativa das pessoas ao andarem pelas ruas.",
-      "C": "necessidade de exposição de poemas pequenos em diferentes suportes.",
-      "D": "característica corriqueira do suporte lambe-lambe, muito comum nas ruas.",
-      "E": "exposição da beleza escondida das esquinas da cidade de Belo Horizonte."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 15,
-    "language": null,
-    "sourceQuestion": 33
   },
   {
     "id": 1034,
@@ -1786,28 +1632,6 @@ var QUESTIONS = [
     "sourcePage": 16,
     "language": null,
     "sourceQuestion": 36
-  },
-  {
-    "id": 1037,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "O conceito de saúde formulado na histórica VIII Conferência Nacional de Saúde, no ano de 1986, fi cou conhecido como um “conceito ampliado” de saúde, conforme ilustrado na fi gura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 16,
-    "language": null,
-    "sourceQuestion": 37
   },
   {
     "id": 1038,
@@ -1942,28 +1766,6 @@ var QUESTIONS = [
     "sourceQuestion": 43
   },
   {
-    "id": 1044,
-    "area": "Linguagens",
-    "subject": "Linguagens",
-    "topic": "ENEM 2020",
-    "statement": "Disponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018. Nessa campanha publicitária, a imagem da família e o texto verbal unem-se para reforçar a ideia de que",
-    "alternatives": {
-      "A": "a família que adota é mais feliz.",
-      "B": "a adoção tardia é muito positiva.",
-      "C": "as famílias preferem adotar bebês.",
-      "D": "a adoção de adolescentes é mais simples.",
-      "E": "os filhos adotivos são companheiros dos pais."
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 18,
-    "language": null,
-    "sourceQuestion": 44
-  },
-  {
     "id": 1045,
     "area": "Linguagens",
     "subject": "Linguagens",
@@ -2094,28 +1896,6 @@ var QUESTIONS = [
     "sourcePage": 21,
     "language": null,
     "sourceQuestion": 50
-  },
-  {
-    "id": 1051,
-    "area": "Ciências Humanas",
-    "subject": "Ciências Humanas",
-    "topic": "ENEM 2020",
-    "statement": "Zona de pastoreio e cultura do algodão e cereais do agreste (1963) CONVENÇÕES PASTOREIO - - - - - - - - - - - - - - - PLANTIO E LIMPA - - - - - - - - - - CRESCIMENTO- - - - - - - - - - - COLHEITA DE FEIJÃO - - - - - - - - COLHEITA DE MILHO VERDE - - - COLHEITA DE MILHO SECO - - - COLHEITA DE ALGODÃO - - - - - - ANDRADE, M. C. A terra e o homem no Nordeste. São Paulo: Brasiliense, 1963. A dinâmica produtiva apresentada na imagem tem como estratégia central a",
-    "alternatives": {
-      "A": "separação pelo tipo de solo.",
-      "B": "exportação da colheita sazonal.",
-      "C": "priorização da tecnologia moderna.",
-      "D": "adequação pelo tempo da natureza.",
-      "E": "intensificação da atividade pecuária."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 21,
-    "language": null,
-    "sourceQuestion": 51
   },
   {
     "id": 1052,
@@ -2446,28 +2226,6 @@ var QUESTIONS = [
     "sourcePage": 25,
     "language": null,
     "sourceQuestion": 66
-  },
-  {
-    "id": 1067,
-    "area": "Ciências Humanas",
-    "subject": "Ciências Humanas",
-    "topic": "ENEM 2020",
-    "statement": "Vale da Grande Fenda Vulcões Disponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado). Os aspectos físicos apresentados originam-se da atuação da força natural de",
-    "alternatives": {
-      "A": "colisão de placas tectônicas.",
-      "B": "rifteamento da crosta terrestre.",
-      "C": "subducção da plataforma oceânica.",
-      "D": "formação de cadeias montanhosas.",
-      "E": "metamorfi smo de bordas continentais."
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 67
   },
   {
     "id": 1068,
@@ -3086,28 +2844,6 @@ var QUESTIONS = [
     "sourceQuestion": 95
   },
   {
-    "id": 3096,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada. Fonte CC 12 V + − 100 Ω 100 Ω 100 Ω 100 Ω",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 3,
-    "language": null,
-    "sourceQuestion": 96
-  },
-  {
     "id": 3097,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -3216,50 +2952,6 @@ var QUESTIONS = [
     "sourcePage": 4,
     "language": null,
     "sourceQuestion": 101
-  },
-  {
-    "id": 3102,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais (colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas. Número de células (milhão) 60 50 40 30 20 10 0 CT I II III IV V CN I II III IV V Qual quimioterápico deve ser escolhido para tratamento desse tipo de tumor?",
-    "alternatives": {
-      "A": "I",
-      "B": "II",
-      "C": "III",
-      "D": "IV",
-      "E": "V"
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 4,
-    "language": null,
-    "sourceQuestion": 102
-  },
-  {
-    "id": 3103,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro. Etapa Subetapa O que ocorre Preparação da matéria-prima Seleção dos grãos Separação das sujidades mais grossas Descascamento Separação de polpa e casca Trituração Rompimento dos tecidos e das paredes das células Cozimento Aumento da permeabilidade das membranas celulares Extração do óleo bruto Prensagem Remoção parcial do óleo Extração Obtenção do óleo bruto com hexano Destilação Separação do óleo e do solvente Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?",
-    "alternatives": {
-      "A": "Trituração.",
-      "B": "Cozimento.",
-      "C": "Prensagem.",
-      "D": "Extração.",
-      "E": "Destilação."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 5,
-    "language": null,
-    "sourceQuestion": 103
   },
   {
     "id": 3104,
@@ -3460,28 +3152,6 @@ var QUESTIONS = [
     "sourceQuestion": 112
   },
   {
-    "id": 3113,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera a necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm−³, um investidor negocia a aquisição de um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10 g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme esquematizado. Proveta Proveta Proveta Proveta Proveta 2",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 8,
-    "language": null,
-    "sourceQuestion": 113
-  },
-  {
     "id": 3115,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -3524,50 +3194,6 @@ var QUESTIONS = [
     "sourcePage": 9,
     "language": null,
     "sourceQuestion": 116
-  },
-  {
-    "id": 3117,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido à iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento. Bactérias aeróbias Filamento de alga verde Microespectro Vermelho Amarelo Verde Azul Anil Violeta Considerando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do:",
-    "alternatives": {
-      "A": "Anil.",
-      "B": "Verde.",
-      "C": "Violeta.",
-      "D": "Amarelo.",
-      "E": "Vermelho."
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 9,
-    "language": null,
-    "sourceQuestion": 117
-  },
-  {
-    "id": 3118,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "O exame parasitológico de fezes é utilizado para detectar ovos de parasitos. Um dos métodos utilizados, denominado de centrífugo-flutuação, considera a densidade dos ovos em relação a uma solução de densidade 1,15 g mL−1. Assim, ovos que flutuam na superfície dessa solução são detectados. Os dados de densidade dos ovos de alguns parasitos estão apresentados na tabela. Parasito Densidade (g mL-1) Ancylostoma 1,06 Ascaris lumbricoides 1,11 Ascaris suum 1,13 Schistosoma mansoni 1,18 Taenia saginata 1,30 ZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e rampas de escoamento superficial. Belo Horizonte: Prosab, 2001 (adaptado). Considerando-se a densidade dos ovos e da solução, ovos de quais parasitos podem ser detectados por esse método?",
-    "alternatives": {
-      "A": "A. lumbricoides, A. suum e S. mansoni.",
-      "B": "S. mansoni, T. saginata e Ancylostoma.",
-      "C": "Ancylostoma, A. lumbricoides e A. suum.",
-      "D": "T. saginata, S. mansoni e A. lumbricoides.",
-      "E": "A. lumbricoides, A. suum e T. saginata."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 10,
-    "language": null,
-    "sourceQuestion": 118
   },
   {
     "id": 3119,
@@ -3634,94 +3260,6 @@ var QUESTIONS = [
     "sourcePage": 10,
     "language": null,
     "sourceQuestion": 121
-  },
-  {
-    "id": 3122,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 11,
-    "language": null,
-    "sourceQuestion": 122
-  },
-  {
-    "id": 3123,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura. Policloreto de vinila (PVC) Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na2CO3), liberou gás carbônico. Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
-    "alternatives": {
-      "A": "H2",
-      "B": "Cl2",
-      "C": "CO",
-      "D": "CO2",
-      "E": "HCl"
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 11,
-    "language": null,
-    "sourceQuestion": 123
-  },
-  {
-    "id": 3124,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações D1 e D2.",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 11,
-    "language": null,
-    "sourceQuestion": 124
-  },
-  {
-    "id": 3125,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "DAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015. Por qual motivo ocorre a eletrização ilustrada na tirinha?",
-    "alternatives": {
-      "A": "Troca de átomos entre a calça e os pelos do gato.",
-      "B": "Diminuição do número de prótons nos pelos do gato.",
-      "C": "Criação de novas partículas eletrizadas nos pelos do gato.",
-      "D": "Movimentação de elétrons entre a calça e os pelos do gato.",
-      "E": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 12,
-    "language": null,
-    "sourceQuestion": 125
   },
   {
     "id": 3126,
@@ -3834,28 +3372,6 @@ var QUESTIONS = [
     "sourceQuestion": 130
   },
   {
-    "id": 3131,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2020",
-    "statement": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de temperatura maior para uma determinada faixa de frequências. SAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado). Para verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente. Caixa isolada e opaca Incidência de luz solar Luz solar decomposta Vermelho",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 14,
-    "language": null,
-    "sourceQuestion": 131
-  },
-  {
     "id": 3132,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -3944,72 +3460,6 @@ var QUESTIONS = [
     "sourceQuestion": 135
   },
   {
-    "id": 3136,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos. Receita Custo Quantidade de itens produzidos R$ 5 10 15 20 25 30 35 40 45 50 55 5 10 15 20 25 30 0 O lucro é determinado pela diferença: Receita – Custo. O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é",
-    "alternatives": {
-      "A": "R$ 5 −5 −10 −15 −20 10 15 20 25 30 35 40 5 10 20 25 30 0 Quantidade de itens produzidos 15",
-      "B": "R$ 5 −5 −10 −15 −20 −25 −30 −35 −40 10 15 20 5 10 20 25 30 0 Quantidade de itens produzidos 15",
-      "C": "R$ 5 −5 10 15 20 25 30 35 40 45 50 55 5 10 20 25 30 0 Quantidade de itens produzidos 15",
-      "D": "R$ 5 −5 10 15 20 25 30 35 40 45 50 55 5 10 20 25 30 0 Quantidade de itens produzidos 15",
-      "E": "R$ 5 −5 10 15 20 25 30 35 40 45 50 55 5 10 20 25 30 0 Quantidade de itens produzidos 15"
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 16,
-    "language": null,
-    "sourceQuestion": 136
-  },
-  {
-    "id": 3137,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura. Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida. A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 17,
-    "language": null,
-    "sourceQuestion": 137
-  },
-  {
-    "id": 3138,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fi xadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fi ca centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base. 8 cm 50 cm 50 cm Figura 1 Figura 2 10 cm ? A miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível. A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a",
-    "alternatives": {
-      "A": "12.",
-      "B": "14.",
-      "C": "16.",
-      "D": "18.",
-      "E": "20."
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 18,
-    "language": null,
-    "sourceQuestion": 138
-  },
-  {
     "id": 3139,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4052,116 +3502,6 @@ var QUESTIONS = [
     "sourcePage": 18,
     "language": null,
     "sourceQuestion": 140
-  },
-  {
-    "id": 3142,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos A, B e C estão localizadas as casas de André, Bernardo e Carlos, respectivamente.",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 142
-  },
-  {
-    "id": 3143,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro. Depósito Valor do saco de cimento Valor do frete para cada quilômetro Distância entre a casa e o depósito (R$) (R$) (km)",
-    "alternatives": {
-      "A": "23,00 1,00 10",
-      "B": "21,50 3,00 12",
-      "C": "22,00 1,50 14",
-      "D": "21,00 3,50 18",
-      "E": "24,00 2,50 2 A pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção. Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o"
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 143
-  },
-  {
-    "id": 3144,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é",
-    "alternatives": {
-      "A": "13.",
-      "B": "14.",
-      "C": "17.",
-      "D": "18.",
-      "E": "21."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 144
-  },
-  {
-    "id": 3145,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura. T1",
-    "alternatives": {
-      "A": "y = 1,265x",
-      "B": "T2 A1 A2 Os tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento c 2 e largura 2L. Para finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por X, e a altura da coluna de líquido que chegou a T2, denotada por y. Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015. A equação que relaciona as medidas das alturas y e x é dada por",
-      "C": "y = 1,150x",
-      "D": "y = 1,125x",
-      "E": "y = x"
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 145
-  },
-  {
-    "id": 3146,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções: • seguir num ônibus, percorrendo 2,0 km; • alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia. O quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô−universidade. Dia da semana Velocidade média Ônibus (km/h) Bicicleta (km/h) Segunda-feira 9 15 Terça-feira 20 22 Quarta-feira 15 24 Quinta-feira 12 15 Sexta-feira 10 18 Sábado 30 16 A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
-    "alternatives": {
-      "A": "Às segundas, quintas e sextas-feiras.",
-      "B": "Às terças e quintas-feiras e aos sábados.",
-      "C": "Às segundas, quartas e sextas-feiras.",
-      "D": "Às terças, quartas e sextas-feiras.",
-      "E": "Às terças e quartas-feiras e aos sábados."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 146
   },
   {
     "id": 3147,
@@ -4208,28 +3548,6 @@ var QUESTIONS = [
     "sourceQuestion": 148
   },
   {
-    "id": 3149,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras. Na imagem tem-se a informação dos assentos já vendidos e dos ainda disponíveis em um determinado instante.",
-    "alternatives": {
-      "A": "razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na imagem, é",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": ""
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 21,
-    "language": null,
-    "sourceQuestion": 149
-  },
-  {
     "id": 3150,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4250,28 +3568,6 @@ var QUESTIONS = [
     "sourcePage": 22,
     "language": null,
     "sourceQuestion": 150
-  },
-  {
-    "id": 3151,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia. Em qual dia foi aplicada a metodologia mais eficiente?",
-    "alternatives": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4",
-      "E": "5"
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 22,
-    "language": null,
-    "sourceQuestion": 151
   },
   {
     "id": 3152,
@@ -4316,50 +3612,6 @@ var QUESTIONS = [
     "sourcePage": 22,
     "language": null,
     "sourceQuestion": 153
-  },
-  {
-    "id": 3154,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afl uentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantifi cando a densidade, da seguinte forma: • 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção; • 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local; • 6 pessoas por metro quadrado, se elas estiverem paradas. É feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas para cada carro de som fotografado. Com essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na fi gura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afl uente da principal: QR . Legenda: 30 m 100 m 100 m 300 m 200 m Via principal M N R O P Q 30 m Andando em uma mesma direção ou Movimentando sem deixar o local Parado Carro de som Obs.: a figura não está em escala (considere as medidas dadas). Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a",
-    "alternatives": {
-      "A": "110 000.",
-      "B": "104 000.",
-      "C": "93 000.",
-      "D": "92 000.",
-      "E": "87 000."
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 23,
-    "language": null,
-    "sourceQuestion": 154
-  },
-  {
-    "id": 3155,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico. 21,6 13,6 45,2 19,6 Jovens em atividade entre 15 e 29 anos (%) Somente estuda Trabalha e estuda Somente trabalha Não trabalha nem estuda Disponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014. De acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
-    "alternatives": {
-      "A": "114 708.",
-      "B": "164 076.",
-      "C": "213 444.",
-      "D": "284 592.",
-      "E": "291 582."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 24,
-    "language": null,
-    "sourceQuestion": 155
   },
   {
     "id": 3156,
@@ -4428,28 +3680,6 @@ var QUESTIONS = [
     "sourceQuestion": 158
   },
   {
-    "id": 3159,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2. (a) Casa (b) Planta do telhado Figura 1 Figura 2 A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é",
-    "alternatives": {
-      "A": "[Alternativa visual: consulte a página original do caderno.]",
-      "B": "[Alternativa visual: consulte a página original do caderno.]",
-      "C": "[Alternativa visual: consulte a página original do caderno.]",
-      "D": "[Alternativa visual: consulte a página original do caderno.]",
-      "E": "[Alternativa visual: consulte a página original do caderno.]"
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 25,
-    "language": null,
-    "sourceQuestion": 159
-  },
-  {
     "id": 3160,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4494,72 +3724,6 @@ var QUESTIONS = [
     "sourceQuestion": 161
   },
   {
-    "id": 3162,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro. Procedimento Peso Notas da empresa X Y Z W T Rapidez no atendimento 3 5 1 4 3 4 Clareza nas informações passadas aos clientes 5 1 4 3 3 2 Cortesia no atendimento 2 2 2 2 3 4 A agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados. Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
-    "alternatives": {
-      "A": "X.",
-      "B": "Y.",
-      "C": "Z.",
-      "D": "W.",
-      "E": "T."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 25,
-    "language": null,
-    "sourceQuestion": 162
-  },
-  {
-    "id": 3163,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio. Nome Idade (em ano) Orlando 89 Gustavo 86 Luana 86 Teresa 85 Márcia 84 Roberto 82 Heloisa 75 Marisa 75 Pedro 75 João 75 Antônio 72 Fernanda 70 Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a",
-    "alternatives": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": "",
-      "E": ""
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 163
-  },
-  {
-    "id": 3164,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela. Tempo médio de estudo de pessoas acima de 14 anos Ano da Pesquisa 1995 1999 2003 2007 Tempo de estudo (em ano) 5,2 5,8 6,4 7,0 Disponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado). Considere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente. O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será",
-    "alternatives": {
-      "A": "2018.",
-      "B": "2023.",
-      "C": "2031.",
-      "D": "2035.",
-      "E": "2043."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 164
-  },
-  {
     "id": 3165,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4582,50 +3746,6 @@ var QUESTIONS = [
     "sourceQuestion": 165
   },
   {
-    "id": 3166,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura. P 1 1/2 1/4 T R S O quadrado PRST, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente. Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?",
-    "alternatives": {
-      "A": "1 2 100 \u001b\u001a",
-      "B": "1 2 99 \u001b\u001a",
-      "C": "1 2 97 \u001b\u001a",
-      "D": "1 2 98 \u001b\u001a \u0019",
-      "E": "1 2 99 \u001b\u001a \u0019"
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 27,
-    "language": null,
-    "sourceQuestion": 166
-  },
-  {
-    "id": 3167,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro. Preço do perfume por unidade (R$) Perfume I Perfume II Perfume III Perfume IV Perfume V 200 170 150 100 80 Perfume V 32% Perfume IV 29% Perfume III 16% Perfume I 13% Perfume II 10% Porcentagem da quantidade vendida de cada perfume Dados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro. Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
-    "alternatives": {
-      "A": "I",
-      "B": "II",
-      "C": "III",
-      "D": "IV",
-      "E": "V"
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 27,
-    "language": null,
-    "sourceQuestion": 167
-  },
-  {
     "id": 3168,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4646,28 +3766,6 @@ var QUESTIONS = [
     "sourcePage": 28,
     "language": null,
     "sourceQuestion": 168
-  },
-  {
-    "id": 3169,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios: • afastamento mínimo de 4 m da rua; • afastamento mínimo de 1 m da divisa com outro lote; • área total construída da casa entre 40% e 50% da área total do lote. Um construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m². A imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro. 1 Rua Casa 3 Casa 5 Casa 4 Lote Lote Casa 1 Casa 2 Lote Lote 10 4 1 1 10 10 10 4 4 4 2 2 1 1 4 1 1 2 2 20 20 20 Rua 4 4 1 1 A prefeitura aprovará apenas a planta da casa",
-    "alternatives": {
-      "A": "1.",
-      "B": "2.",
-      "C": "3.",
-      "D": "4.",
-      "E": "5."
-    },
-    "correctAnswer": "E",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 28,
-    "language": null,
-    "sourceQuestion": 169
   },
   {
     "id": 3170,
@@ -4736,50 +3834,6 @@ var QUESTIONS = [
     "sourceQuestion": 172
   },
   {
-    "id": 3173,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento. Nível de envasamento da garrafa Qual esboço de gráfi co melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?",
-    "alternatives": {
-      "A": "altura tempo 0",
-      "B": "altura tempo 0",
-      "C": "altura tempo 0",
-      "D": "altura tempo 0",
-      "E": "altura 0 tempo"
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 29,
-    "language": null,
-    "sourceQuestion": 173
-  },
-  {
-    "id": 3174,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do fi lho. Internet Mensalidade escolar Mesada do fi lho 120 700 400 No início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do fi lho. Qual será a porcentagem da redução da mesada?",
-    "alternatives": {
-      "A": "15,0",
-      "B": "23,5",
-      "C": "30,0",
-      "D": "70,0",
-      "E": "76,5"
-    },
-    "correctAnswer": "B",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 29,
-    "language": null,
-    "sourceQuestion": 174
-  },
-  {
     "id": 3175,
     "area": "Matemática",
     "subject": "Matemática",
@@ -4844,72 +3898,6 @@ var QUESTIONS = [
     "sourcePage": 30,
     "language": null,
     "sourceQuestion": 177
-  },
-  {
-    "id": 3178,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos. Disponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012. Azulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura. Entre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos: 1 – Triângulo retângulo isósceles; 2 – Triângulo equilátero; 3 – Quadrado. Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
-    "alternatives": {
-      "A": "1.",
-      "B": "3.",
-      "C": "1 e 2.",
-      "D": "1 e 3.",
-      "E": "2 e 3."
-    },
-    "correctAnswer": "D",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 30,
-    "language": null,
-    "sourceQuestion": 178
-  },
-  {
-    "id": 3179,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "No período de fi m de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as fi guras 1 e 2. Poste Figura 2 Figura 1 h = 3 m c",
-    "alternatives": {
-      "A": "árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fi xação, no chão, de tal forma que esta fi que dividida em 20 arcos iguais. O poste está fi xado no ponto C (centro da circunferência) perpendicularmente ao plano do chão. Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva. Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de",
-      "B": "4,87.",
-      "C": "5,00.",
-      "D": "5,83.",
-      "E": "6,26."
-    },
-    "correctAnswer": "A",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 31,
-    "language": null,
-    "sourceQuestion": 179
-  },
-  {
-    "id": 3180,
-    "area": "Matemática",
-    "subject": "Matemática",
-    "topic": "ENEM 2020",
-    "statement": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fi la, como ilustra a fi gura. 30 cm 30 cm Um arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fi zerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia. Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de",
-    "alternatives": {
-      "A": "9.",
-      "B": "15.",
-      "C": "26.",
-      "D": "52.",
-      "E": "60."
-    },
-    "correctAnswer": "C",
-    "explanation": "Resolução comentada ainda não cadastrada para esta questão. Consulte a página original do caderno para ver imagens, gráficos, fórmulas ou elementos que possam não ter sido preservados na extração textual.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2020 oficial",
-    "sourcePdf": "assets/originals/2020_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 31,
-    "language": null,
-    "sourceQuestion": 180
   },
   {
     "id": 4001,
@@ -5062,31 +4050,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4007,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nA presença de “at odds with” na fala da personagem do\ncartum revela o(a)",
-    "alternatives": {
-      "A": "necessidade de acessar informações confiáveis.",
-      "B": "dificuldade de conciliar diferentes anseios.",
-      "C": "desejo de dominar novas tecnologias.",
-      "D": "desafio de permanecer imparcial",
-      "E": "vontade de ler noticias positivas."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 3,
-    "language": "Inglês",
-    "sourceQuestion": 4,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
-  },
-  {
     "id": 4008,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
@@ -5131,31 +4094,6 @@ var QUESTIONS = [
     "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
     "sourcePage": 3,
     "language": "Inglês",
-    "sourceQuestion": 5,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4010,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "{Por Dios!\n. UE LE HA\nE gen id :\niam, A MUNDO\nsna,\n“tur! NOSOTROS.\nee a\nCex 2 Ra V4\nqeifo QN 4\nfA ¢\nA charge evoca uma siluação de assombro frente a uma\nrealidade que assola as sociedades contemporâneas.\nSeu efeito humorístico reside na critica diante do(a)",
-    "alternatives": {
-      "A": "constatação do ser humano como o responsável pela condição caótica do mundo.",
-      "B": "apelo à religiosidade diante das dificuldades enfrentadas pela humanidade.",
-      "C": "indignação dos trabalhadores em face das injustiças sociais",
-      "D": "veiculação de informações trágicas pelos telejornais.",
-      "E": "manipulação das notícias difundidas pelas mídias."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 5,
-    "language": "Espanhol",
     "sourceQuestion": 5,
     "ocrOptions": true,
     "ocrReviewed": false,
@@ -5332,56 +4270,6 @@ var QUESTIONS = [
     "sourcePage": 9,
     "language": null,
     "sourceQuestion": 12,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4018,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "12021 MM EP\nNessa tirinha, produzida na década de 1970, os recursos\nverbais e não verbais sinalizam a finalidade de",
-    "alternatives": {
-      "A": "reforçar a luta por direitos civis.",
-      "B": "explicitar a autonomia feminina.",
-      "C": "ironizar as condições de igualdade.",
-      "D": "estimular a abdicação da vida social.",
-      "E": "criticar as obrigações da maternidade."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 9,
-    "language": null,
-    "sourceQuestion": 13,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4019,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "A crise dos refugiados imortalizada para sempre no\nfundo do mar\n+\nq a\nTAYLOR, JC A balsa de Lampedusa Instalação\nMuseu Alântico, Lanzarote, Canárias, 2016 (dtalhe)\nA balsa de Lampedusa, nome da obra do artista\nbritânico Jason de Caires Taylor, é uma das instalações\ncriadas por ele para compor 0 acervo do primeiro museu\nsubmarino da Europa, o Museu Atântico, localizado em\nLanzarote, uma das ilhas do arquipélago das Canárias.\nLampedusa é o nome da ilha italiana onde a grande\nmaioria dos refugiados que saem da África ou de paises\ncomo Síria, Libano e Iraque tenta chegar para conseguir\nasilo no continente europeu.\nAs esculturas do Museu Atlântico ficam a 14 metros\nde profundidade nas águas cristalinas de Lanzarote.\nNa balsa, estão dez pessoas. Todas têm no rosto a\nexpressão do abandono. Entre elas, há algumas crianças.\nUma delas, uma menina debrugada sobre a beira do bote,\nolha sem esperança o horizonte. A imagem é tão forte que\ndispensa qualquer palavra. Exatamente o papel da arte\nAlém de apresentar ao público a obra A balsa de\nLampedusa, essa reportagem cumpre, paralelamente, a\nfunção de chamar a atenção para",
-    "alternatives": {
-      "A": "a ilha de Lanzarote, localizada no arquipélago das Canárias, com vocação para o turismo.",
-      "B": "as muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.",
-      "C": "a inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.",
-      "D": "aconstrução do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.",
-      "E": "a arte como perpetuadora de episódios marcantes da humanidade que têm de ser relembrados para que não tomem a acontecer."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 9,
-    "language": null,
-    "sourceQuestion": 14,
     "ocrOptions": true,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -5837,31 +4725,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4038,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "rspeaqun = :\nre)\nAl | | 2\na el >\nSee É =\nas Ea CV:\n* a Gp\nTas mm a\nAly a=\nRT\nquadrinhos como prefácio é o(a)\n(O função de apresentação do livro.\n© apelo emocional apoiado nas imagens.\nO descrição do processo criativo da autora.\nO referência à mescla dos trabalhos manual e digital\n@ uso de elementos gráficos voltados para o público-alvo.\neae em]\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 16,
-    "language": null,
-    "sourceQuestion": 33,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4039,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
@@ -6012,56 +4875,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4045,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "Introdução a Alda\nDizem que ninguém mais a ama. Dizem que foi uma\nboa pessoa. Sua filha de doze anos não a visita nunca\n& talvez raramente se lembre dela. Puseram-na numa\ncidade triste de uniformes azuis e jalecos brancos, de\nonde não pôde mais sair. Lá, todos gritam-lhe irritados,\nmal se aproxima, ou lhe batem, como se faz com sacos\nde areia para treinar os músculos,\nSei que para todos ela já não é, e ninguém the daria\numa maçã cheirosa, bem vermelha. Mas não é verdade que\nalguém não a possa mais amar. Eu amo-a. Amo-a quando\na vejo por trás das grades de um palácio, onde se refugiou\nprincesa, chegada pelos caminhos da dor. Quando fora do\nreino sente o mundo de mil lanças, e selvagem prepara-\n-se, posta no olhar. Amo-a quando criança brinca na areia\nsem medo. Uns pés descalços, uma mulher sem intenções.\nCercada de mundo, às vezes sofrendo-o ainda\nCANÇADO, ML sofredor dover et orzo Aus, 2086,\nAo descrever uma mulher internada em um hospital\npsiquiátrico, o narrador compõe um quadro que expressa\nsua percepção",
-    "alternatives": {
-      "A": "irônica quanto aos efeitos do abandono familiar.",
-      "B": "resignada em face dos métodos terapéuticos em vigor.",
-      "C": "alimentada pela imersão lírica no espaço da segregação.",
-      "D": "inspirada pelo universo pouco conhecido da mente humana.",
-      "E": "demarcada por uma linguagem alinhada à busca da lucidez."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 40,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4046,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "O pavão vermelho\nOra, a alegria, este pavão vermelho,\nestá morando em meu quintal agora\nVem pousar como um sol em meu joelho\nquando é estridente em meu quintal a aurora.\nClarim de lacre, este pavão vermelho\nsobrepuja os pavões que estão lá ora\nÉ uma festa de púrpura. E o assemelho\na uma chamado labaro da aurora\nÉ o próprio doge a se mirar no espelho.\nE a cor vermelha chega a ser sonora\nneste pavão pomposo e de chavelho\nPavões lilases possui outrora\nDepois que amei este pavão vermelho,\nos meus outros pavões foram-se embora.\nCO Pon imp pr Ca ctr Cos Cn 211\nNa construção do soneto, as cores representam um\nrecurso poético que configura uma imagem com a qual\no eu ico\n@ revela a intenção de isolar-se em seu espaço.\nO simboliza a beleza e o esplendor da natureza.\n@ experimenta a fusão de percepções sensoriais.\n® metaforiza a conquista de sua plena realização.\nexpressa uma visão de mundo mistica e espiritualizada.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 41,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4047,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
@@ -6087,31 +4900,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4048,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nMAS o na Ur\nTimor | a gs ee\nE q TP. o @ =\ne EVA",
-    "alternatives": {
-      "A": "sugerir a impossibilidade de manutenção dos afetos.",
-      "B": "revelaros corpos marcados pela brutalidade colonial.",
-      "C": "representar o abatimento diante da desumanidade",
-      "D": "acentuar a resistência identitiria dos povos",
-      "E": "expor os sujeitos alijados de sua ancestralidade pelo E"
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 43,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
-  },
-  {
     "id": 4049,
     "area": "Linguagens",
     "subject": "Linguagens e Códigos",
@@ -6133,31 +4921,6 @@ var QUESTIONS = [
     "language": null,
     "sourceQuestion": 44,
     "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4050,
-    "area": "Linguagens",
-    "subject": "Linguagens e Códigos",
-    "topic": "ENEM 2021",
-    "statement": "No ano em que o maior clarinetista que o Brasil\nconheceu, Abel Ferreira, faria 100 anos, o choro dá\nmostras de vivacidade. É quase um paradoxo que essa\nriquíssima manifestação da genuína alma brasileira seja\nforte o suficiente para driblar a falta de incentivos oficiais,\na insensibilidade dos meios de comunicação e a amnésia\ngeneralizada. “Ele trazia a alma brasileira derramada\nem sua sonoridade impar. Artur da Távola, seguramente\nseu maior admirador, foi quem melhor o definiu, ‘alma\nsertaneja, toque mozarteano”. O acervo do músico\nautodidata nascido na mineira Coromandel, autor de 50\nmúsicas, entre as quais Chorando baixinho (1942), que o\nconsagrou, amigo e parceiro de Pixinguinha, com quem\ngravou Ingénuo (1958), permanece com os herdeiros à\nespera de compilação adequada. O Museu da Imagem\ne do Som do Rio de Janeiro tem a guarda do sax e do\nclarinete, doados em 1995.\nNa avaliação de Leonor Bianchi, editora da Revista\ndo Choro, “a música instrumental fica apartada do que é\npopular porque não vai à sala de concerto. O público em\ngeral tem interesse em samba, pagode e axé”, Ela atribui\nessa situação à falta de conhecimento e à pouca divulgação\ndo gênero nas escolas.\nConsiderando-se o contexto, o gênero e o público-alvo,\nos argumentos trazidos pela autora do texto buscam\n© atribuir o desconhecimento da obra de Abel Ferreira\nao ensino de música nas escolas.\nO reivindicar mais investimentos estatais para a\npreservação do acervo musical nacional.\n@ destacar a relevância histórica e a riqueza estética do\nchoro no cenário musical brasileiro.\nO apresentar ao leitor dados biográficos pouco\nconhecidos sobre a trajetória de Abel Ferreira.\nO constatar a impopularidade do choro diante da\npreferência do público por músicas populares.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 45,
-    "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
   },
@@ -6462,31 +5225,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4063,
-    "area": "Ciências Humanas",
-    "subject": "Ciências Humanas",
-    "topic": "ENEM 2021",
-    "statement": "A vida das pessoas se modifica com a mesma rapidez\ncom que se reproduz a cidade. O lugar da festa, do encontro\nquase desaparecem; o número de brincadeiras infantis\nnas ruas diminui — as crianças quase não são vistas;\nos pedaços da cidade são vendidos, no mercado, como\nmercadorias; árvores são destruídas, praças transformadas\nem concreto. Por outro lado, os habitantes parecem perder\nna cidade suas próprias referências. A imagem de uma\ngrande cidade hoje é tão mutante que se assemelha à de\num grande guindaste, aliás, a presença maciça destes, das\nbritadeiras, das betoneiras nos dão o limite do processo de\ntransformação diária ao qual está submetida a cidade.\nNo contexto das grandes cidades brasileiras, a situação\napresentada no texto vem ocorrendo como consequência da",
-    "alternatives": {
-      "A": "manutenção dos modos de convívio social",
-      "B": "preservação da essência do espaço público.",
-      "C": "ampliação das normas de controle ambiental",
-      "D": "Nexibilização das regras de participação politica",
-      "E": "alteração da organização da paisagem geográfica."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 24,
-    "language": null,
-    "sourceQuestion": 58,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4064,
     "area": "Ciências Humanas",
     "subject": "Ciências Humanas",
@@ -6657,31 +5395,6 @@ var QUESTIONS = [
     "sourcePage": 25,
     "language": null,
     "sourceQuestion": 65,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4071,
-    "area": "Ciências Humanas",
-    "subject": "Ciências Humanas",
-    "topic": "ENEM 2021",
-    "statement": "Houve crescimento de 74% da população brasileira\nencarcerada entre 2005 e 2012. As análises possibilitaram\nidentificar o perfil da população que está nas prisões do\npais: homens, jovens (abaixo de 29 anos), negros, com\nensino fundamental incompleto, acusados de crimes\npatrimoniais e, no caso dos presos adultos, condenados\ne cumprindo regime fechado e, majoritariamente, com\npenas de quatro até oito anos.\nNesse contexto, as políticas públicas para minimizar a\nproblemática descrita devem privilegiar a",
-    "alternatives": {
-      "A": "flexibilização do Código Civil.",
-      "B": "promoção da inclusão social",
-      "C": "redução da maioridade penal",
-      "D": "contenção da corrupção política.",
-      "E": "expansão do período de reclusão."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 66,
     "ocrOptions": true,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -7262,56 +5975,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4095,
-    "area": "Ciências Humanas",
-    "subject": "Ciências Humanas",
-    "topic": "ENEM 2021",
-    "statement": "TEXTO|\n| +\ntan =F:\n= ht A an A ee\nDR A A OS\nPat CS hla.\nTEXTO II\nA repugnante tarefa de carregar lixo e os dejetos da «\núnico escravo da familia ou ao de menor status ou valor. Toc\npopularmente como tigres” levavam tubos ou barris de excre\nA ação representada na imagem e descrita no texto evid\nséculos XVII e XIX caracterizada pela",
-    "alternatives": {
-      "A": "valorização do trabalho braçal.",
-      "B": "reileração das hierarquias sociais",
-      "C": "sacralização das atividades laborais.",
-      "D": "superação das exclusões econômicas.",
-      "E": "ressigniicação das heranças religiosas. enema GH dia | Gademo"
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D1_CD1.pdf",
-    "sourcePage": 31,
-    "language": null,
-    "sourceQuestion": 90,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4096,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nO ener\nCIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS\nQuestões de 91 a 135\nQuestão 1S eet",
-    "alternatives": {
-      "A": "recessivo.",
-      "B": "dominante.",
-      "C": "codominante.",
-      "D": "poligênico.",
-      "E": "polialético."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 2,
-    "language": null,
-    "sourceQuestion": 91,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
-  },
-  {
     "id": 4097,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -7462,56 +6125,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4103,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Questão9s $$ rrr\nCom o objetivo de proporcionar aroma e sabor a\ndiversos alimentos, a indústria alimentícia se utiliza de\nflavorizantes. Em geral, essas substâncias são ésteres,\ncomo as apresentadas no quadro.\nporea de C,H,CO,CH. Kiwi\nmetia pi\nAcetato de | CH co (CH,),CH(CH,), | Banana\nisoamila :C0,(CH),CH(CH),\nnee de CHCO,CHCH, | Pêssego\nbenzila LCO,CH.GH,\nPropanoato de\nCar\nAntranilato de\nSEE\nO aroma do flavorizante derivado do ácido etanoico e que\napresenta cadeia carbônica saturada é de\nO kiwi\nO banana\nO péssego.\nO um\n@ wa\nQuesto 99 rere\nO eletrocardiograma é um exame cardíaco que mede\na intensidade dos sinais elétricos advindos do coração.\nA imagem apresenta o resultado típico obtido em um\npaciente saudável e a intensidade do sinal (V,,) em\nunção do tempo.\nSOE EEE\nE BO SSS GORRO GORRO SORO GORRO E\n£ E ct ces ct\ne EEE EEE EEE EEE EEE EEE\ntempo (5)\nDe acordo com o eletrocardiograma apresentado, qual\nfoi o número de batimentos cardíacos por minuto desse\npaciente durante o exame?\n© 30\n© 60\ne 100\no 120\ne 180\nAMARELO - 1º Aplicação 3\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 3,
-    "language": null,
-    "sourceQuestion": 98,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4104,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Questão9s $$ rrr\nCom o objetivo de proporcionar aroma e sabor a\ndiversos alimentos, a indústria alimentícia se utiliza de\nflavorizantes. Em geral, essas substâncias são ésteres,\ncomo as apresentadas no quadro.\nporea de C,H,CO,CH. Kiwi\nmetia pi\nAcetato de | CH co (CH,),CH(CH,), | Banana\nisoamila :C0,(CH),CH(CH),\nnee de CHCO,CHCH, | Pêssego\nbenzila LCO,CH.GH,\nPropanoato de\nCar\nAntranilato de\nSEE\nO aroma do flavorizante derivado do ácido etanoico e que\napresenta cadeia carbônica saturada é de\nO kiwi\nO banana\nO péssego.\nO um\n@ wa\nQuesto 99 rere\nO eletrocardiograma é um exame cardíaco que mede\na intensidade dos sinais elétricos advindos do coração.\nA imagem apresenta o resultado típico obtido em um\npaciente saudável e a intensidade do sinal (V,,) em\nunção do tempo.\nSOE EEE\nE BO SSS GORRO GORRO SORO GORRO E\n£ E ct ces ct\ne EEE EEE EEE EEE EEE EEE\ntempo (5)\nDe acordo com o eletrocardiograma apresentado, qual\nfoi o número de batimentos cardíacos por minuto desse\npaciente durante o exame?\n© 30\n© 60\ne 100\no 120\ne 180\nAMARELO - 1º Aplicação 3\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 3,
-    "language": null,
-    "sourceQuestion": 99,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4105,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -7587,31 +6200,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4108,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "dão com à pel Brlade-A fita iib ln ui\né exeretada pel bile ou pel uia. A imagem Musa o que\nLumirrubina\now “ado |\npegado\nBee",
-    "alternatives": {
-      "A": "ótico.",
-      "B": "funcional.",
-      "C": "de cadeia.",
-      "D": "de posição.",
-      "E": "geométrico."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 5,
-    "language": null,
-    "sourceQuestion": 103,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4109,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -7662,31 +6250,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4111,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "O emprego de cáluas de combustivel a hidrogênio po\nO quadro apresenta características de cinco tecnologias n\nTipo de célula de Temperatura\ncombustível operacional (°C)\n“ o\nusec soo-1000 | Ca\noe poli\nPAFC 175-200 A\nSOFC 600 - 1000 Oxi\nTestes operacionais com esses tipos de células tem i\nque operam em baixos niveis de energia térmica, são form\nêm meio ácido\nAtecrologi testada mais adequada para o emprego em y",
-    "alternatives": {
-      "A": "AFC.",
-      "B": "MSFC.",
-      "C": "PEM.",
-      "D": "PAFC.",
-      "E": "SOFC"
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 7,
-    "language": null,
-    "sourceQuestion": 106,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4112,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -7708,81 +6271,6 @@ var QUESTIONS = [
     "language": null,
     "sourceQuestion": 107,
     "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4113,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 8,
-    "language": null,
-    "sourceQuestion": 108,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4114,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 8,
-    "language": null,
-    "sourceQuestion": 109,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4115,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "————\nfigura. A distinção dessas substâncias pode ser feita por\n4\n% Pa ef\nNs E\n(OCL\ny\n,\na\na\nslaranjada ao açafrão, pode auxiliar no combate à dengue\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 8,
-    "language": null,
-    "sourceQuestion": 110,
-    "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
   },
@@ -7887,56 +6375,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4120,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Acor verde das folhas deve-se ao pigmento clorfia. Nas\nfunção da interação desses pigmentos com a radiação so\nConforme apresentado no espectro de absorção, a\nEspectro de absorção na região do visive\nClorofila (\"| Antocianina\ne [4\n3 \\\n/ \\\n2 A \\\na \\\nae \\\nago 400 500 600 700\nComprimento de onda (rm)\nEm qual faixa do espectro visivel os carotenos absorvem\n@ Entre o verde e o amarelo.\nO Entre o amarelo e o laranja.\n@ Entre o laranja e o vermelho.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 10,
-    "language": null,
-    "sourceQuestion": 115,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4121,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "TEXTO!\nNo cordel intulado Senhor dos Anéis, de autoria de\nGonçalo Ferreira da Siva, lê-se a sextiha:\nAdistância em relação\nAo nosso planeta amado\nPouco menos que a do Sol\nEle está distanciado\nE menos denso que a água\nQuando no normal estado\nTEXTO Il\nDistâncias médias dos planetas ao Sol e suas\ndensidades médias\nDistância média | — Densidade\nEee tas ‘a0 Sol (u.a.) | relativa média\ncont e pr pn\nConsiderando os versos da sextiha e as informações da\ntabela, a qual planeta o cordel faz referência?",
-    "alternatives": {
-      "A": "Mercúrio",
-      "B": "Jupiter",
-      "C": "Urano",
-      "D": "Satumo",
-      "E": "Netuno. enem: ON da [Gademo5-"
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 11,
-    "language": null,
-    "sourceQuestion": 116,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4122,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -7987,31 +6425,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4124,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Um técnico analisou um lote de analgésicos\nque supostamente estava fora das especificações.\nAcomposição prevista era 100 mg de ácido acetilsalclico\npor comprimido (princípio ativo, cuja estrutura está\napresentada na figura), além do amido e da celulose\n(componentes inertes). O técnico realizou os seguintes\ntestes:\n1) obtenção da massa do comprimido;\n2) medição da densidade do comprimido;\n3) verificação do pH com papel indicador;\n4) determinação da temperatura de fusão do comprimido;\n5) tilulação com solução aquosa de NaOH.\nApós a realização dos testes, o lote do medicamento\nfoireprovado porque a quantidade de ácido acetisaliclico\npor comprimido foi de apenas 40% da esperada.\no, OH\nNO\n[o\nÁcido acetilsalicílico\nO teste que permitiu reprovar o lote de analgésicos foi\no de numero\n91\no2\n93\noa\n@ 5.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 12,
-    "language": null,
-    "sourceQuestion": 119,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4125,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -8033,31 +6446,6 @@ var QUESTIONS = [
     "language": null,
     "sourceQuestion": 120,
     "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4126,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Duas esferas carregadas com cargas iguais em\nmódulo e sinais contrários estão ligadas por uma\nhaste rígida isolante na forma de haltere. O sistema se\nmovimenta sob ação da gravidade numa região que\ntem um campo magnético horizontal uniforme (B), da\nesquerda para a direita. A imagem apresenta o sistema\nvisto de cima para baixo, no mesmo sentido da aceleração\nda gravidade (3) que atua na região.\nad\nVisto de cima, o diagrama esquemático das forças\nmagnéticas que atuam no sistema, no momento inicial em\nque as cargas penetram na região de campo magnético,\nestá representado em\no ?—_?\nAMARELO 1º Aplicação enema\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 12,
-    "language": null,
-    "sourceQuestion": 121,
-    "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
   },
@@ -8212,31 +6600,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4133,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "A figura foi extraida de um antigo jogo para\ncomputadores, chamado Bang! Bang!\na p\nA or 7\n|\ni m\n: j\n: dl\nrr RB\nNo jogo, dois competidores controlam os canhões\nA e B, disparando balas altemadamente com o objetivo\nde atingir o canhão do adversário; para isso, atribuem\nvalores estimados para o módulo da velocidade inicial de\ndisparo (fD7]) e para o ângulo de disparo (9).\nEm determinado momento de uma partida, o\ncompetidor B deve disparar, ele sabe que abala disparada\nanteriormente, 0 = 53º, passou tangenciando o ponto P.\nNo jogo, [| é igual a 10 mis?. Considere sen 53°- 0.8,\ncos 53°= 0,6 e desprezível a ação de forças dissipativas.\nnl tehsil A 121 pd\nCom base nas distâncias dadas e mantendo o último\nAngulo de disparo, qual deveria ser, aproximadamente,\no menor valor de [5%] que permitiria ao disparo efetuado\npelo canhão B atingir o canhão A?\nO som\nO 35ms.\n© “ms.\n© 45ms.\n6 50ms\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 15,
-    "language": null,
-    "sourceQuestion": 128,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4134,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -8287,31 +6650,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4136,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "Questão 128 oro\nA figura foi extraida de um antigo jogo para\ncomputadores, chamado Bang! Bang!\na p\nA or 7\n|\ni m\n: j\n: dl\nrr RB\nNo jogo, dois competidores controlam os canhões\nA e B, disparando balas altemadamente com o objetivo\nde atingir o canhão do adversário; para isso, atribuem\nvalores estimados para o módulo da velocidade inicial de\ndisparo (fD7]) e para o ângulo de disparo (9).\nEm determinado momento de uma partida, o\ncompetidor B deve disparar, ele sabe que abala disparada\nanteriormente, 0 = 53º, passou tangenciando o ponto P.\nNo jogo, [| é igual a 10 mis?. Considere sen 53°- 0.8,\ncos 53°= 0,6 e desprezível a ação de forças dissipativas.\nnl tehsil A 121 pd\nCom base nas distâncias dadas e mantendo o último\nAngulo de disparo, qual deveria ser, aproximadamente,\no menor valor de [5%] que permitiria ao disparo efetuado\npelo canhão B atingir o canhão A?\nO som\nO 35ms.\n© “ms.\n© 45ms.\n6 50ms\nQuestão 129 ror\nOs pesticidas organoclorados foram amplamente\nempregados na agricultura, contudo, em razão das suas\nelevadas toxicidades e persistências no meio ambiente,\neles foram banidos. Considere a aplicação de 500 g de\num pesticida organoclorado em uma cultura e que, em\ncertas condições, o tempo de meia-vida do pesticida no\nsolo seja de 5 anos.\nA massa do pesticida no decorrer de 35 anos será mais\npróxima de",
-    "alternatives": {
-      "A": "399.",
-      "B": "3129",
-      "C": "6259",
-      "D": "12509.",
-      "E": "25009. enemiz ON-2 da | Cademo"
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 15,
-    "language": null,
-    "sourceQuestion": 131,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4137,
     "area": "Ciências da Natureza",
     "subject": "Ciências da Natureza",
@@ -8332,56 +6670,6 @@ var QUESTIONS = [
     "sourcePage": 15,
     "language": null,
     "sourceQuestion": 132,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4138,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "No culivo por hidroponia, são utiizadas soluções\nnutitivas. contendo macronutrientes. e micronutrientes\nessenciais, Alm dos nutrientes, o pH é um parâmetro de\nextrema importância, uma vez que ele afeta a preparação\nda solução nutritiva e a absorção dos nutrientes pelas\nplantas, Para o cultivo de alface, valores de pH entre\n55 e 65 são ideais para O seu desenvolvimento,\nAs correções de pH são feias pela adição de compostos\nácidos ou básicos, mas não devem introduzir elementos\nnocivos às plantas. Na tabela, são apresentados alguns\ndados da composição da solução nutiva de referência\npara esse culivo. Também é apresentada a composição\nde uma solução preparada por um produtor de culto\nhidropônico\nConcentração, mmollL\n[Composição [Solução nutritiva\nEspécies químicas\nrena cis do referéncia| preparada\nG5<pH<65)| (pH=43)\nPlHPO,) 10\n6\nE\nMicromitionios\nPara correção do pH da solução nutriva preparada, esse\nprodutor pode empregar uma solução de",
-    "alternatives": {
-      "A": "ácido fostórico, H,PO,",
-      "B": "sulfato de calcio, Caso,",
-      "C": "óxido de alumínio, ALO,",
-      "D": "cloreto de ferro), FeCl,",
-      "E": "hidróxido de potássio, KOH"
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 16,
-    "language": null,
-    "sourceQuestion": 133,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4139,
-    "area": "Ciências da Natureza",
-    "subject": "Ciências da Natureza",
-    "topic": "ENEM 2021",
-    "statement": "O sino dos ventos é composto por várias barras\nmetálicas de mesmo material e espessura, mas de\ncomprimentos diferentes, conforme a figura\nComprimento 1 |\n|\nComprinento 2.\n|\nO GN-# da [Cadomo5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 16,
-    "language": null,
-    "sourceQuestion": 134,
     "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -8432,106 +6720,6 @@ var QUESTIONS = [
     "sourcePage": 17,
     "language": null,
     "sourceQuestion": 136,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4142,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Uma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 17,
-    "language": null,
-    "sourceQuestion": 137,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4143,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 17,
-    "language": null,
-    "sourceQuestion": 138,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4144,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 17,
-    "language": null,
-    "sourceQuestion": 139,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4145,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136 $$$ crews\nO sistema de numeração romano ainda é utilizado na\nindicação de capítulos e volumes de livros, na designação\nde séculos e, em ordem cronológica, de papas e reis de\nmesmo nome. São utilizadas sete letras do alfabeto.\nQuatro fundamentais: | (vale 1); X (vale 10); C (vale 100) é\nM (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe simbolo correspondente ao zero;\n2. Os simbolos fundamentais podem ser repetidos até três\nvezes é seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica\nsubtração dos respectivos valores. Exemplo: IX =10-1= 9;\n4. Uma letra posta à direita de outra de maior valor indica\nadição dos respectivos valores. Exemplo: XI = 10 +1= 14\nEm uma cidade europeia há uma placa indicando o\nano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em\n2050?\no 379\n© 381\n@ 579\nO 581\n@ 601\nQuestão 137 $$ crc\nUma das bases mais utilizadas para representar um\nnúmero é a base decimal. Entretanto, os computadores\ntrabalham com números na base binária. Nessa base,\nqualquer número natural é representado usando apenas\nos algarismos 0 e 1. Por exemplo, as representações\ndos números 9 e 12, na base binária, são 1001 e 1100,\nrespectivamente. A operação de adição, na base binária,\nsegue um algoritmo similar ao utilizado na base decimal,\n‘como detalhado no quadro:\na b a-b\no o 0\n041 1\n1.0 1\n14 10\nPor exemplo, na base binária, a soma dos números\n106 10 é 100, como apresentado:\n10\n+10\n100\nConsiderando as informações do texto, o resultado da\nadição 9 + 12 será representado, na base binária, por\no 101\n© 1101\n@ im\nO 10101\n@ 11001\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 17,
-    "language": null,
-    "sourceQuestion": 140,
     "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -8612,56 +6800,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4149,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Muitos brinquedos que frequentemente são\nencontrados em praças e parques públicos apresentam\nformatos de figuras geométricas bidimensionais e\ntridimensionais. Uma empresa foi contratada para\ndesenvolver uma nova forma de brinquedo. A proposta\napresentada pela empresa foi de uma estrutura formada\napenas por hastes metálicas, conectadas umas às\noutras, como apresentado na figura. As hastes de mesma\ntonalidade e espessura são congruentes.\nCom base na proposta apresentada, quantas figuras\ngeométricas planas de cada tipo são formadas pela\nunião das hastes?",
-    "alternatives": {
-      "A": "12 trapézios isósceles e 12 quadrados.",
-      "B": "24 trapézios isósceles e 12 quadrados. ©@ 12 paralelogramos e 12 quadrados.",
-      "C": "Btrapézios isósceles e 12 quadrados,",
-      "D": "12 trapézios escalenos e 12 retângulos.",
-      "E": "AMARELO - 1º Aplicação enema"
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 18,
-    "language": null,
-    "sourceQuestion": 144,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4150,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Num octaedro regular, duas faces são consideradas\nopostas quando não têm nem arestas, nem vértices em\ncomum. Na figura, observa-se um octaedro regular e uma\nde suas planificações, na qual há uma face colorida na\ncor cinza escuro é outras quatro faces numeradas.\n‘Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza\nescuro, quando o octaedro for reconstruído a partir da\nplanificação dada?\nO 1,234\n© tes\n91\n92\n94\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 145,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4151,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
@@ -8682,31 +6820,6 @@ var QUESTIONS = [
     "sourcePage": 19,
     "language": null,
     "sourceQuestion": 146,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4152,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Questão 145 creer\nNum octaedro regular, duas faces são consideradas\nopostas quando não têm nem arestas, nem vértices em\ncomum. Na figura, observa-se um octaedro regular e uma\nde suas planificações, na qual há uma face colorida na\ncor cinza escuro é outras quatro faces numeradas.\n‘Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza\nescuro, quando o octaedro for reconstruído a partir da\nplanificação dada?\nO 1,234\n© tes\n91\n92\n94\nQuestão 146 creer\nO instrumento de percussão conhecido como triângulo\né composto por uma barra fina de aço, dobrada em um\nformato que se assemelha a um triângulo, com uma abertura",
-    "alternatives": {
-      "A": "uma haste, conforme ilustra a Figura 1 /N di »h=B8em é, Figura 1 Figura 2 Uma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilatero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perimetro do triângulo equilátero representado na Figura 2 Considere 1,7 como valor aproximado para 3. Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centimetro, é o 907.",
-      "B": "13,60.",
-      "C": "20,40.",
-      "D": "27,18.",
-      "E": "36,24."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 19,
-    "language": null,
-    "sourceQuestion": 147,
     "ocrOptions": true,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -8735,81 +6848,6 @@ var QUESTIONS = [
     "ocrOptions": true,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4154,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nvolumétrico de um fluido é diretamente proporcional ao",
-    "alternatives": {
-      "A": "kgmis*",
-      "B": "kgmis:",
-      "C": "kgmtst",
-      "D": "kgs?",
-      "E": "gms?"
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 149,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
-  },
-  {
-    "id": 4155,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\n[isgem [Gsmiscss | Gates [Sapatos |\nDi je ja os]\nLu [is [sas To]\noz\no 24\no 2\n© 33\n@ 39\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 150,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
-  },
-  {
-    "id": 4156,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A transcrição por OCR não captou integralmente o enunciado desta questão. Abra o PDF oficial para conferir o texto, a figura ou a tabela antes de responder.\n\nO 159.\nO 161\ne 164.\n© 174.\ne 180.\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 20,
-    "language": null,
-    "sourceQuestion": 151,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": true
   },
   {
     "id": 4157,
@@ -8857,81 +6895,6 @@ var QUESTIONS = [
     "sourcePage": 20,
     "language": null,
     "sourceQuestion": 153,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4159,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "O quado representa a relação entre o preço de um pr\nPreço do produto (R)\nR<5000\n5000 < R= 10000\n10000<R<15000 |:\nO gráfico que melhor representa essa relação é\no 1\nPod R\nof 5000 10000 15000\no\n1\nitor\nof 5000 10000 15000\ne\n1\n500} -------55 '\ni IR\nOf 5000 10000 15000\nenema NT-2 da Cademo 5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "A",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa A. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 21,
-    "language": null,
-    "sourceQuestion": 154,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4160,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "O administrador de um teatro percebeu que, com o\n200 pessoas e que, a cada R$ 1,00 de redução no pres\nEle sabe que os donos do teatro só admitem trabalhar\nde disponibilizar troco, e pretende convencê-los a dimit\nda arrecadação em função do valor do desconto no pres\nO gráfico que mais se assemelha ao que deve ser elabora\n© o, Atecadação [\n500.\nem\n5500.\nsom\n500.\n‘000.\n3500\n000.\n2500\n2000\n1500\n+ 000\nEa Desconto\nCTESATETE DANCA Dana\n© quit Arrecadacao [\n6500.\nsom\n5500 .....\n5000 qe...\n45001 ouso!\namp e é\n3500\n200\n2500\n2000\n4500\n+000,\nseo Desconto\nOTED SET HSMN MMU wIDMT RE\nArrecadação\n7000\n3500.\nsom\n5500\n5000.\n4500\navo\n3500\n300.\n2500\n2000\n1500\n+000,\n500. Desconto\nOF RSG BET OMT arara tavOaOD B28\n2 MT -2 da | Caderna 5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 22,
-    "language": null,
-    "sourceQuestion": 155,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4161,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Uma construtora, pretendendo investir na construção\nde imóveis em uma metrópole com cinco grandes\nregiões, fez uma pesquisa sobre a quantidade de familias\nque mudaram de uma região para outra, de modo a\ndeterminar qual região foi o destino do maior fluxo de\nfamilias, sem levar em consideração o número de famílias\nque deixaram a região. Os valores da pesquisa estão\ndispostos em uma matiiz A=[ajl, i/€ (1,2, 3,4, 5)\nem que o elemento aj corresponde ao total de familias\n(em dezena) que se mudaram da região | para a região j\ndurante um certo período, e o elemento aj é considerado\nnulo, uma vez que somente são consideradas mudanças\nentre regiões distintas. A seguir, está apresentada a\nmatriz com os dados da pesquisa.\n(0 422 5)\n00623\nA-|2 2030\n10204\n1 2040)\nQual região foi selecionada para o investimento da\nconstrutora?\n91\n@2\n@3\n04\n@5\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 23,
-    "language": null,
-    "sourceQuestion": 156,
     "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -9087,256 +7050,6 @@ var QUESTIONS = [
     "ocrNeedsVisualReview": false
   },
   {
-    "id": 4168,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Um parque temático braleroconstrula uma réplica em\nminiatura do castelo de Liechtenstein. O castelo original,\nrepresentado na imagem, está situado na Alemanha e foi\nreconsiuido entre os anos de 1840 & 1842, após duas\ndestruções causadas por gueras.\n& Ã\nee\nenemas “iT aa Cader\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 25,
-    "language": null,
-    "sourceQuestion": 163,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4169,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Questão 162 rot\nPara a comunicação entre dois navios é utlizado\num sistema de codificação com base em velores\nnuméricos. Para isso, são consideradas as operações\ntriângulo À e estrela =, definidas sobre o conjunto dos\nhmotoe fésia por aay =i 4 ey ppa ge e\nO navio que deseja enviar uma mensagem deve\nfornecer um valor de entrada b, que irá gerar um valor\nde saída, a ser enviado ao navio receptor, dado pela\nsoma das duas maiores soluções da equação\n(246) s(bãa) = 0. Cada valor possivel de entrada e saída\nrepresenta uma mensagem diferente já conhecida\npelos dois navios\nUm navio deseja enviar ao outro a mensagem\n“ATENÇÃO! Para isso, deve utilizar o valor de entrada\nbot\nDessa forma, o valor recebido pelo navio receptor será\nos\no\now\n145\no 2H\n2\n2248\norg\nQuestão 163 = rot\nUm parque temático braleroconstrula uma réplica em\nminiatura do castelo de Liechtenstein. O castelo original,\nrepresentado na imagem, está situado na Alemanha e foi\nreconsiuido entre os anos de 1840 & 1842, após duas\ndestruções causadas por gueras.\n& Ã\nee\nenemas “iT aa Cader\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 25,
-    "language": null,
-    "sourceQuestion": 164,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4170,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A receila R de uma empresa ao final de um mês é o\ndinheiro captado com a venda de mercadorias ou com à\nprestação de serviços nesse més, e à despesa D é todo 0\ndinheiro ullizado para pagamento de salários, contas de\nágua e luz, impostos, entre outros. O lucro mensal obtido\não final do mes é a diferença entre a receita ea despesa\nregistradas no més. O gráfico apresenta as receitas ©\ndespesas, em milhão de real, de uma empresa ao final\ndos cinco primeiros meses de um dado ano.\nReceitas e despesas\n28\ndA\njaneiro fevereiro março abril maio\nReceita —— Despesa- - -\nAprevisão para os próximos meses é que olucro mensal\nnão Seja inferior ao maior lucro oblidoalé o mês de maio.\nNessas condições, o lucro mensal para os próximos\nmeses deve ser maior ou igual ao do mês de",
-    "alternatives": {
-      "A": "janeiro.",
-      "B": "fevereiro.",
-      "C": "março.",
-      "D": "abril",
-      "E": "maio."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 165,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4171,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A depressão caractorizase por um desequilbrio na\nquímica cerebral. Os neurônios de um deprimido nao\nrespondem bem aos estímulos dos neurolransmissores.\nOs remédios que combatem a depressão têm o objetivo de\nrestabelecer a química cerebral. Com o aumento gradativo\nde casos de depressão, a venda desses medicamentos\nestá em crescente evolução, conforme ilustra o gráfico.\nqro | : : : :519,2\nE so | 1 É 1465\n' ! ag A !\nE400) ! i ; : :\nRA 1 1294 Y 1 1\n$ 300) imo 4 i ! i\n8 200) + : | | |\nry ‘ ‘ ‘ ‘ ‘\no | ! É ! É\n3 205 206 2007 208 2005\nni Ano\nea caer\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 166,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4172,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Um casal está planejando comprar um apartamento\nde dois quartos num bairro de uma cidade e consultou\na página de uma corretora de imóveis, encontrando\n105 apartamentos de dois quartos à venda no bairro\ndesejado. Eles usaram um aplicativo da corretora para\ngerar a distribuição dos preços do conjunto de imóveis\nselecionados.\nO gráfico ilustra a distribuição de frequências dos\npreços de venda dos apartamentos dessa lista (em\nmil reais), no qual as faixas de preço são dadas por\n3200, 400), }400, 500], 500, 600]. 1600, 700], 1700, 800],\n1800, 900}, 1900, 1 000], 11 000, 1 100], 11 100, 1200) é\n11 200, 1 300}\nA mesma corretora anuncia que cerca de 50% dos\napartamentos de dois quartos nesse bairro, publicados\nem sua página, tém preço de venda inferior a 550 mil reais,\nNo entanto, o casal achou que essa última informação\nnão era compativel com o gráfico obtido.\nDistribuição dos preços\nê\n8e\n“7 são ado s6o 600 760 860 900 100 1100 1200 1560,\nPreço (em mil reais)\nCom base no gráfico obtido, o menor preço, p (em mil reais),\npara o qual pelo menos 50% dos apartamentos apresenta\npreço inferior a pé",
-    "alternatives": {
-      "A": "600.",
-      "B": "700.",
-      "C": "800.",
-      "D": "900.",
-      "E": "1000. AMARELO - 1º Aplicação enem"
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 26,
-    "language": null,
-    "sourceQuestion": 167,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4173,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "A Cifra de César é um exemplo de um método de c\n“comunicar com seus generais.\nNo método, cada letra era trocada por uma letra que ape\nde forma cíclica. A seguir temos um exemplo em que cada le\n[original [afe[c[o[E[r[e[H[1[s [x]\nCodificado |D [E |F[c[H[1[u [k[t [m[n]\nPara quebrar um código como esse, a análise de frequ\nUma análise do texto do romance O guarani, de Joss\nseguinte gráfico de frequências:\n70000\n60 000\nso 000\ng\n8 40000\n3\n8 30000\n20 000\n10000\no\nABCDEFGHI J\nApós codificar esse texto com a regra do exemplo forne\nAs quatro letras mais frequentes, em ordem decrescente ¢",
-    "alternatives": {
-      "A": "A£0es",
-      "B": "DE Fes",
-      "C": "DH Rev.",
-      "D": "RL Bex",
-      "E": "xBLep"
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 27,
-    "language": null,
-    "sourceQuestion": 168,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4174,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "O quadro apresenta o número de terremotos de ma\n‘em nosso planeta nos anos de 2000 a 2011\n[eran 2000 | 207 [ 2502 [2005 [ama\n[mmemis [is [is | 1 [15 | 1\nUm pesquisador acredita que a mediana representa b\nSegundo esse pesquisador, o número anual típico de terre\non\n915\n@ 155\n© 157\n@ 175\nenemacz MT -2º da | Cadero 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 27,
-    "language": null,
-    "sourceQuestion": 169,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4175,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "O grafico apresenta o nivel de ocupação dos cinco\nreservatórios de água que abasteciam uma cidade em\n2 de fevereiro de 2015.\nNível dos reservatórios em 2 fev. 2015\nCapacidade (bilhão de tros)\nobtos 00 20 80 40\nse\ngo\ngn\ngo\nãs\n8\n24\n8\n3\n2»\n1\n1 W Al Vv Vv\nReservatório\nNessa data, o reservatório com o maior volume de água\nerao\n91\noi\non\now\nev\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 28,
-    "language": null,
-    "sourceQuestion": 170,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4176,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Uma pessoa realizou uma pesquisa com alguns\nalunos de uma escola, coletando suas idades, e organizou\nesses dados no grafico.\n8\nEr\n| all\n89\n6\n918 27\nIdade (ano)\nQual é a média das idades, em ano, desses alunos?\n[AR\n@ 12\n@ 18\n© 19\n@7\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "D",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa D. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 28,
-    "language": null,
-    "sourceQuestion": 171,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4177,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Em um estudo realizado pelo IBGE em quatro\nestados e no Distrito Federal, com mais de 5 mil pessoas\ncom 10 anos ou mais, observou-se que a leitura ocupa,\nem média, apenas seis minutos do dia de cada pessoa\nNa faixa de idade de 10 a 24 anos, a média diária é de\ntrês minutos. No entanto, no grupo de idades entre\n24 e 60 anos, o tempo médio diário dedicado à\nleitura é de 5 minutos. Entre os mais velhos, com\n60 anos ou mais, a média é de 12 minutos\nA quantidade de pessoas entrevistadas de cada faixa\nde idade seguiu a distribuição percentual descrita no\nquadro.\n[ Faixactária | Percentual de entrevistados |\n[Demazisrs | x]\n[\"Apariraesoanos [x]\nOs valores de x e y do quadro são, respectivamente, iguais a",
-    "alternatives": {
-      "A": "10e80",
-      "B": "10e9",
-      "C": "20e6",
-      "D": "20e8",
-      "E": "25650"
-    },
-    "correctAnswer": "C",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa C. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 28,
-    "language": null,
-    "sourceQuestion": 172,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
     "id": 4178,
     "area": "Matemática",
     "subject": "Matemática e suas Tecnologias",
@@ -9382,31 +7095,6 @@ var QUESTIONS = [
     "sourcePage": 29,
     "language": null,
     "sourceQuestion": 174,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4180,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Uma grande rede de supermercados adota um\nsistema de avaliação dos faturamentos de suas fais,\nconsiderando a média de faturamento mensal em\nmilhão. A matriz da rede paga uma comissão para os\nrepresentantes dos supermercados que atingirem uma\nmédia de faturamento mensal (M), conforme apresentado\nno quadro\n[ Comissão | Média de faturamento mensal (M)\nDoi fo teme |]\n[se\nee\nae CS\nUm supermercado da rede obteve os faturamentos\nnum dado ano, conforme apresentado no quadro.\nFaturamento mensal\n(em milhão de real) | Quantidade de meses\n[os ee\nenema MT-2 da | Cademo 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "B",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa B. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 29,
-    "language": null,
-    "sourceQuestion": 175,
     "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
@@ -9460,56 +7148,7 @@ var QUESTIONS = [
     "ocrOptions": false,
     "ocrReviewed": false,
     "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4183,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "Um segmento de reta está dividido em duas partes\nna proporção áurea quando o todo está para uma das\npartes na mesma razão em que essa parte está para a\noutra. Essa constante de proporcionalidade é comumente\nrepresentada pela letra grega q, e seu valor é dado pela\nsolução positiva da equação q? = q + 1\nAssim como a potência q, as potências superiores\nde q podem ser expressas da forma aq + b,emque aeb\nsão inteiros positivos, como apresentado no quadro.\nLe Te Te Tete te |\nLott [2011 [oor2 [sora [80+5| |\nA potência 9’, escrita na forma ag + b (a e b são inteiros\npositivos), é",
-    "alternatives": {
-      "A": "59+3",
-      "B": "79+2",
-      "C": "99 +6",
-      "D": "1n19+7",
-      "E": "13948"
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 31,
-    "language": null,
-    "sourceQuestion": 179,
-    "ocrOptions": true,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
-  },
-  {
-    "id": 4184,
-    "area": "Matemática",
-    "subject": "Matemática e suas Tecnologias",
-    "topic": "ENEM 2021",
-    "statement": "O Atomium, representado na imagem, é um\ndos principais pontos turísticos de Bruxelas. Ele foi\nconstruído em 1958 para a primeira grande exposição\nmundial depois da Segunda Guerra Mundial, a Feira\nMundial de Bruxelas.\nTrata-se de uma estrutura metálica construída no\nformato de um cubo. Essa estrutura está apoiada por um\ndos vértices sobre uma base paralela ao plano do solo,\n& a diagonal do cubo, contendo esse vértice, é ortogonal\nao plano da base. Centradas nos vértices desse cubo,\nforam construídas oito esferas metálicas, e uma outra\nesfera foi construida centrada no ponto de interseção das\ndiagonais do cubo. As oito esferas sobre os vértices são\ninterligadas segundo suas arestas, e a esfera central se\nconecta a elas pelas diagonais do cubo.\nTodas essas interligações são feitas por tubos\ncllináricos que possuem escadas em seu interior,\npermitindo o deslocamento de pessoas pela parte\ninterna da estrutura. Na diagonal ortogonal à base, o\ndeslocamento é feito por um elevador, que permite o\ndeslocamento entre as esferas da base e a esfera do\nponto mais alto, passando pela esfera central.\nenemio: MT -2º di | Cadero 5-\n\nAlternativas transcritas acima na ordem A, B, C, D e E. Confira o PDF oficial se algum trecho, gráfico ou símbolo estiver pouco legível.",
-    "alternatives": {
-      "A": "Alternativa A — opção 1 transcrita no enunciado acima.",
-      "B": "Alternativa B — opção 2 transcrita no enunciado acima.",
-      "C": "Alternativa C — opção 3 transcrita no enunciado acima.",
-      "D": "Alternativa D — opção 4 transcrita no enunciado acima.",
-      "E": "Alternativa E — opção 5 transcrita no enunciado acima."
-    },
-    "correctAnswer": "E",
-    "explanation": "O gabarito oficial do ENEM 2021 indica a alternativa E. Para ler o enunciado e conferir eventuais imagens, tabelas ou textos de apoio, consulte a página original do caderno em PDF. A resolução passo a passo não foi incluída nesta versão.",
-    "alternativeExplanations": {},
-    "source": "ENEM 2021 oficial",
-    "sourcePdf": "assets/originals/2021_PV_impresso_D2_CD5.pdf",
-    "sourcePage": 31,
-    "language": null,
-    "sourceQuestion": 180,
-    "ocrOptions": false,
-    "ocrReviewed": false,
-    "ocrNeedsVisualReview": false
   }
 ];
-if (typeof module !== "undefined") module.exports = QUESTIONS;
+if (typeof module !== 'undefined') module.exports = QUESTIONS;
+if (typeof window !== 'undefined') window.QUESTIONS = QUESTIONS;
