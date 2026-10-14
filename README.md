@@ -4,18 +4,16 @@ Plataforma estática de simulados, feita em HTML, CSS e JavaScript puro, prepara
 
 ## Banco de questões
 
-O banco contém **233 questões**:
-- 50 questões autorais que já faziam parte do projeto;
-- 183 versões de questões extraídas dos cadernos oficiais do ENEM 2020 anexados: Linguagens (incluindo versões em inglês e espanhol das questões 1–5), Ciências Humanas, Ciências da Natureza e Matemática.
-- As questões anuladas 114 e 141 do segundo dia não entram no banco de simulados.
-- Os PDFs originais estão em `assets/originals/`. Nas questões oficiais, use o link **Abrir página original do caderno (PDF)** para conferir figuras, gráficos e formatação.
+O banco contém **417 entradas**: 50 questões autorais, 183 questões extraídas do ENEM 2020 e 184 referências interativas ao ENEM 2021. Há **407 questões de origem distintas**, pois as versões em inglês e espanhol das questões 1–5 de cada ano são tratadas como variantes da mesma questão no sorteio. As questões anuladas 114 e 141 do ENEM 2020 não entram no banco; a questão 178 do segundo dia de 2021 também foi omitida por estar anulada no gabarito oficial.
 
-**Limitações da extração:** os enunciados e alternativas foram extraídos automaticamente dos PDFs. Em questões com alternativas essencialmente visuais, o site indica que é necessário abrir a página original. A resolução comentada detalhada das questões oficiais ainda não foi cadastrada; o site informa isso claramente, em vez de inventar uma explicação. Antes de usar o banco como material final de estudo, revise os textos extraídos e complete as resoluções.
+Os PDFs originais e os gabaritos estão em `assets/originals/`. Para as questões de 2021, o site abre a página original do caderno em uma nova aba; o estudante lê o enunciado, as alternativas e eventuais figuras no PDF e seleciona a letra A–E no site. A correção utiliza o gabarito oficial anexado. Isso preserva a formatação original e evita que gráficos ou textos de apoio sejam perdidos na extração. As resoluções passo a passo das questões oficiais ainda não estão cadastradas.
+
+O sorteio aleatório evita repetir uma questão já utilizada em tentativas concluídas enquanto houver questões de origem inéditas. Também evita selecionar duas vezes a mesma questão apenas por haver versões em inglês e espanhol.
 
 ## Como funciona a seleção dos simulados
 
 - O modo padrão gera um simulado aleatório com 50 questões.
-- É possível escolher 10, 20, 30, 50, 90, 120, 150, 180 ou todas as questões.
+- É possível escolher 10, 20, 30, 50, 90, 120, 150, 180, 200, 240, 300, 350, 400 ou todas as 407 questões de origem distintas.
 - Cada novo simulado prioriza questões que não apareceram nas tentativas concluídas anteriormente.
 - Se restarem menos questões inéditas do que o tamanho escolhido, o sistema completa a sessão com questões já usadas, sem duplicar uma questão dentro do mesmo simulado.
 - Também há opções para fazer o banco inteiro, revisar erros, estudar questões ainda não acertadas e filtrar por área.
@@ -27,8 +25,8 @@ O banco contém **233 questões**:
 - `styles.css`: estilo responsivo e temas.
 - `app.js`: navegação, simulado, resultados e revisão.
 - `grading.js`: correção, embaralhamento e seleção de questões inéditas.
-- `questions.js`: banco editável de questões.
-- `assets/originals/`: PDFs originais usados como referência.
+- `questions.js`: banco editável de questões e referências aos cadernos oficiais.
+- `assets/originals/`: PDFs do ENEM 2020 usados no banco e PDFs do ENEM 2021 anexados para consulta.
 - `test/`: testes automatizados.
 - `.github/workflows/deploy.yml`: testes e publicação automática no GitHub Pages.
 

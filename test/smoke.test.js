@@ -20,4 +20,7 @@ test('fluxo completo renderiza sem exceções',()=>{
   el('#ans').onclick();assert.match(el('#app').innerHTML,/Resolução/);
   el('#back').onclick();el('#rev').onclick();assert.match(el('#app').innerHTML,/Revisar erros/);
   assert.match(el('#app').innerHTML,/Tentar novamente/);
+  el('#hm').onclick();
+  assert.match(el('#app').innerHTML,/417 entradas/);
+  assert.match(el('#app').innerHTML,/Todas as inéditas \(407\)/);
 });

@@ -16,11 +16,25 @@
   // Prioriza questões ainda não vistas em tentativas concluídas. Só reutiliza
   // questões anteriores quando o banco restante não é suficiente para o tamanho pedido.
   function selectFresh(questions, seenIds, count) {
+    const byId = Object.fromEntries(questions.map(q => [Number(q.id), q]));
     const seen = new Set((seenIds || []).map(Number));
-    const fresh = shuffle(questions.filter(q => !seen.has(Number(q.id))).map(q => q.id));
-    const used = new Set(fresh);
-    const repeated = shuffle(questions.filter(q => seen.has(Number(q.id)) && !used.has(q.id)).map(q => q.id));
-    const limit = Math.min(questions.length, Math.max(0, Number(count) || 0));
+    // Idiomas alternativos da mesma questão oficial contam como uma única questão
+    // para o sorteio, evitando colocar a versão inglesa e a espanhola no mesmo simulado.
+    const identity = q => q && q.source && q.sourcePdf && q.sourceQuestion != null
+      ? `${q.source}|${q.sourcePdf}|${q.sourceQuestion}` : `id:${q.id}`;
+    const groups = new Map();
+    questions.forEach(q => {
+      const key = identity(q);
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(q);
+    });
+    const seenKeys = new Set([...seen].map(id => byId[id]).filter(Boolean).map(identity));
+    const freshGroups = shuffle([...groups.entries()].filter(([key]) => !seenKeys.has(key)));
+    const repeatedGroups = shuffle([...groups.entries()].filter(([key]) => seenKeys.has(key)));
+    const chooseOne = ([, variants]) => shuffle(variants)[0].id;
+    const fresh = freshGroups.map(chooseOne);
+    const repeated = repeatedGroups.map(chooseOne);
+    const limit = Math.min(groups.size, Math.max(0, Number(count) || 0));
     return fresh.concat(repeated).slice(0, limit);
   }
   const api = { grade, shuffle, selectFresh };

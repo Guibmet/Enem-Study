@@ -3,6 +3,8 @@
 const Q=window.QUESTIONS,G=window.Grading,KEY='enemstudy.v1',L='ABCDE';
 const byId=Object.fromEntries(Q.map(q=>[q.id,q]));
 const AREAS=[...new Set(Q.map(q=>q.area))];
+const questionIdentity=q=>q.source&&q.sourcePdf&&q.sourceQuestion!=null?`${q.source}|${q.sourcePdf}|${q.sourceQuestion}`:`id:${q.id}`;
+const UNIQUE_Q_COUNT=new Set(Q.map(questionIdentity)).size;
 let S={cur:null,attempts:[],review:{},theme:'',prefs:{shuffleQ:false,shuffleA:false,timer:true}};
 let mem=false,view='home',att=null,onlyWrong=false,rvFilter='all',rv={},warn='';
 const $=s=>document.querySelector(s),app=$('#app');
@@ -14,7 +16,8 @@ const fmt=ms=>{const s=Math.floor(ms/1000);return[Math.floor(s/3600),Math.floor(
 const last=()=>S.attempts[S.attempts.length-1];
 const wrongIds=a=>a?a.ids.filter(i=>a.results[i]!=='correct'):[];
 function freshIds(count){return G.selectFresh(Q,S.attempts.flatMap(a=>a.ids||[]),count)}
-function correctEver(){const s=new Set();S.attempts.forEach(a=>a.ids.forEach(i=>{if(a.results[i]==='correct')s.add(i)}));Object.keys(S.review).forEach(i=>{if(S.review[i].ok)s.add(+i)});return s}
+function correctEver(){const keys=new Set();S.attempts.forEach(a=>a.ids.forEach(i=>{if(a.results[i]==='correct'&&byId[i])keys.add(questionIdentity(byId[i]))}));Object.keys(S.review).forEach(i=>{if(S.review[i].ok&&byId[+i])keys.add(questionIdentity(byId[+i]))});return new Set(Q.filter(q=>keys.has(questionIdentity(q))).map(q=>q.id))}
+function uniqueIds(ids){const used=new Set();return ids.filter(i=>{const key=questionIdentity(byId[i]);if(used.has(key))return false;used.add(key);return true})}
 function start(ids,mode){
   if(!ids.length){warn='Não há questões para este modo ainda.';return go('home')}
   const p=S.prefs;if(p.shuffleQ)ids=G.shuffle(ids);
@@ -34,8 +37,9 @@ function render(){
 }
 function home(){
   const a=last(),c=S.cur,w=wrongIds(a),pend=Q.length-correctEver().size,areaOpts=AREAS.map(x=>`<option>${esc(x)}</option>`).join('');
+  const countOpts=[10,20,30,50,90,120,150,180,200,240,300,350,400].filter(n=>n<UNIQUE_Q_COUNT).map(n=>`<option value="${n}" ${n===50?'selected':''}>${n}</option>`).join('')+`<option value="${UNIQUE_Q_COUNT}">Todas as inéditas (${UNIQUE_Q_COUNT})</option>`;
   const seen=new Set(S.attempts.flatMap(x=>x.ids||[])).size;
-  app.innerHTML=`<h1>ENEM Study</h1><p>Banco com ${Q.length} questões em ${AREAS.length} áreas: 50 questões autorais já existentes e ${Q.length-50} versões de questões do ENEM 2020 extraídas dos cadernos oficiais. Cada novo simulado prioriza questões que você ainda não viu.</p>
+  app.innerHTML=`<h1>ENEM Study</h1><p>Banco com ${Q.length} entradas em ${AREAS.length} áreas: 50 questões autorais, 183 questões do ENEM 2020 e 184 referências interativas do ENEM 2021. Há ${UNIQUE_Q_COUNT} questões de origem distintas, contando versões em inglês e espanhol como a mesma questão para evitar duplicatas no sorteio.</p>
   <p class="meta">Questões oficiais podem conter gráficos, imagens ou fórmulas que precisam ser consultados na página original do PDF. As resoluções comentadas das questões oficiais ainda precisam ser preenchidas.</p>
   ${warn?`<p class="card" role="alert">${esc(warn)}</p>`:''}${mem?'<p class="card" role="alert">O armazenamento local está indisponível: seu progresso não será salvo ao fechar a página.</p>':''}
   <div class="card"><div class="row">
@@ -43,13 +47,14 @@ function home(){
    <button class="btn ghost" id="b-cont" ${c?'':'disabled'}>Continuar de onde parei${c?` (${Object.keys(c.answers).length}/${c.ids.length})`:''}</button>
    <button class="btn ghost" id="b-rev" ${w.length?'':'disabled'}>Revisar questões erradas</button></div>
    <h2>Opções da nova tentativa</h2>
-   <label>Modo: <select id="mode"><option value="random">Simulado aleatório (50 questões novas)</option><option value="all">Banco completo (${Q.length} questões)</option><option value="wrong">Só os erros da última tentativa (${w.length})</option><option value="pend">Ainda não acertadas (${pend})</option><option value="area">Por área do conhecimento</option></select></label>
-   <label id="countw">Quantidade de questões: <select id="count"><option>10</option><option>20</option><option>30</option><option selected>50</option><option>90</option><option>120</option><option>150</option><option>180</option><option value="${Q.length}">Todas (${Q.length})</option></select></label>
+   <label>Modo: <select id="mode"><option value="random">Simulado aleatório (quantidade escolhida)</option><option value="all">Banco completo (${Q.length} questões)</option><option value="wrong">Só os erros da última tentativa (${w.length})</option><option value="pend">Ainda não acertadas (${pend})</option><option value="area">Por área do conhecimento</option></select></label>
+   <label id="countw">Quantidade de questões: <select id="count">${countOpts}</select></label>
    <label id="areaw" hidden>Área: <select id="area">${areaOpts}</select></label>
    <div><label><input type="checkbox" id="sq" ${S.prefs.shuffleQ?'checked':''}> Embaralhar questões</label></div>
    <div><label><input type="checkbox" id="sa" ${S.prefs.shuffleA?'checked':''}> Embaralhar alternativas</label></div>
    <div><label><input type="checkbox" id="tm" ${S.prefs.timer?'checked':''}> Usar cronômetro</label></div>
    <p class="meta">O sistema evita repetir questões de simulados anteriores enquanto houver questões inéditas suficientes. Depois que todo o banco for utilizado, as questões menos recentes voltam a poder aparecer. As alternativas são corrigidas pela letra original, mesmo quando embaralhadas.</p>
+   <h2>Cadernos oficiais do ENEM 2021</h2><p class="meta">As questões do ENEM 2021 agora entram no sorteio e na correção pelo gabarito oficial. Para preservar textos, imagens, gráficos e tabelas do caderno original, o enunciado é consultado no PDF em uma nova aba; no site, selecionas a letra A–E. A questão 178 do segundo dia foi deixada de fora porque o gabarito oficial a marca como anulada. As questões 1–5 do primeiro dia aparecem nas versões inglês e espanhol.</p><ul><li><a href="assets/originals/2021_PV_impresso_D1_CD1.pdf" target="_blank" rel="noopener">Prova 2021 — 1º dia</a> · <a href="assets/originals/2021_GB_impresso_D1_CD1.pdf" target="_blank" rel="noopener">Gabarito 1º dia</a></li><li><a href="assets/originals/2021_PV_impresso_D2_CD5.pdf" target="_blank" rel="noopener">Prova 2021 — 2º dia</a> · <a href="assets/originals/2021_GB_impresso_D2_CD5.pdf" target="_blank" rel="noopener">Gabarito 2º dia</a></li></ul>
    <p class="meta">Você já praticou ${seen} questões diferentes em tentativas concluídas.</p></div>
   ${a?`<div class="card"><h2>Última tentativa</h2><p>${a.correct} acertos, ${a.wrong} erros, ${a.blank} em branco: <b>${a.percent}%</b> (${new Date(a.date).toLocaleString('pt-BR')}). Total de tentativas: ${S.attempts.length}.</p><button class="btn ghost" id="b-last">Ver resultado</button></div>`:''}
   <div class="card"><h2>Dados</h2><p class="meta">Tudo é salvo no localStorage deste navegador e deste aparelho; não há sincronização automática. Use exportar/importar para levar o histórico a outro dispositivo.</p>
@@ -62,7 +67,7 @@ function home(){
     if(S.cur&&!confirm('Há um simulado em andamento. Descartá-lo e começar um novo?'))return;
     if(m==='random'){start(freshIds(Number($('#count').value)),'random');return}
     const all=Q.map(q=>q.id);
-    start(m==='all'?all:m==='wrong'?wrongIds(a):m==='pend'?all.filter(i=>!correctEver().has(i)):all.filter(i=>byId[i].area===$('#area').value),m)};
+    start(m==='all'?all:m==='wrong'?wrongIds(a):m==='pend'?uniqueIds(all.filter(i=>!correctEver().has(i))):uniqueIds(all.filter(i=>byId[i].area===$('#area').value)),m)};
   $('#b-cont').onclick=()=>{S.cur.t0=Date.now();go('quiz')};
   $('#b-rev').onclick=()=>go('review');
   if($('#b-last'))$('#b-last').onclick=()=>go('results',S.attempts.length-1);
@@ -114,7 +119,7 @@ function answers(){
   app.innerHTML=`<h1>Respostas corretas</h1><div class="row"><button class="btn ghost" id="back">Voltar ao resultado</button><button class="btn ghost" id="flt" aria-pressed="${onlyWrong}">${onlyWrong?'Mostrar todas':'Mostrar só erradas e em branco'}</button></div>
   <div class="grid">${grid}</div>`+list.map(i=>{const q=byId[i],s=a.results[i],u=a.answers[i];
    const why=u&&s==='wrong'&&q.alternativeExplanations[u];
-   return`<section class="card" id="q${i}"><p class="meta">Questão ${a.ids.indexOf(i)+1} · ${esc(q.subject)}</p><h2>${esc(q.statement)}</h2>
+   return`<section class="card" id="q${i}"><p class="meta">Questão ${a.ids.indexOf(i)+1} · ${esc(q.subject)}</p><h2>${esc(q.statement)}</h2>${q.sourcePdf?`<p class="meta"><a href="${esc(q.sourcePdf)}#page=${q.sourcePage}" target="_blank" rel="noopener">Abrir página original do caderno (PDF)</a></p>`:''}
    <p><b>${s==='correct'?'✓ Você acertou.':s==='wrong'?'✗ Resposta incorreta.':'– Em branco.'}</b> Sua resposta: ${u?lbl(q,u):'nenhuma'}.<br>Resposta correta: ${lbl(q,q.correctAnswer)}.</p>
    <div role="group" aria-label="Alternativas">${altsHtml(q,a.perm[i],u,'show')}</div>
    <div class="exp"><b>Resolução:</b> ${esc(q.explanation)}</div>
@@ -133,7 +138,7 @@ function review(){
    const body=st.open?`<div role="radiogroup" aria-label="Escolha">${L.split('').map((k,p)=>`<button class="alt" role="radio" aria-checked="${st.pick===k}" data-i="${i}" data-k="${k}" ${st.checked?'disabled':''}><b>${L[p]})</b><span>${esc(q.alternatives[k])}</span></button>`).join('')}</div>
      ${st.checked?`<p><b>${st.pick===q.correctAnswer?'✓ Correto!':'✗ Incorreto.'}</b> Resposta correta: ${q.correctAnswer}) ${esc(q.alternatives[q.correctAnswer])}</p><div class="exp">${esc(q.explanation)}</div>`:`<button class="btn" data-chk="${i}" ${st.pick?'':'disabled'}>Conferir resposta</button>`}`
      :`<p>Sua resposta anterior: ${nm(u)}. Correta: ${nm(q.correctAnswer)}.</p><div class="exp">${esc(q.explanation)}</div><button class="btn ghost" data-try="${i}">Tentar novamente</button>`;
-   return`<section class="card"><p class="meta">${esc(q.subject)} ${S.review[i]&&S.review[i].ok?'· ✓ já refeita corretamente':''}</p><h2>${esc(q.statement)}</h2>${body}</section>`}).join('');
+   return`<section class="card"><p class="meta">${esc(q.subject)} ${S.review[i]&&S.review[i].ok?'· ✓ já refeita corretamente':''}</p><h2>${esc(q.statement)}</h2>${q.sourcePdf?`<p class="meta"><a href="${esc(q.sourcePdf)}#page=${q.sourcePage}" target="_blank" rel="noopener">Abrir página original do caderno (PDF)</a></p>`:''}${body}</section>`}).join('');
   $('#hm').onclick=()=>go('home');$('#f').value=rvFilter;$('#f').onchange=e=>{rvFilter=e.target.value;review()};
   $('#all').onclick=()=>start(wrongIds(a),'wrong');
   app.querySelectorAll('[data-try]').forEach(b=>b.onclick=()=>{rv[b.dataset.try]={open:true};review()});

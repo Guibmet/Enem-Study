@@ -1,10 +1,11 @@
 const test = require('node:test'), assert = require('node:assert');
 const Q = require('../questions.js'), G = require('../grading.js');
 const ids = Q.map(q => q.id);
-test('banco expandido: questões autorais e questões oficiais do ENEM 2020', () => {
-  assert.equal(Q.length, 233);
+test('banco expandido: questões autorais e referências oficiais de 2020 e 2021', () => {
+  assert.equal(Q.length, 417);
   assert.equal(new Set(ids).size, Q.length);
   assert.equal(Q.filter(q => q.source === 'ENEM 2020 oficial').length, 183);
+  assert.equal(Q.filter(q => q.source === 'ENEM 2021 oficial').length, 184);
 });
 test('todas as questões têm cinco alternativas e gabarito válido', () => {
   Q.forEach(q => {
@@ -18,6 +19,15 @@ test('gabarito da base autoral original (amostra)', () => {
   const byId = Object.fromEntries(Q.map(q => [q.id, q]));
   const g = {1:'B',9:'C',13:'E',32:'C',36:'A',43:'E',50:'E'};
   for (const k in g) assert.equal(byId[k].correctAnswer, g[k]);
+});
+test('gabarito oficial ENEM 2021 (amostra dos cadernos anexados)', () => {
+  const byId = Object.fromEntries(Q.map(q => [q.id, q]));
+  const g = [
+    [4001,'C'], [4002,'C'], [4003,'A'], [4004,'A'], [4005,'A'], [4006,'E'],
+    [4007,'B'], [4008,'A'], [4009,'B'], [4010,'A'], [4011,'B'], [4050,'C'],
+    [4051,'B'], [4095,'B'], [4096,'A']
+  ];
+  for (const [id, answer] of g) assert.equal(byId[id].correctAnswer, answer, `questão id ${id}`);
 });
 test('gabarito oficial ENEM 2020 (amostra dos cadernos anexados)', () => {
   const byId = Object.fromEntries(Q.map(q => [q.id, q]));
@@ -47,6 +57,20 @@ test('novos simulados priorizam questões inéditas e não repetem questão dent
   assert.equal(new Set(selected).size, 50);
   assert.equal(selected.filter(id => seen.includes(id)).length, 0);
 });
+
+test('sorteio trata versões em inglês e espanhol como a mesma questão', () => {
+  const seen = [4001]; // ENEM 2021, questão 1 em inglês
+  const selected = G.selectFresh(Q, seen, 100);
+  assert.ok(!selected.includes(4002)); // versão espanhola da mesma questão
+  assert.equal(new Set(selected).size, selected.length);
+  const identity = id => {
+    const q = Q.find(x => x.id === id);
+    return q && q.source && q.sourcePdf && q.sourceQuestion != null
+      ? `${q.source}|${q.sourcePdf}|${q.sourceQuestion}` : `id:${id}`;
+  };
+  assert.equal(new Set(selected.map(identity)).size, selected.length);
+});
+
 test('se restarem menos inéditas que o tamanho solicitado, completa com questões anteriores sem duplicar', () => {
   const seen = Q.slice(0, Q.length - 5).map(q => q.id);
   const selected = G.selectFresh(Q, seen, 50);
